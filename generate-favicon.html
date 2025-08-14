@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>生成网站图标</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .icon-preview {
+            text-align: center;
+            margin: 20px 0;
+            padding: 20px;
+            border: 2px dashed #ddd;
+            border-radius: 10px;
+        }
+        .download-btn {
+            background: #dc2626;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            margin: 10px;
+        }
+        .download-btn:hover {
+            background: #991b1b;
+        }
+        .instructions {
+            background: #f0f9ff;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>语音交流平台 - 网站图标生成器</h1>
+        
+        <div class="icon-preview">
+            <h3>图标预览</h3>
+            <canvas id="faviconCanvas" width="32" height="32" style="border: 1px solid #ccc; margin: 10px;"></canvas>
+            <br>
+            <canvas id="faviconCanvasLarge" width="128" height="128" style="border: 1px solid #ccc; margin: 10px;"></canvas>
+        </div>
+        
+        <div style="text-align: center;">
+            <button class="download-btn" onclick="downloadIcon(32)">下载 32x32 PNG</button>
+            <button class="download-btn" onclick="downloadIcon(64)">下载 64x64 PNG</button>
+            <button class="download-btn" onclick="downloadIcon(128)">下载 128x128 PNG</button>
+        </div>
+        
+        <div class="instructions">
+            <h3>使用说明：</h3>
+            <ol>
+                <li>点击上面的按钮下载不同尺寸的PNG图标</li>
+                <li>将下载的文件重命名为 <code>favicon.png</code></li>
+                <li>将文件放在您的网站根目录下</li>
+                <li>刷新浏览器页面即可看到新的网站图标</li>
+            </ol>
+        </div>
+    </div>
+
+    <script>
+        function drawIcon(canvas, size) {
+            const ctx = canvas.getContext('2d');
+            const scale = size / 32;
+            
+            // 清空画布
+            ctx.clearRect(0, 0, size, size);
+            
+            // 绘制背景圆形
+            ctx.fillStyle = '#dc2626';
+            ctx.beginPath();
+            ctx.arc(size/2, size/2, size/2 - 2*scale, 0, 2 * Math.PI);
+            ctx.fill();
+            
+            // 绘制边框
+            ctx.strokeStyle = '#991b1b';
+            ctx.lineWidth = 2 * scale;
+            ctx.stroke();
+            
+            // 绘制语音波形
+            ctx.fillStyle = 'rgba(255, 255, 255, 0.9)';
+            const barWidth = 2 * scale;
+            const bars = [
+                {x: 8, y: 12, h: 8},
+                {x: 11, y: 10, h: 12},
+                {x: 14, y: 8, h: 16},
+                {x: 17, y: 10, h: 12},
+                {x: 20, y: 12, h: 8}
+            ];
+            
+            bars.forEach((bar, index) => {
+                const x = bar.x * scale;
+                const y = bar.y * scale;
+                const h = bar.h * scale;
+                
+                ctx.fillRect(x, y, barWidth, h);
+            });
+            
+            // 绘制对话气泡
+            ctx.strokeStyle = 'rgba(255, 255, 255, 0.7)';
+            ctx.lineWidth = 1.5 * scale;
+            ctx.beginPath();
+            ctx.roundRect(24 * scale, 20 * scale, 8 * scale, 8 * scale, 2 * scale);
+            ctx.stroke();
+            
+            // 绘制对话点
+            ctx.fillStyle = 'rgba(255, 255, 255, 0.8)';
+            ctx.beginPath();
+            ctx.arc(14 * scale, 16 * scale, 1 * scale, 0, 2 * Math.PI);
+            ctx.fill();
+            ctx.beginPath();
+            ctx.arc(18 * scale, 16 * scale, 1 * scale, 0, 2 * Math.PI);
+            ctx.fill();
+        }
+        
+        function downloadIcon(size) {
+            const canvas = document.createElement('canvas');
+            canvas.width = size;
+            canvas.height = size;
+            drawIcon(canvas, size);
+            
+            const link = document.createElement('a');
+            link.download = `favicon-${size}x${size}.png`;
+            link.href = canvas.toDataURL();
+            link.click();
+        }
+        
+        // 页面加载时绘制预览
+        window.onload = function() {
+            drawIcon(document.getElementById('faviconCanvas'), 32);
+            drawIcon(document.getElementById('faviconCanvasLarge'), 128);
+        };
+        
+        // 添加 roundRect 方法的 polyfill
+        if (!CanvasRenderingContext2D.prototype.roundRect) {
+            CanvasRenderingContext2D.prototype.roundRect = function(x, y, width, height, radius) {
+                this.beginPath();
+                this.moveTo(x + radius, y);
+                this.lineTo(x + width - radius, y);
+                this.quadraticCurveTo(x + width, y, x + width, y + radius);
+                this.lineTo(x + width, y + height - radius);
+                this.quadraticCurveTo(x + width, y + height, x + width - radius, y + height);
+                this.lineTo(x + radius, y + height);
+                this.quadraticCurveTo(x, y + height, x, y + height - radius);
+                this.lineTo(x, y + radius);
+                this.quadraticCurveTo(x, y, x + radius, y);
+                this.closePath();
+            };
+        }
+    </script>
+</body>
+</html>

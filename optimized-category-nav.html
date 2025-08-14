@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>优化后的分类导航</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <style>
+        /* 演示页面样式 */
+        body {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            margin: 0;
+            padding: 20px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            min-height: 100vh;
+        }
+        
+        .demo-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+        }
+        
+        .demo-header {
+            background: linear-gradient(135deg, #FF6B6B 0%, #FF8E8E 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        
+        .demo-header h1 {
+            margin: 0;
+            font-size: 28px;
+            font-weight: 700;
+        }
+        
+        .demo-header p {
+            margin: 10px 0 0 0;
+            opacity: 0.9;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <div class="demo-container">
+        <div class="demo-header">
+            <h1>🎨 优化后的分类导航</h1>
+            <p>现代化的设计，流畅的动画效果，优秀的用户体验</p>
+        </div>
+        
+        <div class="main-content-area">
+            <!-- 左侧：分类导航 -->
+            <div class="sidebar-left">
+                <div class="category-nav">
+                    <div class="nav-section">
+                        <h3 class="nav-title">分类浏览</h3>
+                        <div class="nav-list">
+                            <button class="nav-item active" data-category="all" data-tooltip="查看所有知识条目">
+                                <div class="nav-icon" data-category="all">📚</div>
+                                <div class="nav-content">
+                                    <div class="nav-name">全部知识</div>
+                                    <div class="nav-count">208 条目</div>
+                                </div>
+                            </button>
+                            
+                            <button class="nav-item" data-category="traditionalFoods" data-tooltip="探索中国传统美食文化">
+                                <div class="nav-icon" data-category="traditionalFoods">🍜</div>
+                                <div class="nav-content">
+                                    <div class="nav-name">传统美食</div>
+                                    <div class="nav-count">36 条目</div>
+                                </div>
+                            </button>
+                            
+                            <button class="nav-item" data-category="traditionalCrafts" data-tooltip="了解传统工艺技艺">
+                                <div class="nav-icon" data-category="traditionalCrafts">🏺</div>
+                                <div class="nav-content">
+                                    <div class="nav-name">传统工艺</div>
+                                    <div class="nav-count">40 条目</div>
+                                </div>
+                            </button>
+                            
+                            <button class="nav-item" data-category="traditionalOpera" data-tooltip="体验传统戏曲艺术">
+                                <div class="nav-icon" data-category="traditionalOpera">🎭</div>
+                                <div class="nav-content">
+                                    <div class="nav-name">传统戏曲</div>
+                                    <div class="nav-count">48 条目</div>
+                                </div>
+                            </button>
+                            
+                            <button class="nav-item" data-category="traditionalFestivals" data-tooltip="感受传统节日氛围">
+                                <div class="nav-icon" data-category="traditionalFestivals">🏮</div>
+                                <div class="nav-content">
+                                    <div class="nav-name">传统节日</div>
+                                    <div class="nav-count">25 条目</div>
+                                </div>
+                            </button>
+                            
+                            <button class="nav-item" data-category="traditionalMedicine" data-tooltip="探索传统医药智慧">
+                                <div class="nav-icon" data-category="traditionalMedicine">🌿</div>
+                                <div class="nav-content">
+                                    <div class="nav-name">传统医药</div>
+                                    <div class="nav-count">40 条目</div>
+                                </div>
+                            </button>
+                            
+                            <button class="nav-item" data-category="traditionalArchitecture" data-tooltip="欣赏传统建筑之美">
+                                <div class="nav-icon" data-category="traditionalArchitecture">🏛️</div>
+                                <div class="nav-content">
+                                    <div class="nav-name">传统建筑</div>
+                                    <div class="nav-count">19 条目</div>
+                                </div>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 右侧：内容区域 -->
+            <div class="sidebar-right">
+                <div style="padding: 40px; text-align: center; color: #64748b;">
+                    <h2 style="color: #1e293b; margin-bottom: 20px;">✨ 优化特性</h2>
+                    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin-top: 30px;">
+                        <div style="background: #f8fafc; padding: 20px; border-radius: 12px; border-left: 4px solid #FF6B6B;">
+                            <h3 style="color: #1e293b; margin: 0 0 10px 0;">🎨 现代化设计</h3>
+                            <p style="margin: 0; color: #64748b;">采用渐变背景、圆角设计和阴影效果，营造现代感</p>
+                        </div>
+                        <div style="background: #f8fafc; padding: 20px; border-radius: 12px; border-left: 4px solid #4ecdc4;">
+                            <h3 style="color: #1e293b; margin: 0 0 10px 0;">⚡ 流畅动画</h3>
+                            <p style="margin: 0; color: #64748b;">悬停效果、点击波纹、图标动画等丰富的交互反馈</p>
+                        </div>
+                        <div style="background: #f8fafc; padding: 20px; border-radius: 12px; border-left: 4px solid #45b7d1;">
+                            <h3 style="color: #1e293b; margin: 0 0 10px 0;">📱 响应式设计</h3>
+                            <p style="margin: 0; color: #64748b;">适配不同屏幕尺寸，移动端友好</p>
+                        </div>
+                        <div style="background: #f8fafc; padding: 20px; border-radius: 12px; border-left: 4px solid #f093fb;">
+                            <h3 style="color: #1e293b; margin: 0 0 10px 0;">🌙 深色模式</h3>
+                            <p style="margin: 0; color: #64748b;">自动适配系统深色模式偏好</p>
+                        </div>
+                        <div style="background: #f8fafc; padding: 20px; border-radius: 12px; border-left: 4px solid #4facfe;">
+                            <h3 style="color: #1e293b; margin: 0 0 10px 0;">♿ 无障碍支持</h3>
+                            <p style="margin: 0; color: #64748b;">键盘导航、焦点状态、语义化标签</p>
+                        </div>
+                        <div style="background: #f8fafc; padding: 20px; border-radius: 12px; border-left: 4px solid #43e97b;">
+                            <h3 style="color: #1e293b; margin: 0 0 10px 0;">🎯 用户体验</h3>
+                            <p style="margin: 0; color: #64748b;">工具提示、加载状态、视觉反馈</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // 简单的交互演示
+        document.querySelectorAll('.nav-item').forEach(item => {
+            item.addEventListener('click', function() {
+                // 移除所有活跃状态
+                document.querySelectorAll('.nav-item').forEach(nav => {
+                    nav.classList.remove('active');
+                });
+                
+                // 添加活跃状态到当前项
+                this.classList.add('active');
+                
+                // 模拟加载状态
+                this.classList.add('loading');
+                setTimeout(() => {
+                    this.classList.remove('loading');
+                }, 1000);
+                
+                // 显示选中的分类
+                const category = this.getAttribute('data-category');
+                const name = this.querySelector('.nav-name').textContent;
+                console.log(`选中分类: ${name} (${category})`);
+            });
+        });
+    </script>
+</body>
+</html>

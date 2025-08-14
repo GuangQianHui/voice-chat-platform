@@ -1,0 +1,5877 @@
+{
+  "traditionalCrafts": {
+    "mebjgf779xcakoojv4": {
+      "id": "mebjgf779xcakoojv4",
+      "category": "traditionalCrafts",
+      "title": "产品包装",
+      "type": "traditionalCrafts",
+      "content": "独特，新颖",
+      "description": "独特，新颖",
+      "history": "",
+      "keywords": [
+        "售卖，产品"
+      ],
+      "tags": [
+        "工艺"
+      ],
+      "icon": "fa-gem",
+      "media": [
+        {
+          "name": "微信图片_20250814231038_1808.jpg",
+          "type": "image",
+          "size": 1201252,
+          "url": "http://121.40.185.158:3000/resources/images/2025-08-14T15-12-47______________20250814231038_1808.jpg"
+        },
+        {
+          "name": "微信图片_20250814231056_1809.jpg",
+          "type": "image",
+          "size": 982049,
+          "url": "http://121.40.185.158:3000/resources/images/2025-08-14T15-12-47______________20250814231056_1809.jpg"
+        },
+        {
+          "name": "微信图片_20250814231100_1810.jpg",
+          "type": "image",
+          "size": 1001511,
+          "url": "http://121.40.185.158:3000/resources/images/2025-08-14T15-12-47______________20250814231100_1810.jpg"
+        },
+        {
+          "name": "微信图片_20250814231104_1811.jpg",
+          "type": "image",
+          "size": 866314,
+          "url": "http://121.40.185.158:3000/resources/images/2025-08-14T15-12-48______________20250814231104_1811.jpg"
+        },
+        {
+          "name": "微信图片_20250814231110_1811.jpg",
+          "type": "image",
+          "size": 866314,
+          "url": "http://121.40.185.158:3000/resources/images/2025-08-14T15-12-48______________20250814231110_1811.jpg"
+        },
+        {
+          "name": "微信图片_20250814231114_1812.jpg",
+          "type": "image",
+          "size": 1001115,
+          "url": "http://121.40.185.158:3000/resources/images/2025-08-14T15-12-48______________20250814231114_1812.jpg"
+        },
+        {
+          "name": "微信图片_20250814231119_1813.jpg",
+          "type": "image",
+          "size": 957991,
+          "url": "http://121.40.185.158:3000/resources/images/2025-08-14T15-12-48______________20250814231119_1813.jpg"
+        },
+        {
+          "name": "微信图片_20250814231124_1814.jpg",
+          "type": "image",
+          "size": 849005,
+          "url": "http://121.40.185.158:3000/resources/images/2025-08-14T15-12-48______________20250814231124_1814.jpg"
+        }
+      ],
+      "createdAt": "2025-08-14T15:12:49.651Z",
+      "updatedAt": "2025-08-14T15:12:49.651Z"
+    }
+  },
+  "traditionalFoods": {
+    "me6ga9nkda33ldjwm54": {
+      "id": "me6ga9nkda33ldjwm54",
+      "category": "traditionalFoods",
+      "title": "绿豆糕的制作",
+      "type": "traditionalFoods",
+      "content": "香甜可口，老少皆宜",
+      "description": "香甜可口，老少皆宜",
+      "history": "",
+      "keywords": [
+        "香甜可口，老少皆宜"
+      ],
+      "tags": [
+        "糕点"
+      ],
+      "icon": "fa-utensils",
+      "media": [
+        {
+          "name": "切.mp4",
+          "type": "video",
+          "size": 2366960,
+          "url": "http://121.40.185.158:3000/resources/videos/2025-08-11T01-45-45____.mp4"
+        },
+        {
+          "name": "装盒售卖.mp4",
+          "type": "video",
+          "size": 8549421,
+          "url": "http://121.40.185.158:3000/resources/videos/2025-08-11T01-45-45_____________.mp4"
+        }
+      ],
+      "createdAt": "2025-08-11T01:45:12.800Z",
+      "updatedAt": "2025-08-11T01:45:50.201Z"
+    },
+    "me5hrd99k31d0lcn4k8": {
+      "id": "me5hrd99k31d0lcn4k8",
+      "category": "traditionalFoods",
+      "title": "中秋文案",
+      "type": "traditionalFoods",
+      "content": "文案",
+      "description": "文案",
+      "history": "",
+      "keywords": [],
+      "tags": [],
+      "icon": "",
+      "media": [
+        {
+          "name": "月圆中秋.docx",
+          "type": "document",
+          "size": 18570,
+          "url": "http://121.40.185.158:3000/resources/documents/2025-08-10T09-38-41_____________.docx"
+        }
+      ],
+      "createdAt": "2025-08-10T09:38:44.061Z",
+      "updatedAt": "2025-08-10T09:38:44.061Z"
+    },
+    "me50efwzhkw2zrxx9f": {
+      "id": "me50efwzhkw2zrxx9f",
+      "category": "traditionalFoods",
+      "title": "香菜制作",
+      "type": "traditionalFoods",
+      "content": "要经过洗、切、晒、腌、拌等 20 多道工序。将高杆白菜收购回来后，先晒半天太阳，再洗净、晾干，切成小手指宽的条状，控去水分后铺在竹排上晾晒两至三天，用粗盐腌制后搁置十几个小时，用纱布包好拧干水分，最后用蒜泥、白糖、粗辣椒、细辣椒、芝麻等作为拌料，淋上微热的特制香油拌匀，装进瓶子闷上几天。",
+      "description": "要经过洗、切、晒、腌、拌等 20 多道工序。将高杆白菜收购回来后，先晒半天太阳，再洗净、晾干，切成小手指宽的条状，控去水分后铺在竹排上晾晒两至三天，用粗盐腌制后搁置十几个小时，用纱布包好拧干水分，最后用蒜泥、白糖、粗辣椒、细辣椒、芝麻等作为拌料，淋上微热的特制香油拌匀，装进瓶子闷上几天。",
+      "history": "",
+      "keywords": [
+        "传统文化"
+      ],
+      "tags": [
+        "纯手工",
+        "传统"
+      ],
+      "icon": "fa-utensils",
+      "media": [
+        {
+          "name": "挑选香菜.mp4",
+          "type": "video",
+          "size": 17255946,
+          "url": "http://121.40.185.158:3000/resources/videos/2025-08-10T01-27-32_____________.mp4"
+        },
+        {
+          "name": "洗＋滤水.mp4",
+          "type": "video",
+          "size": 13451156,
+          "url": "http://121.40.185.158:3000/resources/videos/2025-08-10T01-28-03_____________.mp4"
+        },
+        {
+          "name": "切.mp4",
+          "type": "video",
+          "size": 2565937,
+          "url": "http://121.40.185.158:3000/resources/videos/2025-08-10T01-27-53____.mp4"
+        },
+        {
+          "name": "挤干水分.mp4",
+          "type": "video",
+          "size": 5957209,
+          "url": "http://121.40.185.158:3000/resources/videos/2025-08-10T01-28-35_____________.mp4"
+        },
+        {
+          "name": "晾晒.mp4",
+          "type": "video",
+          "size": 4856460,
+          "url": "http://121.40.185.158:3000/resources/videos/2025-08-10T01-28-39_______.mp4"
+        },
+        {
+          "name": "用盐揉搓.mp4",
+          "type": "video",
+          "size": 11091978,
+          "url": "http://121.40.185.158:3000/resources/videos/2025-08-10T01-28-40_____________.mp4"
+        },
+        {
+          "name": "加料调味.mp4",
+          "type": "video",
+          "size": 25227080,
+          "url": "http://121.40.185.158:3000/resources/videos/2025-08-10T01-29-05_____________.mp4"
+        },
+        {
+          "name": "搅拌翻炒.mp4",
+          "type": "video",
+          "size": 8835260,
+          "url": "http://121.40.185.158:3000/resources/videos/2025-08-10T01-29-16_____________.mp4"
+        },
+        {
+          "name": "装罐.mp4",
+          "type": "video",
+          "size": 8966688,
+          "url": "http://121.40.185.158:3000/resources/videos/2025-08-10T01-29-17_______.mp4"
+        }
+      ],
+      "createdAt": "2025-08-10T01:32:47.507Z",
+      "updatedAt": "2025-08-10T01:32:47.507Z"
+    },
+    "me4zyhjcft20vdeiyxl": {
+      "id": "me4zyhjcft20vdeiyxl",
+      "category": "traditionalFoods",
+      "title": "中秋宣传口号",
+      "type": "traditionalFoods",
+      "content": "中秋节是中国四大传统节日之一，蕴含着深厚的文化底蕴和历史渊源，其形成与发展贯穿了数千年的文明进程。",
+      "description": "中秋节是中国四大传统节日之一，蕴含着深厚的文化底蕴和历史渊源，其形成与发展贯穿了数千年的文明进程。",
+      "history": "",
+      "keywords": [
+        "传统文化"
+      ],
+      "tags": [
+        "AI制作",
+        "宣传"
+      ],
+      "icon": "fa-gem",
+      "media": [
+        {
+          "name": "中秋宣传口号.docx",
+          "type": "document",
+          "size": 19420,
+          "url": "http://121.40.185.158:3000/resources/documents/2025-08-10T01-19-55___________________.docx"
+        }
+      ],
+      "createdAt": "2025-08-10T01:20:23.112Z",
+      "updatedAt": "2025-08-10T01:20:23.113Z"
+    },
+    "me4zuiuupxhv9fcebw": {
+      "id": "me4zuiuupxhv9fcebw",
+      "category": "traditionalFoods",
+      "title": "中秋海报",
+      "type": "traditionalFoods",
+      "content": "中秋节是中国四大传统节日之一，蕴含着深厚的文化底蕴和历史渊源，其形成与发展贯穿了数千年的文明进程。",
+      "description": "中秋节是中国四大传统节日之一，蕴含着深厚的文化底蕴和历史渊源，其形成与发展贯穿了数千年的文明进程。",
+      "history": "",
+      "keywords": [
+        "文化"
+      ],
+      "tags": [
+        "AI制作"
+      ],
+      "icon": "fa-gem",
+      "media": [
+        {
+          "name": "1.jpg",
+          "type": "image",
+          "size": 288667,
+          "url": "http://121.40.185.158:3000/resources/images/2025-08-10T01-16-34_1.jpg"
+        },
+        {
+          "name": "2.jpg",
+          "type": "image",
+          "size": 275871,
+          "url": "http://121.40.185.158:3000/resources/images/2025-08-10T01-16-43_2.jpg"
+        },
+        {
+          "name": "3.jpg",
+          "type": "image",
+          "size": 302627,
+          "url": "http://121.40.185.158:3000/resources/images/2025-08-10T01-16-43_3.jpg"
+        },
+        {
+          "name": "4.jpg",
+          "type": "image",
+          "size": 193487,
+          "url": "http://121.40.185.158:3000/resources/images/2025-08-10T01-16-43_4.jpg"
+        },
+        {
+          "name": "5.jpg",
+          "type": "image",
+          "size": 234114,
+          "url": "http://121.40.185.158:3000/resources/images/2025-08-10T01-16-55_5.jpg"
+        },
+        {
+          "name": "6.jpg",
+          "type": "image",
+          "size": 302493,
+          "url": "http://121.40.185.158:3000/resources/images/2025-08-10T01-16-56_6.jpg"
+        },
+        {
+          "name": "7.jpg",
+          "type": "image",
+          "size": 347857,
+          "url": "http://121.40.185.158:3000/resources/images/2025-08-10T01-16-56_7.jpg"
+        },
+        {
+          "name": "8.jpg",
+          "type": "image",
+          "size": 309114,
+          "url": "http://121.40.185.158:3000/resources/images/2025-08-10T01-16-56_8.jpg"
+        },
+        {
+          "name": "10.jpg",
+          "type": "image",
+          "size": 237083,
+          "url": "http://121.40.185.158:3000/resources/images/2025-08-10T01-16-56_10.jpg"
+        },
+        {
+          "name": "11.jpg",
+          "type": "image",
+          "size": 215082,
+          "url": "http://121.40.185.158:3000/resources/images/2025-08-10T01-16-56_11.jpg"
+        },
+        {
+          "name": "12.jpg",
+          "type": "image",
+          "size": 164138,
+          "url": "http://121.40.185.158:3000/resources/images/2025-08-10T01-17-03_12.jpg"
+        }
+      ],
+      "createdAt": "2025-08-10T01:17:18.198Z",
+      "updatedAt": "2025-08-10T01:17:18.198Z"
+    },
+    "me4zmgkn74wtpanbdm7": {
+      "id": "me4zmgkn74wtpanbdm7",
+      "category": "traditionalFoods",
+      "title": "中秋优惠",
+      "type": "traditionalFoods",
+      "content": "中秋节是中国四大传统节日之一，蕴含着深厚的文化底蕴和历史渊源，其形成与发展贯穿了数千年的文明进程。",
+      "description": "中秋节是中国四大传统节日之一，蕴含着深厚的文化底蕴和历史渊源，其形成与发展贯穿了数千年的文明进程。",
+      "history": "",
+      "keywords": [
+        "文化"
+      ],
+      "tags": [
+        "AI制作",
+        "优惠"
+      ],
+      "icon": "fa-gem",
+      "media": [
+        {
+          "name": "中秋优惠活动.docx",
+          "type": "document",
+          "size": 21740,
+          "url": "http://121.40.185.158:3000/resources/documents/2025-08-10T01-10-12___________________.docx"
+        }
+      ],
+      "createdAt": "2025-08-10T01:11:01.991Z",
+      "updatedAt": "2025-08-10T01:11:01.991Z"
+    },
+    "me4zl9v768ut82x09mc": {
+      "id": "me4zl9v768ut82x09mc",
+      "category": "traditionalFoods",
+      "title": "中秋策划文案",
+      "type": "traditionalFoods",
+      "content": "中秋节是中国四大传统节日之一，蕴含着深厚的文化底蕴和历史渊源，其形成与发展贯穿了数千年的文明进程。",
+      "description": "中秋节是中国四大传统节日之一，蕴含着深厚的文化底蕴和历史渊源，其形成与发展贯穿了数千年的文明进程。",
+      "history": "",
+      "keywords": [
+        "文化"
+      ],
+      "tags": [
+        "AI制作"
+      ],
+      "icon": "fa-gem",
+      "media": [
+        {
+          "name": "中秋策划文案.docx",
+          "type": "document",
+          "size": 22473,
+          "url": "http://121.40.185.158:3000/resources/documents/2025-08-10T01-10-02___________________.docx"
+        }
+      ],
+      "createdAt": "2025-08-10T01:10:06.643Z",
+      "updatedAt": "2025-08-10T01:10:06.643Z"
+    },
+    "me4zbjyzevxx1k9oqqu": {
+      "id": "me4zbjyzevxx1k9oqqu",
+      "category": "traditionalFoods",
+      "title": "中秋新品",
+      "type": "traditionalFoods",
+      "content": "中秋节是中国四大传统节日之一，蕴含着深厚的文化底蕴和历史渊源，其形成与发展贯穿了数千年的文明进程。",
+      "description": "中秋节是中国四大传统节日之一，蕴含着深厚的文化底蕴和历史渊源，其形成与发展贯穿了数千年的文明进程。",
+      "history": "",
+      "keywords": [
+        "月饼"
+      ],
+      "tags": [
+        "传统",
+        "纯手工"
+      ],
+      "icon": "fa-utensils",
+      "media": [
+        {
+          "name": "中秋月饼新品.docx",
+          "type": "document",
+          "size": 17109,
+          "url": "http://121.40.185.158:3000/resources/documents/2025-08-10T01-01-12___________________.docx"
+        }
+      ],
+      "createdAt": "2025-08-10T01:02:33.179Z",
+      "updatedAt": "2025-08-10T01:02:33.179Z"
+    },
+    "me4z7x2cvzmk3dhcimd": {
+      "id": "me4z7x2cvzmk3dhcimd",
+      "category": "traditionalFoods",
+      "title": "中秋宣传视频",
+      "type": "traditionalFoods",
+      "content": "中秋节是中国四大传统节日之一，蕴含着深厚的文化底蕴和历史渊源，其形成与发展贯穿了数千年的文明进程。",
+      "description": "中秋节是中国四大传统节日之一，蕴含着深厚的文化底蕴和历史渊源，其形成与发展贯穿了数千年的文明进程。",
+      "history": "",
+      "keywords": [
+        "传统文化"
+      ],
+      "tags": [
+        "AI制作"
+      ],
+      "icon": "fa-music",
+      "media": [
+        {
+          "name": "中秋微观小人.mp4",
+          "type": "video",
+          "size": 27383143,
+          "url": "http://121.40.185.158:3000/resources/videos/2025-08-10T00-59-24___________________.mp4"
+        }
+      ],
+      "createdAt": "2025-08-10T00:59:43.524Z",
+      "updatedAt": "2025-08-10T00:59:43.524Z"
+    },
+    "小笼包": {
+      "id": "小笼包",
+      "title": "小笼包",
+      "description": "江南名点，皮薄馅多、汤汁丰盈，以上海南翔小笼最负盛名",
+      "content": "以发酵面皮包肉馅与皮冻，蒸后皮薄半透明，提篙不破、轻咬出汤。",
+      "category": "traditionalFoods",
+      "tags": [
+        "江南点心",
+        "蒸点",
+        "汤包",
+        "南翔"
+      ],
+      "keywords": [
+        "小笼包",
+        "汤包",
+        "南翔小笼"
+      ],
+      "history": "清末在江南地区流行，今成上海代表性小吃。",
+      "technique": "和面发酵；皮冻入馅；收口打褶；旺火蒸熟。",
+      "features": "皮薄汁多、鲜香不腻，蘸陈醋姜丝更佳。",
+      "funFact": "“提、捏、移、蘸、啜、咬”六字吃法广为流传。",
+      "media": [],
+      "createdAt": "2025-08-09T17:30:00.000Z",
+      "updatedAt": "2025-08-09T17:30:00.000Z",
+      "type": "traditionalFoods",
+      "icon": "fa-utensils"
+    },
+    "生煎": {
+      "id": "生煎",
+      "title": "生煎",
+      "description": "沪上名点，底脆皮薄，内含鲜美汤汁与肉馅",
+      "content": "生煎包以半发面皮包肉馅，平底锅小火煎至底壳金黄，撒葱芝麻提香。",
+      "category": "traditionalFoods",
+      "tags": [
+        "上海",
+        "煎点",
+        "面点",
+        "汤汁"
+      ],
+      "keywords": [
+        "生煎包",
+        "生煎",
+        "上海生煎"
+      ],
+      "history": "20世纪初在上海成名，成为市井经典早餐。",
+      "technique": "包制醒发；平底锅煎制加水焖；收干撒芝麻葱花。",
+      "features": "底脆面香、馅鲜多汁。",
+      "funFact": "常与小馄饨搭配称“生煎小馄饨”。",
+      "media": [],
+      "createdAt": "2025-08-09T17:30:00.000Z",
+      "updatedAt": "2025-08-09T17:30:00.000Z",
+      "type": "traditionalFoods",
+      "icon": "fa-utensils"
+    },
+    "肠粉": {
+      "id": "肠粉",
+      "title": "肠粉",
+      "description": "广式经典粉点，米浆蒸成薄皮裹馅，爽滑鲜香",
+      "content": "以米浆摊蒸成薄粉皮，裹入叉烧、牛肉、鲜虾或蛋菜，卷起淋豉油。",
+      "category": "traditionalFoods",
+      "tags": [
+        "粤式",
+        "粉点",
+        "蒸食",
+        "早茶"
+      ],
+      "keywords": [
+        "肠粉",
+        "广式肠粉",
+        "米浆"
+      ],
+      "history": "源于岭南街头风味，后走入茶楼早茶体系。",
+      "technique": "浸米磨浆；薄摊速蒸；裹馅成卷；淋酱趁热食。",
+      "features": "皮薄透亮、口感爽滑、酱香浓郁。",
+      "funFact": "“牛肉肠”“虾肠”“斋肠”各有拥趸。",
+      "media": [],
+      "createdAt": "2025-08-09T17:30:00.000Z",
+      "updatedAt": "2025-08-09T17:30:00.000Z",
+      "type": "traditionalFoods",
+      "icon": "fa-utensils"
+    },
+    "虾饺": {
+      "id": "虾饺",
+      "title": "虾饺",
+      "description": "粤式点心“点心之冠”，通透饺皮包鲜虾，爽脆清甜",
+      "content": "以澄粉与小麦淀粉制通透外皮，包入切粒鲜虾与笋，蒸后晶莹剔透。",
+      "category": "traditionalFoods",
+      "tags": [
+        "粤式",
+        "早茶",
+        "蒸点",
+        "澄粉"
+      ],
+      "keywords": [
+        "虾饺",
+        "虾饺皇",
+        "早茶三宝"
+      ],
+      "history": "岭南渔港风味演进为茶楼名点。",
+      "technique": "和澄粉制皮；拌虾胶；捏褶成月牙；旺火速蒸。",
+      "features": "皮薄通透、虾脆甜鲜。",
+      "funFact": "与凤爪、叉烧包并称“早茶三宝”。",
+      "media": [],
+      "createdAt": "2025-08-09T17:30:00.000Z",
+      "updatedAt": "2025-08-09T17:30:00.000Z",
+      "type": "traditionalFoods",
+      "icon": "fa-utensils"
+    },
+    "叫花鸡": {
+      "id": "叫花鸡",
+      "title": "叫花鸡",
+      "description": "江南名肴，荷叶泥封慢烤，肉质酥香入味",
+      "content": "整鸡腌渍后包荷叶外抹黄泥封缝，慢火烤至外泥裂香，鸡肉鲜嫩多汁。",
+      "category": "traditionalFoods",
+      "tags": [
+        "江南",
+        "焗烤",
+        "荷叶",
+        "整鸡"
+      ],
+      "keywords": [
+        "叫花鸡",
+        "泥烤鸡",
+        "荷叶鸡"
+      ],
+      "history": "相传出自民间“泥封烤”法，后为名厨改良定型。",
+      "technique": "腌鸡入味；荷叶包裹；泥封；慢火焗烤。",
+      "features": "封香入骨、皮香肉嫩、荷叶清香。",
+      "funFact": "拆泥启封自带“开盲盒”仪式感。",
+      "media": [],
+      "createdAt": "2025-08-09T17:30:00.000Z",
+      "updatedAt": "2025-08-09T17:30:00.000Z",
+      "type": "traditionalFoods",
+      "icon": "fa-utensils"
+    },
+    "松鼠鳜鱼": {
+      "id": "松鼠鳜鱼",
+      "title": "松鼠鳜鱼",
+      "description": "苏帮名菜，刀花炸制后淋糖醋汁，形似松鼠",
+      "content": "整鳜鱼去骨打花炸酥，外脆里嫩，临出锅淋糖醋卤，酸甜可口。",
+      "category": "traditionalFoods",
+      "tags": [
+        "苏菜",
+        "炸制",
+        "糖醋",
+        "刀工"
+      ],
+      "keywords": [
+        "松鼠桂鱼",
+        "糖醋鱼",
+        "苏帮菜"
+      ],
+      "history": "清代姑苏名肆发扬，成宴席名品。",
+      "technique": "去骨打花；裹粉炸酥；糖醋卤勾芡淋面。",
+      "features": "外酥里嫩、酸甜开胃、造型雅致。",
+      "funFact": "热油冲卤时伴随“吱啦”声，似松鼠鸣叫。",
+      "media": [],
+      "createdAt": "2025-08-09T17:30:00.000Z",
+      "updatedAt": "2025-08-09T17:30:00.000Z",
+      "type": "traditionalFoods",
+      "icon": "fa-utensils"
+    },
+    "西湖醋鱼": {
+      "id": "西湖醋鱼",
+      "title": "西湖醋鱼",
+      "description": "江南名肴，鲜活草鱼以糖醋汁现浇，酸甜鲜嫩",
+      "content": "鲜活草鱼入滚水定型，出锅后以热糖醋卤淋身，鱼肉鲜嫩、酸甜适口。",
+      "category": "traditionalFoods",
+      "tags": [
+        "浙菜",
+        "糖醋",
+        "草鱼",
+        "现浇"
+      ],
+      "keywords": [
+        "西湖醋鱼",
+        "宋嫂鱼",
+        "杭州菜"
+      ],
+      "history": "杭州西湖名菜，故事典故丰富。",
+      "technique": "活鱼处理；滚水定型；糖醋卤勾芡现浇。",
+      "features": "鲜、嫩、酸甜和谐，无需重油重盐。",
+      "funFact": "又称“宋嫂鱼羹”的传说相关但做法不同。",
+      "media": [],
+      "createdAt": "2025-08-09T17:30:00.000Z",
+      "updatedAt": "2025-08-09T17:30:00.000Z",
+      "type": "traditionalFoods",
+      "icon": "fa-utensils"
+    },
+    "臭鳜鱼": {
+      "id": "臭鳜鱼",
+      "title": "臭鳜鱼",
+      "description": "徽菜名品，经轻度发酵后红烧，外酥里嫩、酱香浓郁",
+      "content": "选鳜鱼短期腌渍发酵，冲洗后油炸定型，配酱料红烧至入味。",
+      "category": "traditionalFoods",
+      "tags": [
+        "徽菜",
+        "发酵",
+        "红烧",
+        "鳜鱼"
+      ],
+      "keywords": [
+        "臭鳜鱼",
+        "徽州菜",
+        "发酵鱼"
+      ],
+      "history": "徽州山区保存运输条件促成独特风味的产生。",
+      "technique": "短期发酵；炸定型；酱烧收汁。",
+      "features": "酱香浓郁、外酥里嫩、回味悠长。",
+      "funFact": "“臭”指发酵风味，并非变质。",
+      "media": [],
+      "createdAt": "2025-08-09T17:30:00.000Z",
+      "updatedAt": "2025-08-09T17:30:00.000Z",
+      "type": "traditionalFoods",
+      "icon": "fa-utensils"
+    },
+    "葱烧海参": {
+      "id": "葱烧海参",
+      "title": "葱烧海参",
+      "description": "鲁菜代表，海参与大葱合烧，滋而不腻",
+      "content": "发制海参与大葱同焖，加入高汤与酱油糖，收汁入味，重在火候与葱香。",
+      "category": "traditionalFoods",
+      "tags": [
+        "鲁菜",
+        "海参",
+        "焖烧",
+        "高汤"
+      ],
+      "keywords": [
+        "葱烧海参",
+        "鲁菜名品",
+        "大葱"
+      ],
+      "history": "胶东海产配齐鲁葱香，形成经典名菜。",
+      "technique": "海参规范发制；葱段煸香；小火焖烧至入味。",
+      "features": "质地软糯、葱香浓郁、汤汁醇厚。",
+      "funFact": "讲究“葱要炸透不糊、参要软糯不烂”。",
+      "media": [],
+      "createdAt": "2025-08-09T17:30:00.000Z",
+      "updatedAt": "2025-08-09T17:30:00.000Z",
+      "type": "traditionalFoods",
+      "icon": "fa-utensils"
+    },
+    "宫保鸡丁": {
+      "id": "宫保鸡丁",
+      "title": "宫保鸡丁",
+      "description": "川菜名品，以鸡丁配花生米，咸甜辛辣兼备，酸香开胃",
+      "content": "鸡丁挂糊快炒，加入干辣椒、花椒与花生米，复合味型咸甜微酸，脆香可口。",
+      "category": "traditionalFoods",
+      "tags": [
+        "川菜",
+        "爆炒",
+        "花生",
+        "下饭"
+      ],
+      "keywords": [
+        "宫保鸡丁",
+        "川菜",
+        "花生米"
+      ],
+      "history": "与丁宝桢相关的掌故广为流传，后衍生多地版本。",
+      "technique": "鸡丁腌制挂糊；小火煸香干辣椒；快炒勾芡。",
+      "features": "外酥里嫩、酸甜麻辣平衡。",
+      "funFact": "国外中餐馆“Kung Pao”常见招牌。",
+      "media": [],
+      "createdAt": "2025-08-09T17:30:00.000Z",
+      "updatedAt": "2025-08-09T17:30:00.000Z",
+      "type": "traditionalFoods",
+      "icon": "fa-utensils"
+    },
+    "麻婆豆腐": {
+      "id": "麻婆豆腐",
+      "title": "麻婆豆腐",
+      "description": "川菜代表，牛肉末与豆腐入锅，花椒之麻、辣椒之辣并重",
+      "content": "嫩豆腐与牛肉末入锅，以郫县豆瓣、花椒与辣椒面调味，口味麻辣鲜香、烫嫩滑口。",
+      "category": "traditionalFoods",
+      "tags": [
+        "川菜",
+        "家常",
+        "麻辣",
+        "豆制品"
+      ],
+      "keywords": [
+        "麻婆豆腐",
+        "郫县豆瓣",
+        "花椒"
+      ],
+      "history": "据传成都陈婆所创，后遍布川渝乃至全国。",
+      "technique": "先煸牛肉末；豆瓣炒红；下豆腐推匀；花椒面提香。",
+      "features": "麻、辣、烫、嫩、香，五感俱备。",
+      "funFact": "“麻婆”为掌故外号，并非贬义。",
+      "media": [],
+      "createdAt": "2025-08-09T17:30:00.000Z",
+      "updatedAt": "2025-08-09T17:30:00.000Z",
+      "type": "traditionalFoods",
+      "icon": "fa-utensils"
+    },
+    "回锅肉": {
+      "id": "回锅肉",
+      "title": "回锅肉",
+      "description": "川味家常硬菜，二次复炒的五花肉片，酱香四溢",
+      "content": "五花肉先煮后切片，与郫县豆瓣、甜面酱和蒜苗复炒，肥香而不腻。",
+      "category": "traditionalFoods",
+      "tags": [
+        "川菜",
+        "家常",
+        "酱香",
+        "蒜苗"
+      ],
+      "keywords": [
+        "回锅肉",
+        "郫县豆瓣",
+        "蒜苗回锅肉"
+      ],
+      "history": "川西民间“九大碗”之常见菜式之一。",
+      "technique": "白煮肉冷却切片；小火煸油；入酱复炒断生。",
+      "features": "肥香酥软、酱香突出、下饭利器。",
+      "funFact": "部分地区以“青蒜”或“二荆条”搭配。",
+      "media": [],
+      "createdAt": "2025-08-09T17:30:00.000Z",
+      "updatedAt": "2025-08-09T17:30:00.000Z",
+      "type": "traditionalFoods",
+      "icon": "fa-utensils"
+    },
+    "酸菜鱼": {
+      "id": "酸菜鱼",
+      "title": "酸菜鱼",
+      "description": "川渝流行酸辣汤鱼，鲜香爽口、开胃下饭",
+      "content": "以草鱼片入滚汤汆熟，酸菜与泡椒打底，汤体酸辣鲜，鱼片滑嫩。",
+      "category": "traditionalFoods",
+      "tags": [
+        "川渝",
+        "酸辣",
+        "汤菜",
+        "鱼片"
+      ],
+      "keywords": [
+        "酸菜鱼",
+        "泡椒",
+        "酸菜"
+      ],
+      "history": "近现代川渝馆子名品，家常化普及。",
+      "technique": "鱼片滑油；酸菜炒香；入汤汆熟；花椒油提香。",
+      "features": "酸辣醒胃、鱼滑汤鲜。",
+      "funFact": "与“水煮鱼”并称川味“下饭双雄”。",
+      "media": [],
+      "createdAt": "2025-08-09T17:30:00.000Z",
+      "updatedAt": "2025-08-09T17:30:00.000Z",
+      "type": "traditionalFoods",
+      "icon": "fa-utensils"
+    },
+    "锅包肉": {
+      "id": "锅包肉",
+      "title": "锅包肉",
+      "description": "东北名菜，外酥里嫩，糖醋口味香脆开胃",
+      "content": "猪里脊切片拍粉油炸，复入锅与糖醋卤翻拌挂汁，口感脆嫩酸甜。",
+      "category": "traditionalFoods",
+      "tags": [
+        "东北",
+        "糖醋",
+        "油炸",
+        "家常"
+      ],
+      "keywords": [
+        "锅包肉",
+        "东北菜",
+        "糖醋里脊"
+      ],
+      "history": "出自哈尔滨老字号改良，后风靡东北与全国。",
+      "technique": "拍粉油炸；调糖醋卤；回锅挂汁保持脆感。",
+      "features": "酸甜开胃、外脆里嫩、老少皆宜。",
+      "funFact": "部分做法加入柠檬增清香。",
+      "media": [],
+      "createdAt": "2025-08-09T17:30:00.000Z",
+      "updatedAt": "2025-08-09T17:30:00.000Z",
+      "type": "traditionalFoods",
+      "icon": "fa-utensils"
+    },
+    "德州扒鸡": {
+      "id": "德州扒鸡",
+      "title": "德州扒鸡",
+      "description": "鲁中名吃，扒制技法成就皮酥骨离、香透入里",
+      "content": "整鸡经挂卤、油润、扒制等工序处理，成品色泽枣红、酥烂脱骨。",
+      "category": "traditionalFoods",
+      "tags": [
+        "鲁菜",
+        "扒制",
+        "整鸡",
+        "卤味"
+      ],
+      "keywords": [
+        "德州扒鸡",
+        "扒鸡",
+        "鲁中名吃"
+      ],
+      "history": "清末民初名声大噪，成为鲁中特产名片。",
+      "technique": "挂卤入味；油润护色；小火扒制至酥烂。",
+      "features": "皮酥肉烂、香透骨里、冷食亦佳。",
+      "funFact": "常作为旅行伴手礼。",
+      "media": [],
+      "createdAt": "2025-08-09T17:30:00.000Z",
+      "updatedAt": "2025-08-09T17:30:00.000Z",
+      "type": "traditionalFoods",
+      "icon": "fa-utensils"
+    },
+    "刀削面": {
+      "id": "刀削面",
+      "title": "刀削面",
+      "description": "晋面代表，现场削制入锅，筋道爽滑",
+      "content": "和制硬面团，持刀就坯削入滚水，面叶边厚中薄，入口筋道。",
+      "category": "traditionalFoods",
+      "tags": [
+        "山西",
+        "面食",
+        "现场技艺",
+        "筋道"
+      ],
+      "keywords": [
+        "刀削面",
+        "晋面",
+        "面食"
+      ],
+      "history": "晋商兴盛带动面食传播，刀削技法名闻遐迩。",
+      "technique": "和面醒面；手持面坯；顺势削入锅中；捞出拌卤。",
+      "features": "边缘爽口、中部柔韧，挂卤性好。",
+      "funFact": "比赛项目有“百叶不停刀”。",
+      "media": [],
+      "createdAt": "2025-08-09T17:30:00.000Z",
+      "updatedAt": "2025-08-09T17:30:00.000Z",
+      "type": "traditionalFoods",
+      "icon": "fa-utensils"
+    },
+    "炸酱面": {
+      "id": "炸酱面",
+      "title": "炸酱面",
+      "description": "京味面食代表，黄瓜丝、萝卜丝配浓香炸酱拌面",
+      "content": "手擀面配以黄瓜、萝卜、豆芽等小料，拌入以黄酱或甜面酱炒制的肉丁炸酱。",
+      "category": "traditionalFoods",
+      "tags": [
+        "北京",
+        "面食",
+        "酱香",
+        "家常"
+      ],
+      "keywords": [
+        "炸酱面",
+        "京味",
+        "黄酱"
+      ],
+      "history": "京城胡同名吃，亦在东北、山东等地有变体。",
+      "technique": "面条手擀；炸酱慢炒出酱油；小料切丝。",
+      "features": "面条筋道、酱香浓郁、清爽小料解腻。",
+      "funFact": "“老北京三样儿”之一常指它。",
+      "media": [],
+      "createdAt": "2025-08-09T17:30:00.000Z",
+      "updatedAt": "2025-08-09T17:30:00.000Z",
+      "type": "traditionalFoods",
+      "icon": "fa-utensils"
+    },
+    "肉夹馍": {
+      "id": "肉夹馍",
+      "title": "肉夹馍",
+      "description": "三秦名食，白吉馍夹入腊汁肉，皮香里酥",
+      "content": "以炭火烤制白吉馍夹入长时间卤炖五花肉或腱子肉，肉香与面香相映成趣。",
+      "category": "traditionalFoods",
+      "tags": [
+        "陕西",
+        "夹馍",
+        "卤味",
+        "街头小吃"
+      ],
+      "keywords": [
+        "肉夹馍",
+        "腊汁肉",
+        "白吉馍"
+      ],
+      "history": "与关中面食文化相伴发展，名气遍及全国。",
+      "technique": "白吉馍烤制；腊汁肉慢卤；现切现夹。",
+      "features": "馍香酥脆、肉香醇厚、多汁不腻。",
+      "funFact": "素食版本以菌菇或土豆替代。",
+      "media": [],
+      "createdAt": "2025-08-09T17:30:00.000Z",
+      "updatedAt": "2025-08-09T17:30:00.000Z",
+      "type": "traditionalFoods",
+      "icon": "fa-utensils"
+    },
+    "热干面": {
+      "id": "热干面",
+      "title": "热干面",
+      "description": "武汉名小吃，碱水面拌芝麻酱，咸香爽滑",
+      "content": "将熟面过油放凉，食用前复烫，拌入芝麻酱、酱油、酸豆角与榨菜等小料。",
+      "category": "traditionalFoods",
+      "tags": [
+        "武汉",
+        "面食",
+        "芝麻酱",
+        "早餐"
+      ],
+      "keywords": [
+        "热干面",
+        "武汉小吃",
+        "芝麻酱拌面"
+      ],
+      "history": "起源汉口早点摊，逐渐成为城市名片。",
+      "technique": "面条过油防粘；复烫回温；快速拌匀。",
+      "features": "咸香浓郁、面体弹牙、调料丰富。",
+      "funFact": "常与豆皮、糊汤粉并列武汉早餐三巨头。",
+      "media": [],
+      "createdAt": "2025-08-09T17:30:00.000Z",
+      "updatedAt": "2025-08-09T17:30:00.000Z",
+      "type": "traditionalFoods",
+      "icon": "fa-utensils"
+    },
+    "北京烤鸭": {
+      "id": "北京烤鸭",
+      "title": "北京烤鸭",
+      "description": "北京烤鸭精选肥嫩填鸭，经充气晾皮、糖醋水上色、挂炉明火烤制，食时卷薄饼配甜面酱与葱丝黄瓜。",
+      "content": "北京烤鸭精选肥嫩填鸭，经充气晾皮、糖醋水上色、挂炉明火烤制，食时卷薄饼配甜面酱与葱丝黄瓜。",
+      "category": "traditionalFoods",
+      "tags": [
+        "京菜",
+        "挂炉",
+        "明火",
+        "薄饼"
+      ],
+      "keywords": [
+        "北京烤鸭",
+        "挂炉烤",
+        "京味",
+        "甜面酱"
+      ],
+      "history": "源自元明宫廷，清末民初走入民间，形成独特技法与门店文化。",
+      "technique": "充气分离皮肉；风干上色；挂炉果木烤制；片皮分部位装盘。",
+      "features": "外皮酥脆、油而不腻，片皮蘸糖别具风味。",
+      "funFact": "果木多用枣木或梨木，香气独特。",
+      "media": [
+        {
+          "name": "北京烤鸭.jpg",
+          "type": "image",
+          "size": 214661,
+          "url": "http://121.40.185.158:3000/resources/images/2025-08-09T17-21-42_____________.jpg"
+        },
+        {
+          "name": "北京烤鸭制作视频.mp4",
+          "type": "video",
+          "size": 40181351,
+          "url": "http://121.40.185.158:3000/resources/videos/2025-08-09T17-21-42_________________________.mp4"
+        }
+      ],
+      "createdAt": "2025-08-09T16:05:00.000Z",
+      "updatedAt": "2025-08-09T17:21:43.615Z",
+      "type": "traditionalFoods",
+      "icon": "fa-utensils"
+    },
+    "东坡肉": {
+      "id": "东坡肉",
+      "title": "东坡肉",
+      "description": "东坡肉以带皮五花切方块，经煸香、加黄酒酱油与冰糖，小火慢焖至色泽红亮、入口即化。",
+      "content": "东坡肉以带皮五花切方块，经煸香、加黄酒酱油与冰糖，小火慢焖至色泽红亮、入口即化。",
+      "category": "traditionalFoods",
+      "tags": [
+        "江南",
+        "红烧",
+        "焖煮",
+        "苏菜"
+      ],
+      "keywords": [
+        "东坡肉",
+        "苏东坡",
+        "五花肉",
+        "红烧"
+      ],
+      "history": "相传与苏东坡有关，后经民间诠释成为家常名菜与筵席名品。",
+      "technique": "焯水除腥；煸香上色；砂锅小火焖至酥烂。",
+      "features": "咸甜适口、肥而不腻、糯而不烂。",
+      "funFact": "常与“东坡肘子”并称苏帮名菜。",
+      "media": [
+        {
+          "name": "东坡肉.png",
+          "type": "image",
+          "size": 599054,
+          "url": "http://121.40.185.158:3000/resources/images/2025-08-09T17-21-13__________.png"
+        },
+        {
+          "name": "东坡肉制作视频.mp4",
+          "type": "video",
+          "size": 25003436,
+          "url": "http://121.40.185.158:3000/resources/videos/2025-08-09T17-21-13______________________.mp4"
+        }
+      ],
+      "createdAt": "2025-08-09T16:05:00.000Z",
+      "updatedAt": "2025-08-09T17:21:14.434Z",
+      "type": "traditionalFoods",
+      "icon": "fa-utensils"
+    },
+    "佛跳墙": {
+      "id": "佛跳墙",
+      "title": "佛跳墙",
+      "description": "佛跳墙以鲍鱼、海参、花胶、瑶柱、蹄筋、鸽蛋等多味原材置坛，隔水文火久炖，汤浓味厚。",
+      "content": "佛跳墙以鲍鱼、海参、花胶、瑶柱、蹄筋、鸽蛋等多味原材置坛，隔水文火久炖，汤浓味厚。",
+      "category": "traditionalFoods",
+      "tags": [
+        "闽菜",
+        "坛炖",
+        "海味",
+        "山珍"
+      ],
+      "keywords": [
+        "佛跳墙",
+        "闽菜名肴",
+        "海参鲍鱼",
+        "坛子菜"
+      ],
+      "history": "清末在福州形成名菜谱系，名贯中外。",
+      "technique": "原材分档处理；砂锅或坛器隔水久炖；火候与次序严谨。",
+      "features": "汤体醇厚、荤香不腻、层次繁复。",
+      "funFact": "“坛启荤香飘四邻，佛闻弃禅跳墙来”得名。",
+      "media": [
+        {
+          "name": "佛跳墙.jpg",
+          "type": "image",
+          "size": 161139,
+          "url": "http://121.40.185.158:3000/resources/images/2025-08-09T17-20-45__________.jpg"
+        }
+      ],
+      "createdAt": "2025-08-09T16:05:00.000Z",
+      "updatedAt": "2025-08-09T17:20:46.784Z",
+      "type": "traditionalFoods",
+      "icon": "fa-utensils"
+    },
+    "月饼": {
+      "id": "月饼",
+      "title": "月饼",
+      "description": "月饼为中秋节应景食品，饼皮包裹莲蓉、豆沙、伍仁、蛋黄等馅料烘焙，寓意团圆美满。",
+      "content": "月饼为中秋节应景食品，饼皮包裹莲蓉、豆沙、伍仁、蛋黄等馅料烘焙，寓意团圆美满。",
+      "category": "traditionalFoods",
+      "tags": [
+        "中秋",
+        "团圆",
+        "烘焙",
+        "广式",
+        "苏式"
+      ],
+      "keywords": [
+        "月饼",
+        "中秋节",
+        "莲蓉",
+        "蛋黄"
+      ],
+      "history": "唐宋即有雏形，明清广为流行，形成广式、苏式、潮式等流派。",
+      "technique": "制皮制馅；成型压花；上蛋液烘焙；回油静置风味更佳。",
+      "features": "皮馅比例讲究、纹样精美，甜咸兼备。",
+      "funFact": "“花好月圆人团圆”促成赠饼文化。",
+      "media": [
+        {
+          "name": "月饼.mp4",
+          "type": "video",
+          "size": 1171636,
+          "url": "http://121.40.185.158:3000/resources/videos/2025-08-09T17-20-17_______.mp4"
+        }
+      ],
+      "createdAt": "2025-08-09T16:05:00.000Z",
+      "updatedAt": "2025-08-09T17:20:20.006Z",
+      "type": "traditionalFoods",
+      "icon": "fa-utensils"
+    },
+    "饺子": {
+      "id": "饺子",
+      "title": "饺子",
+      "description": "中国北方年节代表食物，寓意更岁交子、团圆吉祥",
+      "content": "饺子为中国北方重要面食，多在冬至与春节食用，寓意更岁交子、团圆吉祥。以面皮包裹肉馅或素馅，水煮、蒸或煎制皆可。",
+      "category": "traditionalFoods",
+      "tags": [
+        "年节",
+        "北方面食",
+        "冬至",
+        "春节",
+        "团圆"
+      ],
+      "keywords": [
+        "饺子",
+        "水饺",
+        "更岁交子",
+        "北方年俗"
+      ],
+      "history": "饺子起源可追溯至东汉张仲景“娇耳”，后演变为年节食品，象征团圆与招财。",
+      "technique": "和面醒面；拌馅调味；擀皮包馅；水煮点冷水至浮起或蒸、煎至熟透。",
+      "features": "皮薄馅多、鲜香多汁，口味与馅料地域差异丰富。",
+      "funFact": "“交子”与“饺子”谐音，寓意岁末更替。",
+      "media": [],
+      "createdAt": "2025-08-09T16:05:00.000Z",
+      "updatedAt": "2025-08-09T16:05:00.000Z",
+      "type": "traditionalFoods",
+      "icon": "fa-utensils"
+    },
+    "粽子": {
+      "id": "粽子",
+      "title": "粽子",
+      "description": "端午节传统食品，以糯米配各类馅料裹以粽叶蒸制",
+      "content": "粽子为端午节代表美食，糯米包裹豆沙、鲜肉、蛋黄、枣等馅，裹以芦苇叶或箬叶，蒸煮而成。",
+      "category": "traditionalFoods",
+      "tags": [
+        "端午",
+        "糯米",
+        "民俗节令",
+        "叶香"
+      ],
+      "keywords": [
+        "粽子",
+        "端午节",
+        "糯米",
+        "箬叶"
+      ],
+      "history": "传说为纪念屈原投江所投粽，后成端午习俗，各地风味迥异。",
+      "technique": "浸糯米与叶；拌料包裹成形并扎紧；旺火煮或高压蒸至糯米软糯入味。",
+      "features": "叶香渗米、软糯香粘，甜咸流派并存。",
+      "funFact": "南咸北甜并非绝对，不同地域口味十分多样。",
+      "media": [],
+      "createdAt": "2025-08-09T16:05:00.000Z",
+      "updatedAt": "2025-08-09T16:05:00.000Z",
+      "type": "traditionalFoods",
+      "icon": "fa-utensils"
+    },
+    "汤圆": {
+      "id": "汤圆",
+      "title": "汤圆",
+      "description": "元宵佳节常食的糯米点心，寓意团团圆圆",
+      "content": "汤圆以糯米粉制皮，包裹黑芝麻、花生、豆沙等馅，水煮后口感软糯香甜，多于元宵节或婚庆食用，取其团圆之意。",
+      "category": "traditionalFoods",
+      "tags": [
+        "元宵",
+        "糯米",
+        "甜点",
+        "团圆"
+      ],
+      "keywords": [
+        "汤圆",
+        "元宵节",
+        "糯米粉",
+        "芝麻馅"
+      ],
+      "history": "宋元时期即盛行，南方称汤圆，北方称元宵，工艺有别。",
+      "technique": "和粉制坯；包馅搓圆；沸水下锅小火煮至浮起。",
+      "features": "软糯香甜、汤清润口，亦有咸味款。",
+      "funFact": "“圆”形寓意团圆与圆满。",
+      "media": [],
+      "createdAt": "2025-08-09T16:05:00.000Z",
+      "updatedAt": "2025-08-09T16:05:00.000Z",
+      "type": "traditionalFoods",
+      "icon": "fa-utensils"
+    },
+    "年糕": {
+      "id": "年糕",
+      "title": "年糕",
+      "description": "新年常食糯米糕点，寓意年年高",
+      "content": "年糕以糯米或粳米磨粉蒸制成型，口味有甜有咸，可煎炒蒸煮，节庆与祭祀常见。",
+      "category": "traditionalFoods",
+      "tags": [
+        "春节",
+        "糯米",
+        "节庆",
+        "吉祥"
+      ],
+      "keywords": [
+        "年糕",
+        "年年高",
+        "糯米糕"
+      ],
+      "history": "古代“年祀”用祭品演变而来，寓意步步高升。",
+      "technique": "浸米磨浆；入模蒸透；冷却定型；可切片再烹。",
+      "features": "软糯韧性、可塑性强，甜咸百搭。",
+      "funFact": "江南有红糖年糕，东北有黄米年糕。",
+      "media": [],
+      "createdAt": "2025-08-09T16:05:00.000Z",
+      "updatedAt": "2025-08-09T16:05:00.000Z",
+      "type": "traditionalFoods",
+      "icon": "fa-utensils"
+    },
+    "青团": {
+      "id": "青团",
+      "title": "青团",
+      "description": "清明时令点心，以青草汁调粉蒸制，色泽青绿",
+      "content": "青团以艾草或麦青汁与糯米粉调和，包豆沙、咸蛋黄肉松等馅蒸制，成品清香软糯。",
+      "category": "traditionalFoods",
+      "tags": [
+        "清明",
+        "艾草",
+        "糯米",
+        "时令"
+      ],
+      "keywords": [
+        "青团",
+        "清明时节",
+        "艾草",
+        "麦青"
+      ],
+      "history": "江南春令物产与寒食习俗相融的产物，近代口味更趋多样。",
+      "technique": "榨汁取青；和粉成团；包馅整形；蒸至透亮出锅。",
+      "features": "色泽青翠、清香软糯、甜咸皆宜。",
+      "funFact": "传统以豆沙为主，如今创新馅料极其丰富。",
+      "media": [],
+      "createdAt": "2025-08-09T16:05:00.000Z",
+      "updatedAt": "2025-08-09T16:05:00.000Z",
+      "type": "traditionalFoods",
+      "icon": "fa-utensils"
+    },
+    "腊八粥": {
+      "id": "腊八粥",
+      "title": "腊八粥",
+      "description": "腊月初八熬食的合谷杂粮粥，寓意丰收平安",
+      "content": "腊八粥以多种谷物、豆类与果干合熬，香甜软糯，寓意祈福纳祥、五谷丰登。",
+      "category": "traditionalFoods",
+      "tags": [
+        "腊八",
+        "合谷",
+        "祈福",
+        "杂粮"
+      ],
+      "keywords": [
+        "腊八粥",
+        "腊八节",
+        "杂粮粥"
+      ],
+      "history": "民间腊祭习俗与佛门“腊八粥”相互影响而成。",
+      "technique": "谷豆提前浸泡；大火煮开小火慢熬；临出锅调味点缀。",
+      "features": "营养多元、暖胃滋补，甜香可口。",
+      "funFact": "“腊八到，年来到”，喝粥象征辞旧迎新。",
+      "media": [],
+      "createdAt": "2025-08-09T16:05:00.000Z",
+      "updatedAt": "2025-08-09T16:05:00.000Z",
+      "type": "traditionalFoods",
+      "icon": "fa-utensils"
+    },
+    "叉烧包": {
+      "id": "叉烧包",
+      "title": "叉烧包",
+      "description": "粤式点心代表，松软面皮包甜咸叉烧馅",
+      "content": "叉烧包为广式早茶经典，以发面皮包入蜜汁叉烧丁蒸制，口感松软多汁。",
+      "category": "traditionalFoods",
+      "tags": [
+        "粤点",
+        "早茶",
+        "蒸点",
+        "发面"
+      ],
+      "keywords": [
+        "叉烧包",
+        "广式点心",
+        "早茶"
+      ],
+      "history": "随粤式早茶文化兴盛而家喻户晓，港澳与岭南地区尤盛。",
+      "technique": "和面发酵；熬制叉烧馅；包入褶口；旺火蒸熟。",
+      "features": "皮裂“笑口”、甜咸适中、汁香浓郁。",
+      "funFact": "“一盅两件”常把叉烧包列为“两件”之一。",
+      "media": [],
+      "createdAt": "2025-08-09T16:05:00.000Z",
+      "updatedAt": "2025-08-09T16:05:00.000Z",
+      "type": "traditionalFoods",
+      "icon": "fa-utensils"
+    },
+    "羊肉泡馍": {
+      "id": "羊肉泡馍",
+      "title": "羊肉泡馍",
+      "description": "关中风味代表，白吉馍掰入浓郁羊汤，佐以辣子蒜苗",
+      "content": "以手工白吉馍掰碎泡入久熬清澈羊肉汤，配以羊肉块、粉丝及蒜苗辣子，汤鲜味厚。",
+      "category": "traditionalFoods",
+      "tags": [
+        "西安",
+        "关中",
+        "汤馍",
+        "清汤"
+      ],
+      "keywords": [
+        "羊肉泡馍",
+        "关中风味",
+        "白吉馍"
+      ],
+      "history": "源于长安古都饮食传统，形成独特“掰馍”食俗。",
+      "technique": "羊骨慢熬清汤去腥；白吉馍烤制；食前现掰入碗，浇汤复煮。",
+      "features": "汤清味厚、馍香筋道、暖胃耐饥。",
+      "funFact": "“掰得越细越入味”，是老饕心得。",
+      "media": [],
+      "createdAt": "2025-08-09T16:05:00.000Z",
+      "updatedAt": "2025-08-09T16:05:00.000Z",
+      "type": "traditionalFoods",
+      "icon": "fa-utensils"
+    },
+    "四川火锅": {
+      "id": "四川火锅",
+      "title": "四川火锅",
+      "description": "川渝代表美食，以牛油麻辣锅底见长，万物皆可涮",
+      "content": "四川火锅以牛油为基搭配郫县豆瓣、花椒与香辛料熬制，讲究麻辣鲜香、热烈奔放，食材广泛。",
+      "category": "traditionalFoods",
+      "tags": [
+        "川渝",
+        "麻辣",
+        "牛油",
+        "郫县豆瓣"
+      ],
+      "keywords": [
+        "四川火锅",
+        "牛油锅",
+        "麻辣鲜香",
+        "九宫格"
+      ],
+      "history": "由江边纤夫与码头饮食发展，近现代规范化并走向全国。",
+      "technique": "炒制底料；牛油小火熬香；清汤与红汤并行可选鸳鸯锅。",
+      "features": "麻辣厚重、涮烫即食、社交属性强。",
+      "funFact": "花椒讲究“青麻红辣”，口感立体。",
+      "media": [],
+      "createdAt": "2025-08-09T16:05:00.000Z",
+      "updatedAt": "2025-08-09T16:05:00.000Z",
+      "type": "traditionalFoods",
+      "icon": "fa-utensils"
+    },
+    "粉蒸肉": {
+      "id": "粉蒸肉",
+      "title": "粉蒸肉",
+      "description": "中式蒸菜代表，腌料拌米粉上笼蒸至酥烂入味",
+      "content": "粉蒸肉将五花或排骨腌渍后拌熟米粉入碗，加南瓜或芋头垫底，上笼蒸至软糯酥香。",
+      "category": "traditionalFoods",
+      "tags": [
+        "蒸菜",
+        "米粉",
+        "软糯",
+        "家常"
+      ],
+      "keywords": [
+        "粉蒸肉",
+        "米粉蒸",
+        "南瓜垫底",
+        "芋头粉蒸"
+      ],
+      "history": "源自中原，流播至西南华中各地，口味咸辣甜皆有。",
+      "technique": "炒米制粉；肉类腌渍；装碗压紧；旺火蒸至出油。",
+      "features": "米粉吸汁、软糯香醇、肥而不腻。",
+      "funFact": "以“糯感”与“米香”见长，老少皆宜。",
+      "media": [],
+      "createdAt": "2025-08-09T16:05:00.000Z",
+      "updatedAt": "2025-08-09T16:05:00.000Z",
+      "type": "traditionalFoods",
+      "icon": "fa-utensils"
+    },
+    "馄饨": {
+      "id": "馄饨",
+      "title": "馄饨",
+      "description": "薄皮包馅入汤的传统小吃，南北风味各异",
+      "content": "馄饨以薄皮包肉馅或素馅，入滚汤稍煮即熟，佐以紫菜虾皮或酱油香醋，口感鲜美滑嫩。",
+      "category": "traditionalFoods",
+      "tags": [
+        "汤点",
+        "面点",
+        "南北差异",
+        "鲜美"
+      ],
+      "keywords": [
+        "馄饨",
+        "云吞",
+        "清汤",
+        "小吃"
+      ],
+      "history": "汉晋文献已有记载，南方称“云吞”，折法与配汤风味多变。",
+      "technique": "和馅调味；折皮包裹；入汤滚煮至浮。",
+      "features": "皮薄馅鲜、汤清味香、食用便捷。",
+      "funFact": "折法有“金鱼尾”“船形”等造型。",
+      "media": [],
+      "createdAt": "2025-08-09T16:05:00.000Z",
+      "updatedAt": "2025-08-09T16:05:00.000Z",
+      "type": "traditionalFoods",
+      "icon": "fa-utensils"
+    },
+    "油条": {
+      "id": "油条",
+      "title": "油条",
+      "description": "传统早餐油炸面点，外脆内空，常配豆浆、稀饭",
+      "content": "油条以发面条坯入油锅炸至金黄蓬松，外酥内空，口感香脆，是华人世界常见的传统早餐。",
+      "category": "traditionalFoods",
+      "tags": [
+        "早餐",
+        "油炸",
+        "面点",
+        "豆浆搭配"
+      ],
+      "keywords": [
+        "油条",
+        "豆浆油条",
+        "传统早点"
+      ],
+      "history": "宋代即有传说典故流布，后成市井早餐标配。",
+      "technique": "面团发酵；条坯叠合压印；入油中火炸至金黄。",
+      "features": "外脆里空、香气浓郁、蘸食百搭。",
+      "funFact": "亦可入咸豆浆或火锅，风味独特。",
+      "media": [],
+      "createdAt": "2025-08-09T16:05:00.000Z",
+      "updatedAt": "2025-08-09T16:05:00.000Z",
+      "type": "traditionalFoods",
+      "icon": "fa-utensils"
+    },
+    "mebg16p1t5fhgrtt4kc": {
+      "id": "mebg16p1t5fhgrtt4kc",
+      "category": "traditionalFoods",
+      "title": "新老传承人握手",
+      "type": "traditionalFoods",
+      "content": "跨时空互动，传承",
+      "description": "跨时空互动，传承",
+      "history": "",
+      "keywords": [
+        "新老传承，传承在线"
+      ],
+      "tags": [
+        "传承"
+      ],
+      "icon": "fa-fire",
+      "media": [
+        {
+          "name": "画面9.1.mp4",
+          "type": "video",
+          "size": 4254857,
+          "url": "http://121.40.185.158:3000/resources/videos/2025-08-14T13-36-56_______9_1.mp4"
+        }
+      ],
+      "createdAt": "2025-08-14T13:36:59.941Z",
+      "updatedAt": "2025-08-14T13:36:59.941Z"
+    }
+  },
+  "traditionalFestivals": {
+    "寒露": {
+      "id": "寒露",
+      "title": "寒露",
+      "description": "寒露为二十四节气之一，寒气渐生，昼夜温差进一步加大",
+      "content": "寒露为二十四节气之一，寒气渐生，昼夜温差进一步加大",
+      "category": "traditionalFestivals",
+      "tags": [
+        "二十四节气",
+        "寒气",
+        "秋深",
+        "润燥",
+        "保暖"
+      ],
+      "keywords": [
+        "寒露",
+        "二十四节气",
+        "秋深",
+        "润燥",
+        "保暖"
+      ],
+      "history": "由白露进寒露，示秋令深入，需注意温差。",
+      "technique": "早晚添衣、润燥护肺；农事防早霜。",
+      "features": "夜寒露重、晨晚清凉。",
+      "funFact": "岭南有寒露时节品秋茶、尝时鲜。",
+      "media": [
+        {
+          "name": "寒露.png",
+          "type": "image",
+          "size": 799549,
+          "url": "http://121.40.185.158:3000/resources/images/2025-08-09T17-28-20_______.png"
+        }
+      ],
+      "createdAt": "2025-08-08T08:08:00.000Z",
+      "updatedAt": "2025-08-09T17:28:21.338Z",
+      "type": "traditionalFestivals",
+      "icon": ""
+    },
+    "霜降": {
+      "id": "霜降",
+      "title": "霜降",
+      "description": "霜降为二十四节气之一，气温显著下降，作物陆续收获",
+      "content": "霜降为二十四节气之一，气温显著下降，作物陆续收获",
+      "category": "traditionalFestivals",
+      "tags": [
+        "二十四节气",
+        "初霜",
+        "收获",
+        "收藏",
+        "降温"
+      ],
+      "keywords": [
+        "霜降",
+        "二十四节气",
+        "初霜",
+        "收获",
+        "降温"
+      ],
+      "history": "物候见霜，古以霜降记得岁收成收尾。",
+      "technique": "及时收贮、整地备冬；养生温补。",
+      "features": "昼短夜长、秋深转冬。",
+      "funFact": "有吃柿子、防秋燥裂之俗。",
+      "media": [
+        {
+          "name": "霜降.jpg",
+          "type": "image",
+          "size": 190539,
+          "url": "http://121.40.185.158:3000/resources/images/2025-08-09T17-27-44_______.jpg"
+        }
+      ],
+      "createdAt": "2025-08-08T08:08:00.000Z",
+      "updatedAt": "2025-08-09T17:27:45.571Z",
+      "type": "traditionalFestivals",
+      "icon": ""
+    },
+    "小雪": {
+      "id": "小雪",
+      "title": "小雪",
+      "description": "小雪为二十四节气之一，寒潮活动增多，偶有初雪",
+      "content": "小雪为二十四节气之一，寒潮活动增多，偶有初雪",
+      "category": "traditionalFestivals",
+      "tags": [
+        "二十四节气",
+        "初雪",
+        "降温",
+        "御寒",
+        "保暖"
+      ],
+      "keywords": [
+        "小雪",
+        "二十四节气",
+        "初雪",
+        "御寒",
+        "保暖"
+      ],
+      "history": "小雪标志冬令渐近，古人以衣物换季御寒。",
+      "technique": "添衣防寒、润燥养阴；农事防冻。",
+      "features": "气温下降、空气干燥。",
+      "funFact": "江南有腌菜、晒鱼以备冬之俗。",
+      "media": [
+        {
+          "name": "小雪.webp",
+          "type": "image",
+          "size": 21918,
+          "url": "http://121.40.185.158:3000/resources/images/2025-08-09T17-28-04_______.webp"
+        }
+      ],
+      "createdAt": "2025-08-08T08:08:00.000Z",
+      "updatedAt": "2025-08-09T17:28:05.273Z",
+      "type": "traditionalFestivals",
+      "icon": ""
+    },
+    "大雪": {
+      "id": "大雪",
+      "title": "大雪",
+      "description": "二十四节气之一，雪量增大、气候严寒",
+      "content": "大雪为二十四节气之一，强冷空气频繁，积雪可能显著",
+      "category": "traditionalFestivals",
+      "tags": [
+        "二十四节气",
+        "大雪",
+        "严寒",
+        "御寒",
+        "积雪"
+      ],
+      "keywords": [
+        "大雪",
+        "二十四节气",
+        "严寒",
+        "积雪",
+        "御寒"
+      ],
+      "history": "大雪提示深冬将临，农事转入设施保温管理。",
+      "technique": "防寒保温、设施农业保暖；起居早睡晚起。",
+      "features": "气温低、降雪多、日照短。",
+      "funFact": "北方有食羊肉汤、饺子御寒之俗。",
+      "media": [],
+      "createdAt": "2025-08-08T08:08:00.000Z",
+      "updatedAt": "2025-08-08T08:08:00.000Z",
+      "type": "traditionalFestivals",
+      "icon": "fa-snowflake"
+    },
+    "小寒": {
+      "id": "小寒",
+      "title": "小寒",
+      "description": "二十四节气之一，寒气积聚、隆冬将至",
+      "content": "小寒为二十四节气之一，进入“三九”寒天前后，天气严寒",
+      "category": "traditionalFestivals",
+      "tags": [
+        "二十四节气",
+        "严寒",
+        "三九",
+        "养生",
+        "保暖"
+      ],
+      "keywords": [
+        "小寒",
+        "二十四节气",
+        "严寒",
+        "三九",
+        "保暖"
+      ],
+      "history": "小寒标志一年中最冷阶段来临的序幕。",
+      "technique": "起居避寒、饮食温补；防冻防病。",
+      "features": "寒冷持久、风寒偏盛。",
+      "funFact": "民谚有“小寒大寒，冷成冰团”。",
+      "media": [],
+      "createdAt": "2025-08-08T08:08:00.000Z",
+      "updatedAt": "2025-08-08T08:08:00.000Z",
+      "type": "traditionalFestivals",
+      "icon": "fa-icicles"
+    },
+    "大寒": {
+      "id": "大寒",
+      "title": "大寒",
+      "description": "二十四节气之一，岁寒之极、冬去春来",
+      "content": "大寒为二十四节气之一，一年中最冷时段，亦冬尽春来之际",
+      "category": "traditionalFestivals",
+      "tags": [
+        "二十四节气",
+        "极寒",
+        "越年",
+        "养生",
+        "迎春"
+      ],
+      "keywords": [
+        "大寒",
+        "二十四节气",
+        "极寒",
+        "迎春",
+        "纳福"
+      ],
+      "history": "大寒承接小寒，古人以备年货、祈岁为要务。",
+      "technique": "温补御寒、调养脾肾；筹备过年。",
+      "features": "严寒至极、年关将近。",
+      "funFact": "有“腊八近、年味浓”的节令趣象。",
+      "media": [],
+      "createdAt": "2025-08-08T08:08:00.000Z",
+      "updatedAt": "2025-08-08T08:08:00.000Z",
+      "type": "traditionalFestivals",
+      "icon": "fa-snowflake"
+    },
+    "社日": {
+      "id": "社日",
+      "title": "社日",
+      "description": "春秋两次，祭社稷土神、祈年丰的传统民俗节日",
+      "content": "社日为春社与秋社，祭社稷土神、祈五谷丰登的民俗节日",
+      "category": "traditionalFestivals",
+      "tags": [
+        "民俗节日",
+        "社稷",
+        "祈年",
+        "农耕",
+        "丰收"
+      ],
+      "keywords": [
+        "社日",
+        "春社",
+        "秋社",
+        "社稷",
+        "祈年",
+        "丰登"
+      ],
+      "history": "源于上古社稷崇拜，春祈播种、秋谢丰收。",
+      "technique": "社坛祭礼、社戏、社饭等民俗活动。",
+      "features": "敬天法地、农耕礼俗浓厚。",
+      "funFact": "多地保留社戏、赛社鼓等民间艺术。",
+      "media": [],
+      "createdAt": "2025-08-08T08:08:00.000Z",
+      "updatedAt": "2025-08-08T08:08:00.000Z",
+      "type": "traditionalFestivals",
+      "icon": "fa-warehouse"
+    },
+    "雨水": {
+      "id": "雨水",
+      "title": "雨水",
+      "description": "二十四节气之一，降雨增多、万物萌动",
+      "content": "雨水为二十四节气之一，标志降雨增多、农事渐起，万物萌动",
+      "category": "traditionalFestivals",
+      "tags": [
+        "二十四节气",
+        "春季",
+        "降雨",
+        "萌动",
+        "农事"
+      ],
+      "keywords": [
+        "雨水",
+        "二十四节气",
+        "降雨",
+        "春季",
+        "农耕",
+        "萌芽"
+      ],
+      "history": "古人以星象与气候变化划分节气，雨水示万物润泽，利于春耕备耕。",
+      "technique": "顺时养生，宜防寒湿；农事上备耕、修渠、育秧。",
+      "features": "降雨渐增，土壤回暖，作物适时育苗。",
+      "funFact": "民谚有“雨水节到，耕牛动脚”。",
+      "media": [],
+      "createdAt": "2025-08-08T08:05:00.000Z",
+      "updatedAt": "2025-08-08T08:05:00.000Z",
+      "type": "traditionalFestivals",
+      "icon": "fa-water"
+    },
+    "惊蛰": {
+      "id": "惊蛰",
+      "title": "惊蛰",
+      "description": "二十四节气之一，春雷始鸣、蛰虫始振",
+      "content": "惊蛰为二十四节气之一，春雷乍动、蛰虫苏醒，农事繁忙开启",
+      "category": "traditionalFestivals",
+      "tags": [
+        "二十四节气",
+        "春季",
+        "春雷",
+        "苏醒",
+        "农事"
+      ],
+      "keywords": [
+        "惊蛰",
+        "春雷",
+        "蛰虫苏醒",
+        "春耕",
+        "二十四节气"
+      ],
+      "history": "以雷启春，古人据自然物候制节，示春耕将始。",
+      "technique": "宜疏肝理气、早睡早起；农事上松土、施肥、整畦。",
+      "features": "气温回升、降水增，万物生机渐显。",
+      "funFact": "民俗有打小人、拜白虎等祈福习惯。",
+      "media": [],
+      "createdAt": "2025-08-08T08:05:00.000Z",
+      "updatedAt": "2025-08-08T08:05:00.000Z",
+      "type": "traditionalFestivals",
+      "icon": "fa-bolt"
+    },
+    "春分": {
+      "id": "春分",
+      "title": "春分",
+      "description": "二十四节气之一，昼夜等长、平衡和煦",
+      "content": "春分为二十四节气之一，昼夜平分、气候温和，农作物拔节生长",
+      "category": "traditionalFestivals",
+      "tags": [
+        "二十四节气",
+        "昼夜平分",
+        "温和",
+        "春耕",
+        "生长"
+      ],
+      "keywords": [
+        "春分",
+        "二十四节气",
+        "昼夜平分",
+        "春耕",
+        "播种"
+      ],
+      "history": "源自天文分点，古人以春分祭日，重礼天地。",
+      "technique": "宜顺应生发之气，多蔬果；农事上适宜播种、锄草。",
+      "features": "气候均衡、光照适中，利作物均衡生长。",
+      "funFact": "“竖蛋”游戏因昼夜平衡而流行于民间。",
+      "media": [],
+      "createdAt": "2025-08-08T08:05:00.000Z",
+      "updatedAt": "2025-08-08T08:05:00.000Z",
+      "type": "traditionalFestivals",
+      "icon": "fa-balance-scale"
+    },
+    "谷雨": {
+      "id": "谷雨",
+      "title": "谷雨",
+      "description": "二十四节气之一，雨生百谷、播种正当时",
+      "content": "谷雨为二十四节气之一，雨量明显增多，利于作物播种生长",
+      "category": "traditionalFestivals",
+      "tags": [
+        "二十四节气",
+        "春季",
+        "播种",
+        "降雨",
+        "生长"
+      ],
+      "keywords": [
+        "谷雨",
+        "二十四节气",
+        "播种",
+        "春雨",
+        "百谷"
+      ],
+      "history": "古人云“雨生百谷”，此时亦有采茶习俗。",
+      "technique": "宜播种移栽、除草施肥；养生防湿邪。",
+      "features": "雨润大地，作物出苗整齐。",
+      "funFact": "江南有谷雨前后采新茶之俗。",
+      "media": [],
+      "createdAt": "2025-08-08T08:05:00.000Z",
+      "updatedAt": "2025-08-08T08:05:00.000Z",
+      "type": "traditionalFestivals",
+      "icon": "fa-seedling"
+    },
+    "立夏": {
+      "id": "立夏",
+      "title": "立夏",
+      "description": "二十四节气之一，万物并秀、夏季之始",
+      "content": "立夏为夏季之始，气温上升、作物进入旺盛生长期",
+      "category": "traditionalFestivals",
+      "tags": [
+        "二十四节气",
+        "夏季",
+        "并秀",
+        "生长",
+        "旺盛"
+      ],
+      "keywords": [
+        "立夏",
+        "二十四节气",
+        "夏季开始",
+        "农事",
+        "养生清淡"
+      ],
+      "history": "立夏以物候定节，古有称体重、斗蛋等习俗。",
+      "technique": "饮食宜清淡、增蔬果；农事加强田间管理。",
+      "features": "温度升高、日照增强、作物迅速生长。",
+      "funFact": "民间有立夏吃蛋、斗蛋以祈平安之俗。",
+      "media": [],
+      "createdAt": "2025-08-08T08:05:00.000Z",
+      "updatedAt": "2025-08-08T08:05:00.000Z",
+      "type": "traditionalFestivals",
+      "icon": "fa-sun"
+    },
+    "小满": {
+      "id": "小满",
+      "title": "小满",
+      "description": "二十四节气之一，麦类渐熟、籽粒将满未满",
+      "content": "小满为二十四节气之一，夏熟作物籽粒饱满将熟",
+      "category": "traditionalFestivals",
+      "tags": [
+        "二十四节气",
+        "夏季",
+        "麦熟",
+        "将满",
+        "农事"
+      ],
+      "keywords": [
+        "小满",
+        "二十四节气",
+        "麦类将熟",
+        "水稻管理",
+        "农耕"
+      ],
+      "history": "古籍记物候，小满表征夏熟作物成熟过程。",
+      "technique": "田间管理防倒伏、防虫害；养生防暑湿。",
+      "features": "籽粒渐满、雨热并至。",
+      "funFact": "江南小满时节多有祭车神、祈丰收之俗。",
+      "media": [],
+      "createdAt": "2025-08-08T08:05:00.000Z",
+      "updatedAt": "2025-08-08T08:05:00.000Z",
+      "type": "traditionalFestivals",
+      "icon": "fa-seedling"
+    },
+    "芒种": {
+      "id": "芒种",
+      "title": "芒种",
+      "description": "二十四节气之一，麦收稻插、忙于田间",
+      "content": "芒种为二十四节气之一，麦收在即、稻作插秧，农事最忙时",
+      "category": "traditionalFestivals",
+      "tags": [
+        "二十四节气",
+        "麦收",
+        "插秧",
+        "繁忙",
+        "夏季"
+      ],
+      "keywords": [
+        "芒种",
+        "二十四节气",
+        "麦收",
+        "插秧",
+        "农忙"
+      ],
+      "history": "“有芒之种可稼于此”，反映农作节律。",
+      "technique": "收麦、整地、插秧并行；注意高温防护。",
+      "features": "农忙高峰、收种衔接。",
+      "funFact": "江淮一带有送花神、祈风调雨习俗。",
+      "media": [],
+      "createdAt": "2025-08-08T08:05:00.000Z",
+      "updatedAt": "2025-08-08T08:05:00.000Z",
+      "type": "traditionalFestivals",
+      "icon": "fa-seedling"
+    },
+    "小暑": {
+      "id": "小暑",
+      "title": "小暑",
+      "description": "二十四节气之一，暑气渐盛、雷雨增多",
+      "content": "小暑为二十四节气之一，暑热渐显、午后雷阵雨频繁",
+      "category": "traditionalFestivals",
+      "tags": [
+        "二十四节气",
+        "暑热",
+        "雷雨",
+        "纳凉",
+        "养生"
+      ],
+      "keywords": [
+        "小暑",
+        "二十四节气",
+        "暑气",
+        "雷阵雨",
+        "避暑"
+      ],
+      "history": "古人据热度分小暑、大暑，以示暑热进程。",
+      "technique": "清淡饮食、适当午休；农事防高温干热。",
+      "features": "高温来临前奏、对流强降水增多。",
+      "funFact": "江南有食新、食伏面等应时习俗。",
+      "media": [],
+      "createdAt": "2025-08-08T08:05:00.000Z",
+      "updatedAt": "2025-08-08T08:05:00.000Z",
+      "type": "traditionalFestivals",
+      "icon": "fa-sun"
+    },
+    "大暑": {
+      "id": "大暑",
+      "title": "大暑",
+      "description": "二十四节气之一，一年最热、雷雨频仍",
+      "content": "大暑为二十四节气之一，炎热至极、强对流天气活跃",
+      "category": "traditionalFestivals",
+      "tags": [
+        "二十四节气",
+        "酷热",
+        "雷雨",
+        "防暑",
+        "养生"
+      ],
+      "keywords": [
+        "大暑",
+        "二十四节气",
+        "酷热",
+        "防暑降温",
+        "强对流"
+      ],
+      "history": "古人以物候、气温综合判暑热峰值。",
+      "technique": "防暑降温、补水防晒；农事防涝防风。",
+      "features": "全年最热阶段，湿热并重。",
+      "funFact": "岭南有伏日饮凉茶、祛暑湿习俗。",
+      "media": [],
+      "createdAt": "2025-08-08T08:05:00.000Z",
+      "updatedAt": "2025-08-08T08:05:00.000Z",
+      "type": "traditionalFestivals",
+      "icon": "fa-sun"
+    },
+    "立秋": {
+      "id": "立秋",
+      "title": "立秋",
+      "description": "二十四节气之一，凉意初现、万物由盛转收",
+      "content": "立秋为秋季之始，暑退凉生，农作物由生长转成熟阶段",
+      "category": "traditionalFestivals",
+      "tags": [
+        "二十四节气",
+        "秋季",
+        "转凉",
+        "收获",
+        "养生"
+      ],
+      "keywords": [
+        "立秋",
+        "二十四节气",
+        "秋季开始",
+        "贴秋膘",
+        "收成"
+      ],
+      "history": "古人以四立定季，立秋示丰收将临。",
+      "technique": "起居早卧早起，饮食适度滋润；田管促早熟。",
+      "features": "昼夜温差渐大、作物籽粒充实。",
+      "funFact": "北方民间有“贴秋膘”习俗。",
+      "media": [],
+      "createdAt": "2025-08-08T08:05:00.000Z",
+      "updatedAt": "2025-08-08T08:05:00.000Z",
+      "type": "traditionalFestivals",
+      "icon": "fa-leaf"
+    },
+    "处暑": {
+      "id": "处暑",
+      "title": "处暑",
+      "description": "二十四节气之一，暑气止、秋意浓",
+      "content": "处暑为二十四节气之一，暑气渐止、秋高气爽将至",
+      "category": "traditionalFestivals",
+      "tags": [
+        "二十四节气",
+        "止暑",
+        "秋意",
+        "凉爽",
+        "物候"
+      ],
+      "keywords": [
+        "处暑",
+        "二十四节气",
+        "暑尽",
+        "秋凉",
+        "物候"
+      ],
+      "history": "物候由热转凉，古人以候鸟归徙、雷始收声为证。",
+      "technique": "润燥为主、早睡早起；农事防早霜、促成熟。",
+      "features": "高温消退、昼夜转凉。",
+      "funFact": "江南有“开渔节”等应景活动。",
+      "media": [],
+      "createdAt": "2025-08-08T08:05:00.000Z",
+      "updatedAt": "2025-08-08T08:05:00.000Z",
+      "type": "traditionalFestivals",
+      "icon": "fa-leaf"
+    },
+    "白露": {
+      "id": "白露",
+      "title": "白露",
+      "description": "二十四节气之一，夜凉露生、秋意渐深",
+      "content": "白露为二十四节气之一，昼夜温差加大，叶尖凝露",
+      "category": "traditionalFestivals",
+      "tags": [
+        "二十四节气",
+        "露凝",
+        "昼夜温差",
+        "秋凉",
+        "养生"
+      ],
+      "keywords": [
+        "白露",
+        "二十四节气",
+        "露水",
+        "秋凉",
+        "润燥"
+      ],
+      "history": "古人以露之白，象征秋意转深。",
+      "technique": "宜润肺清燥；农事防旱、防早霜。",
+      "features": "清晨露重、空气清爽。",
+      "funFact": "岭南有“白露茶”尝新之俗。",
+      "media": [],
+      "createdAt": "2025-08-08T08:05:00.000Z",
+      "updatedAt": "2025-08-08T08:05:00.000Z",
+      "type": "traditionalFestivals",
+      "icon": "fa-water"
+    },
+    "春节": {
+      "id": "春节",
+      "title": "春节",
+      "description": "春节是中国最重要的传统节日，农历新年，象征团圆、希望和新开始",
+      "content": "春节是中国最重要的传统节日，农历新年，象征团圆、希望和新开始",
+      "category": "traditionalFestivals",
+      "tags": [
+        "农历新年",
+        "团圆",
+        "希望",
+        "新开始",
+        "除夕",
+        "拜年",
+        "红包"
+      ],
+      "keywords": [
+        "春节",
+        "农历新年",
+        "团圆",
+        "希望",
+        "新开始",
+        "除夕",
+        "拜年",
+        "红包",
+        "春联",
+        "年画"
+      ],
+      "history": "春节起源于殷商时期，已有4000多年历史。最初是祭祀祖先和神灵的节日，后来演变为庆祝新年的重要节日。",
+      "technique": "春节庆祝活动包括贴春联、放鞭炮、吃年夜饭、守岁、拜年、发红包等传统习俗。",
+      "features": "团圆喜庆，文化内涵丰富，习俗多样，寓意美好，是中华民族最重要的文化符号。",
+      "funFact": "春节是中华民族最重要的传统节日，体现了中国人对家庭团圆和美好生活的向往。春节习俗丰富多彩，各地都有独特的庆祝方式。",
+      "media": [
+        {
+          "name": "春节.jpg",
+          "type": "image",
+          "size": 306183,
+          "url": "http://121.40.185.158:3000/resources/images/2025-08-09T17-29-43_______.jpg"
+        }
+      ],
+      "createdAt": "2025-08-08T06:45:00.000Z",
+      "updatedAt": "2025-08-09T17:29:43.872Z",
+      "type": "traditionalFestivals",
+      "icon": "fa-calendar"
+    },
+    "元宵节": {
+      "id": "元宵节",
+      "title": "元宵节",
+      "description": "农历正月十五，吃元宵、赏花灯、猜灯谜的传统节日",
+      "content": "元宵节是农历正月十五，吃元宵、赏花灯、猜灯谜的传统节日",
+      "category": "traditionalFestivals",
+      "tags": [
+        "正月十五",
+        "元宵",
+        "花灯",
+        "灯谜",
+        "团圆",
+        "喜庆"
+      ],
+      "keywords": [
+        "元宵节",
+        "正月十五",
+        "元宵",
+        "花灯",
+        "灯谜",
+        "团圆",
+        "喜庆",
+        "汤圆"
+      ],
+      "history": "元宵节起源于汉代，最初是祭祀太一神的节日，后来演变为民间庆祝的节日。",
+      "technique": "元宵节庆祝活动包括吃元宵、赏花灯、猜灯谜、舞龙舞狮等传统习俗。",
+      "features": "花灯璀璨，元宵香甜，灯谜有趣，寓意团圆和美好。",
+      "funFact": "元宵节是春节后的第一个重要节日，象征着新年的圆满和美好。各地的花灯制作技艺精湛，体现了中华文化的精致。",
+      "media": [],
+      "createdAt": "2025-08-08T06:45:00.000Z",
+      "updatedAt": "2025-08-08T06:45:00.000Z",
+      "type": "traditionalFestivals",
+      "icon": "fa-lightbulb"
+    },
+    "清明节": {
+      "id": "清明节",
+      "title": "清明节",
+      "description": "农历二十四节气之一，扫墓祭祖、踏青郊游的传统节日",
+      "content": "清明节是农历二十四节气之一，扫墓祭祖、踏青郊游的传统节日",
+      "category": "traditionalFestivals",
+      "tags": [
+        "二十四节气",
+        "扫墓",
+        "祭祖",
+        "踏青",
+        "郊游",
+        "慎终追远"
+      ],
+      "keywords": [
+        "清明节",
+        "二十四节气",
+        "扫墓",
+        "祭祖",
+        "踏青",
+        "郊游",
+        "慎终追远",
+        "青团"
+      ],
+      "history": "清明节起源于周代，最初是祭祀祖先的节日，后来与寒食节合并，成为重要的传统节日。",
+      "technique": "清明节活动包括扫墓祭祖、踏青郊游、放风筝、吃青团等传统习俗。",
+      "features": "慎终追远，缅怀先人，亲近自然，寓意生命和希望。",
+      "funFact": "清明节体现了中华民族慎终追远的传统美德，也是亲近自然、感受春天的美好时光。",
+      "media": [],
+      "createdAt": "2025-08-08T06:45:00.000Z",
+      "updatedAt": "2025-08-08T06:45:00.000Z",
+      "type": "traditionalFestivals",
+      "icon": "fa-leaf"
+    },
+    "端午节": {
+      "id": "端午节",
+      "title": "端午节",
+      "description": "农历五月初五，吃粽子、赛龙舟、纪念屈原的传统节日",
+      "content": "端午节是农历五月初五，吃粽子、赛龙舟、纪念屈原的传统节日",
+      "category": "traditionalFestivals",
+      "tags": [
+        "五月初五",
+        "粽子",
+        "龙舟",
+        "屈原",
+        "艾草",
+        "香囊"
+      ],
+      "keywords": [
+        "端午节",
+        "五月初五",
+        "粽子",
+        "龙舟",
+        "屈原",
+        "艾草",
+        "香囊",
+        "雄黄酒"
+      ],
+      "history": "端午节起源于战国时期，最初是纪念爱国诗人屈原的节日，后来演变为重要的传统节日。",
+      "technique": "端午节活动包括吃粽子、赛龙舟、挂艾草、佩香囊、饮雄黄酒等传统习俗。",
+      "features": "纪念先贤，传承文化，团结协作，寓意爱国和团结。",
+      "funFact": "端午节体现了中华民族的爱国情怀和文化传承，赛龙舟活动展现了团结协作的精神。",
+      "media": [],
+      "createdAt": "2025-08-08T06:45:00.000Z",
+      "updatedAt": "2025-08-08T06:45:00.000Z",
+      "type": "traditionalFestivals",
+      "icon": "fa-ship"
+    },
+    "七夕节": {
+      "id": "七夕节",
+      "title": "七夕节",
+      "description": "农历七月初七，中国情人节，牛郎织女鹊桥相会的浪漫节日",
+      "content": "七夕节是农历七月初七，中国情人节，牛郎织女鹊桥相会的浪漫节日",
+      "category": "traditionalFestivals",
+      "tags": [
+        "七月初七",
+        "情人节",
+        "牛郎织女",
+        "鹊桥",
+        "浪漫",
+        "爱情"
+      ],
+      "keywords": [
+        "七夕节",
+        "七月初七",
+        "情人节",
+        "牛郎织女",
+        "鹊桥",
+        "浪漫",
+        "爱情",
+        "乞巧"
+      ],
+      "history": "七夕节起源于汉代，最初是女子乞巧的节日，后来演变为中国的情人节。",
+      "technique": "七夕节活动包括乞巧、穿针引线、观星、吃巧果等传统习俗。",
+      "features": "浪漫美好，爱情象征，文化内涵丰富，寓意美好姻缘。",
+      "funFact": "七夕节体现了中华民族对美好爱情的向往，牛郎织女的故事传颂千年，感动无数人。",
+      "media": [],
+      "createdAt": "2025-08-08T06:45:00.000Z",
+      "updatedAt": "2025-08-08T06:45:00.000Z",
+      "type": "traditionalFestivals",
+      "icon": "fa-heart"
+    },
+    "中秋节": {
+      "id": "中秋节",
+      "title": "中秋节",
+      "description": "农历八月十五，吃月饼、赏月、团圆的传统节日",
+      "content": "中秋节是农历八月十五，吃月饼、赏月、团圆的传统节日",
+      "category": "traditionalFestivals",
+      "tags": [
+        "八月十五",
+        "月饼",
+        "赏月",
+        "团圆",
+        "嫦娥",
+        "玉兔"
+      ],
+      "keywords": [
+        "中秋节",
+        "八月十五",
+        "月饼",
+        "赏月",
+        "团圆",
+        "嫦娥",
+        "玉兔",
+        "桂花"
+      ],
+      "history": "中秋节起源于唐代，最初是祭月的节日，后来演变为重要的团圆节日。",
+      "technique": "中秋节活动包括吃月饼、赏月、祭月、赏桂花等传统习俗。",
+      "features": "团圆美好，月圆人圆，文化内涵丰富，寓意团圆和美好。",
+      "funFact": "中秋节是中华民族最重要的团圆节日之一，体现了中国人对家庭团圆的重视。",
+      "media": [],
+      "createdAt": "2025-08-08T06:45:00.000Z",
+      "updatedAt": "2025-08-08T06:45:00.000Z",
+      "type": "traditionalFestivals",
+      "icon": "fa-moon"
+    }
+  },
+  "traditionalArchitecture": {
+    "朱家角": {
+      "id": "朱家角",
+      "title": "朱家角",
+      "description": "上海青浦的水乡古镇，被誉为'上海威尼斯'，体现了江南水乡建筑文化的精髓",
+      "content": "朱家角是上海青浦的水乡古镇，被誉为'上海威尼斯'，体现了江南水乡建筑文化的精髓。朱家角位于上海市青浦区，是中国保存最完整的江南水乡古镇之一。",
+      "category": "traditionalArchitecture",
+      "tags": [
+        "水乡古镇",
+        "江南建筑",
+        "上海",
+        "青浦",
+        "建筑艺术",
+        "上海威尼斯"
+      ],
+      "keywords": [
+        "朱家角",
+        "水乡古镇",
+        "江南建筑",
+        "上海",
+        "青浦",
+        "建筑艺术",
+        "上海威尼斯",
+        "古代建筑",
+        "江南水乡",
+        "建筑文化"
+      ],
+      "history": "朱家角始建于宋代，明清时期达到鼎盛，是江南地区重要的商贸古镇。古镇保存完好，是江南水乡建筑文化的杰出代表。",
+      "technique": "朱家角采用传统的江南水乡建筑技术，以木结构为主，建筑依水而建，形成了独特的水乡建筑风格。",
+      "features": "朱家角建筑布局巧妙，建筑风格独特，体现了江南水乡建筑文化的精髓。古镇与自然环境和谐统一，是江南建筑艺术的杰出代表。",
+      "funFact": "朱家角被誉为'上海威尼斯'，其建筑艺术和古镇规划体现了江南文化的精髓，是中国古代建筑艺术的重要组成部分。",
+      "media": [],
+      "createdAt": "2025-08-08T07:10:00.000Z",
+      "updatedAt": "2025-08-08T07:10:00.000Z",
+      "type": "traditionalArchitecture",
+      "icon": "fa-building"
+    },
+    "木渎": {
+      "id": "木渎",
+      "title": "木渎",
+      "description": "江苏苏州的水乡古镇，被誉为'吴中第一镇'，体现了江南水乡建筑文化的特色",
+      "content": "木渎是江苏苏州的水乡古镇，被誉为'吴中第一镇'，体现了江南水乡建筑文化的特色。木渎位于江苏省苏州市吴中区，是中国保存最完整的江南水乡古镇之一。",
+      "category": "traditionalArchitecture",
+      "tags": [
+        "水乡古镇",
+        "江南建筑",
+        "江苏",
+        "苏州",
+        "建筑艺术",
+        "吴中第一镇"
+      ],
+      "keywords": [
+        "木渎",
+        "水乡古镇",
+        "江南建筑",
+        "江苏",
+        "苏州",
+        "建筑艺术",
+        "吴中第一镇",
+        "古代建筑",
+        "江南水乡",
+        "建筑文化"
+      ],
+      "history": "木渎始建于春秋时期，明清时期达到鼎盛，是江南地区重要的商贸古镇。古镇保存完好，是江南水乡建筑文化的杰出代表。",
+      "technique": "木渎采用传统的江南水乡建筑技术，以木结构为主，建筑依水而建，形成了独特的水乡建筑风格。",
+      "features": "木渎建筑布局巧妙，建筑风格独特，体现了江南水乡建筑文化的精髓。古镇与自然环境和谐统一，是江南建筑艺术的杰出代表。",
+      "funFact": "木渎被誉为'吴中第一镇'，其建筑艺术和古镇规划体现了江南文化的精髓，是中国古代建筑艺术的重要组成部分。",
+      "media": [],
+      "createdAt": "2025-08-08T07:10:00.000Z",
+      "updatedAt": "2025-08-08T07:10:00.000Z",
+      "type": "traditionalArchitecture",
+      "icon": "fa-building"
+    },
+    "甪直": {
+      "id": "甪直",
+      "title": "甪直",
+      "description": "江苏苏州的水乡古镇，被誉为'神州水乡第一镇'，体现了江南水乡建筑文化的精髓",
+      "content": "甪直是江苏苏州的水乡古镇，被誉为'神州水乡第一镇'，体现了江南水乡建筑文化的精髓。甪直位于江苏省苏州市吴中区，是中国保存最完整的江南水乡古镇之一。",
+      "category": "traditionalArchitecture",
+      "tags": [
+        "水乡古镇",
+        "江南建筑",
+        "江苏",
+        "苏州",
+        "建筑艺术",
+        "神州水乡第一镇"
+      ],
+      "keywords": [
+        "甪直",
+        "水乡古镇",
+        "江南建筑",
+        "江苏",
+        "苏州",
+        "建筑艺术",
+        "神州水乡第一镇",
+        "古代建筑",
+        "江南水乡",
+        "建筑文化"
+      ],
+      "history": "甪直始建于春秋时期，明清时期达到鼎盛，是江南地区重要的商贸古镇。古镇保存完好，是江南水乡建筑文化的杰出代表。",
+      "technique": "甪直采用传统的江南水乡建筑技术，以木结构为主，建筑依水而建，形成了独特的水乡建筑风格。",
+      "features": "甪直建筑布局巧妙，建筑风格独特，体现了江南水乡建筑文化的精髓。古镇与自然环境和谐统一，是江南建筑艺术的杰出代表。",
+      "funFact": "甪直被誉为'神州水乡第一镇'，其建筑艺术和古镇规划体现了江南文化的精髓，是中国古代建筑艺术的重要组成部分。",
+      "media": [],
+      "createdAt": "2025-08-08T07:10:00.000Z",
+      "updatedAt": "2025-08-08T07:10:00.000Z",
+      "type": "traditionalArchitecture",
+      "icon": "fa-building"
+    },
+    "西塘": {
+      "id": "西塘",
+      "title": "西塘",
+      "description": "浙江嘉善的水乡古镇，被誉为'生活着的千年古镇'，体现了江南水乡建筑文化的特色",
+      "content": "西塘是浙江嘉善的水乡古镇，被誉为'生活着的千年古镇'，体现了江南水乡建筑文化的特色。西塘位于浙江省嘉兴市嘉善县，是中国保存最完整的江南水乡古镇之一。",
+      "category": "traditionalArchitecture",
+      "tags": [
+        "水乡古镇",
+        "江南建筑",
+        "浙江",
+        "嘉善",
+        "建筑艺术",
+        "生活着的千年古镇"
+      ],
+      "keywords": [
+        "西塘",
+        "水乡古镇",
+        "江南建筑",
+        "浙江",
+        "嘉善",
+        "建筑艺术",
+        "生活着的千年古镇",
+        "古代建筑",
+        "江南水乡",
+        "建筑文化"
+      ],
+      "history": "西塘始建于唐代，明清时期达到鼎盛，是江南地区重要的商贸古镇。古镇保存完好，是江南水乡建筑文化的杰出代表。",
+      "technique": "西塘采用传统的江南水乡建筑技术，以木结构为主，建筑依水而建，形成了独特的水乡建筑风格。",
+      "features": "西塘建筑布局巧妙，建筑风格独特，体现了江南水乡建筑文化的精髓。古镇与自然环境和谐统一，是江南建筑艺术的杰出代表。",
+      "funFact": "西塘被誉为'生活着的千年古镇'，其建筑艺术和古镇规划体现了江南文化的精髓，是中国古代建筑艺术的重要组成部分。",
+      "media": [],
+      "createdAt": "2025-08-08T07:10:00.000Z",
+      "updatedAt": "2025-08-08T07:10:00.000Z",
+      "type": "traditionalArchitecture",
+      "icon": "fa-building"
+    },
+    "南浔": {
+      "id": "南浔",
+      "title": "南浔",
+      "description": "浙江湖州的水乡古镇，被誉为'江南六大古镇之一'，体现了江南水乡建筑文化的精髓",
+      "content": "南浔是浙江湖州的水乡古镇，被誉为'江南六大古镇之一'，体现了江南水乡建筑文化的精髓。南浔位于浙江省湖州市，是中国保存最完整的江南水乡古镇之一。",
+      "category": "traditionalArchitecture",
+      "tags": [
+        "水乡古镇",
+        "江南建筑",
+        "浙江",
+        "湖州",
+        "建筑艺术",
+        "江南六大古镇"
+      ],
+      "keywords": [
+        "南浔",
+        "水乡古镇",
+        "江南建筑",
+        "浙江",
+        "湖州",
+        "建筑艺术",
+        "江南六大古镇",
+        "古代建筑",
+        "江南水乡",
+        "建筑文化"
+      ],
+      "history": "南浔始建于宋代，明清时期达到鼎盛，是江南地区重要的商贸古镇。古镇保存完好，是江南水乡建筑文化的杰出代表。",
+      "technique": "南浔采用传统的江南水乡建筑技术，以木结构为主，建筑依水而建，形成了独特的水乡建筑风格。",
+      "features": "南浔建筑布局巧妙，建筑风格独特，体现了江南水乡建筑文化的精髓。古镇与自然环境和谐统一，是江南建筑艺术的杰出代表。",
+      "funFact": "南浔被誉为'江南六大古镇之一'，其建筑艺术和古镇规划体现了江南文化的精髓，是中国古代建筑艺术的重要组成部分。",
+      "media": [],
+      "createdAt": "2025-08-08T07:10:00.000Z",
+      "updatedAt": "2025-08-08T07:10:00.000Z",
+      "type": "traditionalArchitecture",
+      "icon": "fa-building"
+    },
+    "同里": {
+      "id": "同里",
+      "title": "同里",
+      "description": "江苏吴江的水乡古镇，被誉为'东方小威尼斯'，体现了江南水乡建筑文化的特色",
+      "content": "同里是江苏吴江的水乡古镇，被誉为'东方小威尼斯'，体现了江南水乡建筑文化的特色。同里位于江苏省苏州市吴江区，是中国保存最完整的江南水乡古镇之一。",
+      "category": "traditionalArchitecture",
+      "tags": [
+        "水乡古镇",
+        "江南建筑",
+        "江苏",
+        "吴江",
+        "建筑艺术",
+        "东方小威尼斯"
+      ],
+      "keywords": [
+        "同里",
+        "水乡古镇",
+        "江南建筑",
+        "江苏",
+        "吴江",
+        "建筑艺术",
+        "东方小威尼斯",
+        "古代建筑",
+        "江南水乡",
+        "建筑文化"
+      ],
+      "history": "同里始建于宋代，明清时期达到鼎盛，是江南地区重要的商贸古镇。古镇保存完好，是江南水乡建筑文化的杰出代表。",
+      "technique": "同里采用传统的江南水乡建筑技术，以木结构为主，建筑依水而建，形成了独特的水乡建筑风格。",
+      "features": "同里建筑布局巧妙，建筑风格独特，体现了江南水乡建筑文化的精髓。古镇与自然环境和谐统一，是江南建筑艺术的杰出代表。",
+      "funFact": "同里被誉为'东方小威尼斯'，其建筑艺术和古镇规划体现了江南文化的精髓，是中国古代建筑艺术的重要组成部分。",
+      "media": [],
+      "createdAt": "2025-08-08T07:10:00.000Z",
+      "updatedAt": "2025-08-08T07:10:00.000Z",
+      "type": "traditionalArchitecture",
+      "icon": "fa-building"
+    },
+    "乌镇": {
+      "id": "乌镇",
+      "title": "乌镇",
+      "description": "浙江桐乡的水乡古镇，被誉为'中国最后的枕水人家'，体现了江南水乡建筑文化的精髓",
+      "content": "乌镇是浙江桐乡的水乡古镇，被誉为'中国最后的枕水人家'，体现了江南水乡建筑文化的精髓。乌镇位于浙江省嘉兴市桐乡市，是中国保存最完整的江南水乡古镇之一。",
+      "category": "traditionalArchitecture",
+      "tags": [
+        "水乡古镇",
+        "江南建筑",
+        "浙江",
+        "桐乡",
+        "建筑艺术",
+        "中国最后的枕水人家"
+      ],
+      "keywords": [
+        "乌镇",
+        "水乡古镇",
+        "江南建筑",
+        "浙江",
+        "桐乡",
+        "建筑艺术",
+        "中国最后的枕水人家",
+        "古代建筑",
+        "江南水乡",
+        "建筑文化"
+      ],
+      "history": "乌镇始建于唐代，明清时期达到鼎盛，是江南地区重要的商贸古镇。古镇保存完好，是江南水乡建筑文化的杰出代表。",
+      "technique": "乌镇采用传统的江南水乡建筑技术，以木结构为主，建筑依水而建，形成了独特的水乡建筑风格。",
+      "features": "乌镇建筑布局巧妙，建筑风格独特，体现了江南水乡建筑文化的精髓。古镇与自然环境和谐统一，是江南建筑艺术的杰出代表。",
+      "funFact": "乌镇被誉为'中国最后的枕水人家'，其建筑艺术和古镇规划体现了江南文化的精髓，是世界文化遗产的重要组成部分。",
+      "media": [],
+      "createdAt": "2025-08-08T07:10:00.000Z",
+      "updatedAt": "2025-08-08T07:10:00.000Z",
+      "type": "traditionalArchitecture",
+      "icon": "fa-building"
+    },
+    "周庄": {
+      "id": "周庄",
+      "title": "周庄",
+      "description": "江苏昆山的水乡古镇，被誉为'中国第一水乡'，体现了江南水乡建筑文化的特色",
+      "content": "周庄是江苏昆山的水乡古镇，被誉为'中国第一水乡'，体现了江南水乡建筑文化的特色。周庄位于江苏省苏州市昆山市，是中国保存最完整的江南水乡古镇之一。",
+      "category": "traditionalArchitecture",
+      "tags": [
+        "水乡古镇",
+        "江南建筑",
+        "江苏",
+        "昆山",
+        "建筑艺术",
+        "中国第一水乡"
+      ],
+      "keywords": [
+        "周庄",
+        "水乡古镇",
+        "江南建筑",
+        "江苏",
+        "昆山",
+        "建筑艺术",
+        "中国第一水乡",
+        "古代建筑",
+        "江南水乡",
+        "建筑文化"
+      ],
+      "history": "周庄始建于北宋时期，明清时期达到鼎盛，是江南地区重要的商贸古镇。古镇保存完好，是江南水乡建筑文化的杰出代表。",
+      "technique": "周庄采用传统的江南水乡建筑技术，以木结构为主，建筑依水而建，形成了独特的水乡建筑风格。",
+      "features": "周庄建筑布局巧妙，建筑风格独特，体现了江南水乡建筑文化的精髓。古镇与自然环境和谐统一，是江南建筑艺术的杰出代表。",
+      "funFact": "周庄被誉为'中国第一水乡'，其建筑艺术和古镇规划体现了江南文化的精髓，是中国古代建筑艺术的重要组成部分。",
+      "media": [],
+      "createdAt": "2025-08-08T07:10:00.000Z",
+      "updatedAt": "2025-08-08T07:10:00.000Z",
+      "type": "traditionalArchitecture",
+      "icon": "fa-building"
+    },
+    "西递": {
+      "id": "西递",
+      "title": "西递",
+      "description": "西递是安徽徽州的古村落，被誉为'桃花源里人家'，体现了徽派建筑文化的特色。西递位于安徽省黄山市，是中国保存最完整的徽派古村落之一。",
+      "content": "西递是安徽徽州的古村落，被誉为'桃花源里人家'，体现了徽派建筑文化的特色。西递位于安徽省黄山市，是中国保存最完整的徽派古村落之一。",
+      "category": "traditionalArchitecture",
+      "tags": [
+        "古村落",
+        "徽派建筑",
+        "安徽",
+        "黄山",
+        "建筑艺术",
+        "桃花源里人家"
+      ],
+      "keywords": [
+        "西递",
+        "古村落",
+        "徽派建筑",
+        "安徽",
+        "黄山",
+        "建筑艺术",
+        "桃花源里人家",
+        "古代建筑",
+        "徽州建筑",
+        "建筑文化"
+      ],
+      "history": "西递始建于北宋时期，明清时期达到鼎盛，是徽州地区重要的商贸村落。村落保存完好，是徽派建筑文化的杰出代表。",
+      "technique": "西递采用传统的徽派建筑技术，以砖木结构为主，建筑布局严谨，体现了徽州建筑的精髓。",
+      "features": "西递建筑布局巧妙，建筑风格统一，体现了徽派建筑文化的精髓。村落与自然环境和谐统一，是徽派建筑艺术的杰出代表。",
+      "funFact": "西递被誉为'桃花源里人家'，其建筑艺术和村落规划体现了徽州文化的精髓，是世界文化遗产的重要组成部分。",
+      "media": [
+        {
+          "name": "西递.jpg",
+          "type": "image",
+          "size": 532332,
+          "url": "http://121.40.185.158:3000/resources/images/2025-08-08T23-09-33_______.jpg"
+        }
+      ],
+      "createdAt": "2025-08-08T07:10:00.000Z",
+      "updatedAt": "2025-08-08T23:09:42.265Z",
+      "type": "traditionalArchitecture",
+      "icon": "fa-building"
+    },
+    "宏村": {
+      "id": "宏村",
+      "title": "宏村",
+      "description": "安徽徽州的古村落，被誉为'中国画里的乡村'，体现了徽派建筑文化的精髓",
+      "content": "宏村是安徽徽州的古村落，被誉为'中国画里的乡村'，体现了徽派建筑文化的精髓。宏村位于安徽省黄山市，是中国保存最完整的徽派古村落之一。",
+      "category": "traditionalArchitecture",
+      "tags": [
+        "古村落",
+        "徽派建筑",
+        "安徽",
+        "黄山",
+        "建筑艺术",
+        "中国画里的乡村"
+      ],
+      "keywords": [
+        "宏村",
+        "古村落",
+        "徽派建筑",
+        "安徽",
+        "黄山",
+        "建筑艺术",
+        "中国画里的乡村",
+        "古代建筑",
+        "徽州建筑",
+        "建筑文化"
+      ],
+      "history": "宏村始建于南宋时期，明清时期达到鼎盛，是徽州地区重要的商贸村落。村落保存完好，是徽派建筑文化的杰出代表。",
+      "technique": "宏村采用传统的徽派建筑技术，以砖木结构为主，建筑布局严谨，体现了徽州建筑的精髓。",
+      "features": "宏村建筑布局巧妙，建筑风格统一，体现了徽派建筑文化的精髓。村落与自然环境和谐统一，是徽派建筑艺术的杰出代表。",
+      "funFact": "宏村被誉为'中国画里的乡村'，其建筑艺术和村落规划体现了徽州文化的精髓，是世界文化遗产的重要组成部分。",
+      "media": [],
+      "createdAt": "2025-08-08T07:10:00.000Z",
+      "updatedAt": "2025-08-08T07:10:00.000Z",
+      "type": "traditionalArchitecture",
+      "icon": "fa-building"
+    },
+    "凤凰古城": {
+      "id": "凤凰古城",
+      "title": "凤凰古城",
+      "description": "湖南湘西的千年古城，被誉为'中国最美的小城'，体现了湘西土家族建筑文化的特色",
+      "content": "凤凰古城是湖南湘西的千年古城，被誉为'中国最美的小城'，体现了湘西土家族建筑文化的特色。凤凰古城位于湖南省湘西土家族苗族自治州，是中国保存最完整的土家族古城之一。",
+      "category": "traditionalArchitecture",
+      "tags": [
+        "古城建筑",
+        "土家族建筑",
+        "湖南",
+        "湘西",
+        "建筑艺术",
+        "中国最美的小城"
+      ],
+      "keywords": [
+        "凤凰古城",
+        "古城建筑",
+        "土家族建筑",
+        "湖南",
+        "湘西",
+        "建筑艺术",
+        "中国最美的小城",
+        "古代建筑",
+        "少数民族建筑",
+        "建筑文化"
+      ],
+      "history": "凤凰古城始建于唐代，明清时期达到鼎盛，是湘西地区重要的商贸城市。古城保存完好，是土家族建筑文化的杰出代表。",
+      "technique": "凤凰古城采用传统的土家族建筑技术，以木结构为主，建筑依山傍水，形成了独特的山水城市建筑风格。",
+      "features": "凤凰古城建筑布局巧妙，建筑风格独特，体现了土家族建筑文化的精髓。古城与自然环境和谐统一，是少数民族建筑艺术的杰出代表。",
+      "funFact": "凤凰古城被誉为'中国最美的小城'，其建筑艺术和城市规划体现了土家族文化的精髓，是中国古代建筑艺术的重要组成部分。",
+      "media": [],
+      "createdAt": "2025-08-08T07:10:00.000Z",
+      "updatedAt": "2025-08-08T07:10:00.000Z",
+      "type": "traditionalArchitecture",
+      "icon": "fa-building"
+    },
+    "丽江古城": {
+      "id": "丽江古城",
+      "description": "云南丽江的标志性建筑群，被誉为'东方威尼斯'，体现了纳西族建筑文化的精髓",
+      "title": "丽江古城",
+      "content": "丽江古城是云南丽江的标志性建筑群，被誉为'东方威尼斯'，体现了纳西族建筑文化的精髓。丽江古城位于云南省丽江市，是中国保存最完整的少数民族古城之一。",
+      "category": "traditionalArchitecture",
+      "tags": [
+        "古城建筑",
+        "纳西族建筑",
+        "云南",
+        "丽江",
+        "建筑艺术",
+        "东方威尼斯"
+      ],
+      "keywords": [
+        "丽江古城",
+        "古城建筑",
+        "纳西族建筑",
+        "云南",
+        "丽江",
+        "建筑艺术",
+        "东方威尼斯",
+        "古代建筑",
+        "少数民族建筑",
+        "建筑文化"
+      ],
+      "history": "丽江古城始建于宋末元初，是纳西族先民在茶马古道上建立的重要商贸城市。古城保存完好，是纳西族建筑文化的杰出代表。",
+      "technique": "丽江古城采用传统的纳西族建筑技术，以木结构为主，建筑依山而建，形成了独特的山地城市建筑风格。",
+      "features": "丽江古城建筑布局巧妙，建筑风格独特，体现了纳西族建筑文化的精髓。古城与自然环境和谐统一，是少数民族建筑艺术的杰出代表。",
+      "funFact": "丽江古城被誉为'东方威尼斯'，其建筑艺术和城市规划体现了纳西族文化的精髓，是世界文化遗产的重要组成部分。",
+      "media": [],
+      "createdAt": "2025-08-08T07:10:00.000Z",
+      "updatedAt": "2025-08-08T07:10:00.000Z",
+      "type": "traditionalArchitecture",
+      "icon": "fa-building"
+    },
+    "平遥古城": {
+      "id": "平遥古城",
+      "title": "平遥古城",
+      "description": "中国保存最完整的明清古城，被誉为'中国古建筑的博物馆'",
+      "content": "平遥古城是中国保存最完整的明清古城，被誉为'中国古建筑的博物馆'。平遥古城位于山西省晋中市，是中国现存最完整的明清古城之一。",
+      "category": "traditionalArchitecture",
+      "tags": [
+        "古城建筑",
+        "明清建筑",
+        "山西",
+        "晋中",
+        "建筑艺术",
+        "古建筑博物馆"
+      ],
+      "keywords": [
+        "平遥古城",
+        "古城建筑",
+        "明清建筑",
+        "山西",
+        "晋中",
+        "建筑艺术",
+        "古建筑博物馆",
+        "古代建筑",
+        "明清古城",
+        "建筑文化"
+      ],
+      "history": "平遥古城始建于西周时期，明清时期达到鼎盛，是中国古代商业文化的代表。古城保存完好，是中国古代城市建筑的活化石。",
+      "technique": "平遥古城采用传统的城市建筑技术，以砖木结构为主，建筑布局严谨，体现了中国古代城市规划的精髓。",
+      "features": "平遥古城建筑布局严谨，建筑风格统一，体现了中国古代城市建筑的最高水平。古城保存完好，是研究中国古代建筑的重要资料。",
+      "funFact": "平遥古城是中国保存最完整的明清古城，被誉为'中国古建筑的博物馆'，其建筑艺术和城市规划体现了中华文化的精髓。",
+      "media": [],
+      "createdAt": "2025-08-08T07:10:00.000Z",
+      "updatedAt": "2025-08-08T07:10:00.000Z",
+      "type": "traditionalArchitecture",
+      "icon": "fa-building"
+    },
+    "苏州园林": {
+      "id": "苏州园林",
+      "title": "苏州园林",
+      "description": "中国古典园林的代表，被誉为'园林之母'，体现了江南园林建筑的精髓",
+      "content": "苏州园林是中国古典园林的代表，被誉为'园林之母'，体现了江南园林建筑的精髓。苏州园林以其精巧的设计、优美的景观、深厚的文化内涵而闻名于世。",
+      "category": "traditionalArchitecture",
+      "tags": [
+        "古典园林",
+        "江南园林",
+        "园林建筑",
+        "苏州",
+        "建筑艺术",
+        "园林之母"
+      ],
+      "keywords": [
+        "苏州园林",
+        "古典园林",
+        "江南园林",
+        "园林建筑",
+        "苏州",
+        "建筑艺术",
+        "园林之母",
+        "古代园林",
+        "江南建筑",
+        "园林设计"
+      ],
+      "history": "苏州园林的历史可以追溯到春秋战国时期，经过历代的发展和完善，形成了独特的江南园林建筑风格。明清时期是苏州园林发展的鼎盛时期。",
+      "technique": "苏州园林采用传统的园林建筑技术，以小见大，以少胜多，创造出'咫尺之内，自成一格'的园林艺术效果。",
+      "features": "苏州园林建筑布局精巧，景观优美，体现了中国古代园林建筑的最高水平。园内建筑与自然景观和谐统一，文化内涵深厚。",
+      "funFact": "苏州园林是中国古典园林的代表，被誉为'园林之母'，其建筑艺术和园林设计体现了中华文化的精髓，是世界文化遗产的重要组成部分。",
+      "media": [],
+      "createdAt": "2025-08-08T07:10:00.000Z",
+      "updatedAt": "2025-08-08T07:10:00.000Z",
+      "type": "traditionalArchitecture",
+      "icon": "fa-building"
+    },
+    "布达拉宫": {
+      "id": "布达拉宫",
+      "title": "布达拉宫",
+      "description": "西藏拉萨的标志性建筑，是世界上海拔最高的宫殿，被誉为'世界屋脊上的明珠'",
+      "content": "布达拉宫是西藏拉萨的标志性建筑，是世界上海拔最高的宫殿，被誉为'世界屋脊上的明珠'。布达拉宫位于西藏自治区拉萨市中心的红山上，海拔3700米。",
+      "category": "traditionalArchitecture",
+      "tags": [
+        "藏式建筑",
+        "宫殿",
+        "西藏",
+        "拉萨",
+        "红山",
+        "建筑艺术"
+      ],
+      "keywords": [
+        "布达拉宫",
+        "藏式建筑",
+        "宫殿",
+        "西藏",
+        "拉萨",
+        "红山",
+        "建筑艺术",
+        "世界屋脊",
+        "古代建筑",
+        "世界屋脊上的明珠"
+      ],
+      "history": "布达拉宫始建于公元7世纪，是吐蕃王朝松赞干布为迎娶文成公主而建。17世纪重建，成为历代达赖喇嘛的冬宫和西藏政教合一的统治中心。",
+      "technique": "布达拉宫采用传统的藏式建筑技术，以石木结构为主，建筑依山而建，层层叠叠，气势恢宏。建筑装饰以红、白、黄三色为主。",
+      "features": "布达拉宫建筑宏伟壮观，装饰华丽精美，体现了藏式建筑的最高水平。建筑与自然环境和谐统一，是藏式建筑艺术的杰出代表。",
+      "funFact": "布达拉宫是世界上海拔最高的宫殿，被誉为'世界屋脊上的明珠'，是藏式建筑艺术的杰出代表，也是中华文化的重要组成部分。",
+      "media": [],
+      "createdAt": "2025-08-08T07:10:00.000Z",
+      "updatedAt": "2025-08-08T07:10:00.000Z",
+      "type": "traditionalArchitecture",
+      "icon": "fa-building"
+    },
+    "承德避暑山庄": {
+      "id": "承德避暑山庄",
+      "title": "承德避暑山庄",
+      "description": "中国现存最大的皇家园林，被誉为'中国园林艺术的博物馆'",
+      "content": "承德避暑山庄是中国现存最大的皇家园林，被誉为'中国园林艺术的博物馆'。避暑山庄位于河北省承德市，占地面积约564万平方米，是中国现存最大的皇家园林。",
+      "category": "traditionalArchitecture",
+      "tags": [
+        "皇家园林",
+        "园林建筑",
+        "清代",
+        "避暑",
+        "建筑艺术",
+        "园林艺术"
+      ],
+      "keywords": [
+        "承德避暑山庄",
+        "皇家园林",
+        "园林建筑",
+        "清代",
+        "避暑",
+        "建筑艺术",
+        "园林艺术",
+        "承德",
+        "古代园林",
+        "中国园林艺术博物馆"
+      ],
+      "history": "承德避暑山庄始建于清康熙四十二年（1703年），经过康熙、雍正、乾隆三代的建设，历时约90年才基本建成。是清代皇帝夏季避暑和处理政务的场所。",
+      "technique": "承德避暑山庄采用传统的园林建筑技术，结合自然地形，创造出山水相依、建筑与自然和谐统一的园林景观。",
+      "features": "承德避暑山庄建筑布局巧妙，园林景观优美，体现了中国古代园林建筑的最高水平。园内建筑风格多样，融合了汉、满、蒙、藏等民族建筑特色。",
+      "funFact": "承德避暑山庄是中国古代园林建筑的杰出代表，被誉为'中国园林艺术的博物馆'，其建筑艺术和园林设计体现了中华文化的多元性。",
+      "media": [],
+      "createdAt": "2025-08-08T07:10:00.000Z",
+      "updatedAt": "2025-08-08T07:10:00.000Z",
+      "type": "traditionalArchitecture",
+      "icon": "fa-building"
+    },
+    "颐和园": {
+      "id": "颐和园",
+      "title": "颐和园",
+      "description": "中国现存最大、保存最完整的皇家园林，被誉为'皇家园林博物馆'",
+      "content": "颐和园是中国现存最大、保存最完整的皇家园林，被誉为'皇家园林博物馆'。颐和园位于北京市海淀区，占地面积约290万平方米，其中水面约占四分之三。",
+      "category": "traditionalArchitecture",
+      "tags": [
+        "皇家园林",
+        "园林建筑",
+        "明清",
+        "昆明湖",
+        "万寿山",
+        "建筑艺术"
+      ],
+      "keywords": [
+        "颐和园",
+        "皇家园林",
+        "园林建筑",
+        "明清",
+        "昆明湖",
+        "万寿山",
+        "建筑艺术",
+        "北京",
+        "古代园林",
+        "皇家园林博物馆"
+      ],
+      "history": "颐和园始建于清乾隆十五年（1750年），原名清漪园，是乾隆皇帝为庆祝母亲六十大寿而建。1860年被英法联军焚毁，1888年重建并改名为颐和园。",
+      "technique": "颐和园采用传统的园林建筑技术，结合山水、建筑、植物等元素，创造出'虽由人作，宛自天开'的园林艺术效果。",
+      "features": "颐和园建筑布局巧妙，园林景观优美，体现了中国古代园林建筑的最高水平。园内建筑与自然景观和谐统一。",
+      "funFact": "颐和园是中国古代园林建筑的杰出代表，被誉为'皇家园林博物馆'，其建筑艺术和园林设计体现了中华文化的精髓。",
+      "media": [],
+      "createdAt": "2025-08-08T07:10:00.000Z",
+      "updatedAt": "2025-08-08T07:10:00.000Z",
+      "type": "traditionalArchitecture",
+      "icon": "fa-building"
+    },
+    "天坛": {
+      "id": "天坛",
+      "title": "天坛",
+      "description": "中国明清两代皇帝祭天、祈谷和祈雨的场所，是中国古代建筑艺术的杰出代表",
+      "content": "天坛是中国明清两代皇帝祭天、祈谷和祈雨的场所，是中国古代建筑艺术的杰出代表。天坛位于北京市东城区，占地面积约273万平方米，是中国现存最大的古代祭祀建筑群。",
+      "category": "traditionalArchitecture",
+      "tags": [
+        "祭祀建筑",
+        "明清",
+        "祭天",
+        "祈谷",
+        "祈雨",
+        "建筑艺术"
+      ],
+      "keywords": [
+        "天坛",
+        "祭祀建筑",
+        "明清",
+        "祭天",
+        "祈谷",
+        "祈雨",
+        "建筑艺术",
+        "北京",
+        "古代建筑",
+        "祭祀场所"
+      ],
+      "history": "天坛始建于明成祖永乐十八年（1420年），经过明清两代的不断扩建和完善，形成了现在的规模。天坛是明清两代皇帝举行祭天大典的场所。",
+      "technique": "天坛建筑采用传统的木构架技术，以圆形和方形为主要造型，体现了'天圆地方'的古代哲学思想。建筑布局严谨，层次分明。",
+      "features": "天坛建筑群布局严谨，建筑造型独特，装饰精美，体现了中国古代建筑的精湛技艺和深厚的文化内涵。",
+      "funFact": "天坛是中国古代建筑艺术的杰出代表，其建筑布局和造型体现了中国古代'天圆地方'的哲学思想，是中华文化的重要象征。",
+      "media": [],
+      "createdAt": "2025-08-08T07:10:00.000Z",
+      "updatedAt": "2025-08-08T07:10:00.000Z",
+      "type": "traditionalArchitecture",
+      "icon": "fa-building"
+    },
+    "故宫": {
+      "id": "故宫",
+      "title": "故宫",
+      "description": "中国明清两代的皇家宫殿，世界上现存规模最大、保存最完整的木质结构古建筑群",
+      "content": "故宫是中国明清两代的皇家宫殿，世界上现存规模最大、保存最完整的木质结构古建筑群。故宫位于北京市中心，占地面积72万平方米，建筑面积约15万平方米，有大小宫殿七十多座，房屋九千余间。",
+      "category": "traditionalArchitecture",
+      "tags": [
+        "皇家建筑",
+        "宫殿",
+        "明清",
+        "木质结构",
+        "古建筑群",
+        "紫禁城"
+      ],
+      "keywords": [
+        "故宫",
+        "皇家建筑",
+        "宫殿",
+        "明清",
+        "木质结构",
+        "古建筑群",
+        "紫禁城",
+        "北京",
+        "皇家宫殿",
+        "建筑艺术"
+      ],
+      "history": "故宫始建于明成祖永乐四年（1406年），永乐十八年（1420年）建成。明清两代共有24位皇帝在此居住和办公，是中国古代宫廷建筑的代表作。",
+      "technique": "故宫采用传统的木构架建筑技术，以榫卯结构连接，不使用一颗钉子。建筑布局遵循'前朝后寝'的礼制，体现了中国古代建筑的精湛技艺。",
+      "features": "故宫建筑群规模宏大，布局严谨，装饰华丽，体现了中国古代建筑的最高水平。建筑色彩以红、黄为主，象征皇权至高无上。",
+      "funFact": "故宫是世界上现存规模最大、保存最完整的木质结构古建筑群，被誉为'世界五大宫之首'，是中国古代建筑艺术的瑰宝。",
+      "media": [],
+      "createdAt": "2025-08-08T07:10:00.000Z",
+      "updatedAt": "2025-08-08T07:10:00.000Z",
+      "type": "traditionalArchitecture",
+      "icon": "fa-building"
+    }
+  },
+  "traditionalOpera": {
+    "京剧": {
+      "type": "opera",
+      "title": "京剧",
+      "description": "国粹艺术，唱念做打，脸谱艺术，生旦净丑四大行当，被誉为'东方歌剧'",
+      "content": "国粹艺术，唱念做打，脸谱艺术，生旦净丑四大行当，被誉为'东方歌剧'",
+      "icon": "fa-mask",
+      "tags": [
+        "国粹",
+        "脸谱",
+        "生旦净丑",
+        "唱念做打",
+        "东方歌剧",
+        "梅兰芳",
+        "程砚秋"
+      ],
+      "history": "形成于清代，被誉为国粹，是中华文化的瑰宝。京剧起源于徽班进京，融合了昆曲、秦腔、汉调等多种戏曲艺术，形成了独特的艺术风格。",
+      "technique": "京剧表演包括唱、念、做、打四大基本功，生旦净丑四大行当各有特色，脸谱艺术丰富多彩，音乐伴奏以京胡为主。",
+      "features": "唱腔优美，表演细腻，脸谱艺术，行当分明，音乐伴奏丰富，具有浓郁的民族特色。",
+      "funFact": "京剧被誉为'东方歌剧'，是中华文化的瑰宝。梅兰芳、程砚秋等京剧大师将京剧艺术推向世界，让世界了解中华文化的魅力。",
+      "keywords": [
+        "京剧",
+        "国粹",
+        "脸谱",
+        "戏曲",
+        "生旦净丑",
+        "唱念做打",
+        "梅兰芳",
+        "程砚秋",
+        "东方歌剧"
+      ],
+      "files": [],
+      "createdAt": "2025-08-03T18:13:41.473Z",
+      "updatedAt": "2025-08-03T21:25:45.173Z",
+      "media": [
+        {
+          "name": "京剧.jpg",
+          "type": "image",
+          "size": 1702162,
+          "url": "http://121.40.185.158:3000/resources/images/2025-08-03T21-25-43_______.jpg"
+        }
+      ]
+    },
+    "昆曲": {
+      "type": "opera",
+      "title": "昆曲",
+      "description": "百戏之祖，唱腔优美，表演细腻，被誉为'东方芭蕾'",
+      "content": "百戏之祖，唱腔优美，表演细腻，被誉为'东方芭蕾'",
+      "icon": "",
+      "tags": [
+        "百戏之祖",
+        "唱腔",
+        "细腻",
+        "东方芭蕾",
+        "苏州",
+        "水磨调",
+        "雅致"
+      ],
+      "history": "起源于明代，被誉为'百戏之祖'，是联合国非物质文化遗产。昆曲起源于苏州昆山，以其优美的唱腔和细腻的表演著称。",
+      "technique": "昆曲以水磨调为主，唱腔优美细腻，表演注重身段和表情，音乐伴奏以笛子为主，具有浓郁的江南特色。",
+      "features": "唱腔优美，表演细腻，身段优雅，音乐伴奏丰富，具有浓郁的江南文化特色。",
+      "funFact": "昆曲被誉为'百戏之祖'，是中华戏曲艺术的源头。昆曲的'水磨调'唱腔优美细腻，被誉为'东方芭蕾'，体现了中华文化的精致和优雅。",
+      "keywords": [
+        "昆曲",
+        "百戏之祖",
+        "唱腔",
+        "细腻",
+        "非物质文化遗产",
+        "苏州",
+        "水磨调",
+        "东方芭蕾"
+      ],
+      "files": [],
+      "createdAt": "2025-08-03T21:45:00.000Z",
+      "updatedAt": "2025-08-03T23:45:20.644Z",
+      "media": [
+        {
+          "name": "昆曲.jpg",
+          "type": "image",
+          "size": 62307,
+          "url": "http://121.40.185.158:3000/resources/images/2025-08-03T23-45-18_______.jpg"
+        }
+      ]
+    },
+    "越剧": {
+      "type": "opera",
+      "title": "越剧",
+      "description": "浙江地方戏曲，唱腔婉转，表演细腻，以才子佳人戏著称",
+      "content": "浙江地方戏曲，唱腔婉转，表演细腻，以才子佳人戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "浙江",
+        "唱腔",
+        "才子佳人",
+        "嵊州",
+        "婉转",
+        "细腻",
+        "爱情戏"
+      ],
+      "history": "起源于浙江嵊州，20世纪发展成熟，是浙江主要地方戏曲。越剧以其婉转的唱腔和细腻的表演著称，深受观众喜爱。",
+      "technique": "越剧以才子佳人戏为主，唱腔婉转优美，表演细腻动人，音乐伴奏以二胡为主，具有浓郁的江南特色。",
+      "features": "唱腔婉转，表演细腻，题材丰富，音乐伴奏优美，具有浓郁的江南文化特色。",
+      "funFact": "越剧是浙江文化的重要组成部分，以其'才子佳人'的题材和婉转的唱腔闻名。越剧演员多为女性，形成了独特的艺术风格。",
+      "keywords": [
+        "越剧",
+        "浙江",
+        "唱腔",
+        "才子佳人",
+        "嵊州",
+        "婉转",
+        "细腻",
+        "爱情戏"
+      ],
+      "files": [],
+      "createdAt": "2025-08-03T21:45:00.000Z",
+      "updatedAt": "2025-08-03T21:45:00.000Z",
+      "media": []
+    },
+    "豫剧": {
+      "type": "opera",
+      "title": "豫剧",
+      "description": "河南地方戏曲，唱腔高亢，表演豪放，以武戏著称",
+      "content": "河南地方戏曲，唱腔高亢，表演豪放，以武戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "河南",
+        "唱腔",
+        "武戏",
+        "高亢",
+        "豪放",
+        "梆子",
+        "粗犷"
+      ],
+      "history": "起源于河南，是河南主要地方戏曲，以武戏见长。豫剧以其高亢的唱腔和豪放的表演著称，体现了中原文化的特色。",
+      "technique": "豫剧以梆子腔为主，唱腔高亢豪放，表演注重武打，音乐伴奏以梆子为主，具有浓郁的中原特色。",
+      "features": "唱腔高亢，表演豪放，武戏精彩，音乐伴奏热烈，具有浓郁的中原文化特色。",
+      "funFact": "豫剧是河南文化的重要组成部分，以其'高亢豪放'的特点闻名。豫剧的武戏精彩纷呈，体现了中原人民的豪爽性格。",
+      "keywords": [
+        "豫剧",
+        "河南",
+        "唱腔",
+        "武戏",
+        "高亢",
+        "豪放",
+        "梆子",
+        "粗犷"
+      ],
+      "files": [],
+      "createdAt": "2025-08-03T21:45:00.000Z",
+      "updatedAt": "2025-08-03T21:45:00.000Z",
+      "media": []
+    },
+    "黄梅戏": {
+      "type": "opera",
+      "title": "黄梅戏",
+      "description": "安徽地方戏曲，唱腔优美，表演自然，以爱情戏著称",
+      "content": "安徽地方戏曲，唱腔优美，表演自然，以爱情戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "安徽",
+        "唱腔",
+        "爱情戏",
+        "安庆",
+        "优美",
+        "自然",
+        "抒情"
+      ],
+      "history": "起源于安徽安庆，是安徽主要地方戏曲，以爱情戏见长。黄梅戏以其优美的唱腔和自然的表演著称，深受观众喜爱。",
+      "technique": "黄梅戏以抒情唱腔为主，表演自然流畅，音乐伴奏以二胡为主，具有浓郁的安徽特色。",
+      "features": "唱腔优美，表演自然，题材丰富，音乐伴奏抒情，具有浓郁的安徽文化特色。",
+      "funFact": "黄梅戏是安徽文化的重要组成部分，以其'优美自然'的特点闻名。黄梅戏的《天仙配》、《女驸马》等剧目家喻户晓。",
+      "keywords": [
+        "黄梅戏",
+        "安徽",
+        "唱腔",
+        "爱情戏",
+        "安庆",
+        "优美",
+        "自然",
+        "抒情"
+      ],
+      "files": [],
+      "createdAt": "2025-08-03T21:45:00.000Z",
+      "updatedAt": "2025-08-03T21:45:00.000Z",
+      "media": []
+    },
+    "评剧": {
+      "type": "opera",
+      "title": "评剧",
+      "description": "北方地方戏曲，唱腔通俗，表演自然，以现代戏著称",
+      "content": "北方地方戏曲，唱腔通俗，表演自然，以现代戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "北方",
+        "唱腔",
+        "现代戏",
+        "唐山",
+        "通俗",
+        "自然",
+        "贴近生活"
+      ],
+      "history": "起源于河北唐山，是北方主要地方戏曲，以现代戏见长。评剧以其通俗的唱腔和自然的表演著称，贴近人民生活。",
+      "technique": "评剧以通俗唱腔为主，表演自然朴实，音乐伴奏以板胡为主，具有浓郁的北方特色。",
+      "features": "唱腔通俗，表演自然，题材贴近生活，音乐伴奏朴实，具有浓郁的北方文化特色。",
+      "funFact": "评剧是北方文化的重要组成部分，以其'通俗自然'的特点闻名。评剧的现代戏贴近人民生活，深受观众喜爱。",
+      "keywords": [
+        "评剧",
+        "北方",
+        "唱腔",
+        "现代戏",
+        "唐山",
+        "通俗",
+        "自然",
+        "贴近生活"
+      ],
+      "files": [],
+      "createdAt": "2025-08-03T21:45:00.000Z",
+      "updatedAt": "2025-08-03T21:45:00.000Z",
+      "media": []
+    },
+    "秦腔": {
+      "type": "opera",
+      "title": "秦腔",
+      "description": "陕西地方戏曲，唱腔高亢，表演豪放，以历史戏著称",
+      "content": "陕西地方戏曲，唱腔高亢，表演豪放，以历史戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "陕西",
+        "唱腔",
+        "历史戏",
+        "高亢",
+        "豪放",
+        "梆子",
+        "粗犷"
+      ],
+      "history": "起源于陕西，是陕西主要地方戏曲，以历史戏见长。秦腔以其高亢的唱腔和豪放的表演著称，体现了西北文化的特色。",
+      "technique": "秦腔以梆子腔为主，唱腔高亢豪放，表演注重武打，音乐伴奏以梆子为主，具有浓郁的西北特色。",
+      "features": "唱腔高亢，表演豪放，武戏精彩，音乐伴奏热烈，具有浓郁的西北文化特色。",
+      "funFact": "秦腔是陕西文化的重要组成部分，以其'高亢豪放'的特点闻名。秦腔的历史戏精彩纷呈，体现了西北人民的豪爽性格。",
+      "keywords": [
+        "秦腔",
+        "陕西",
+        "唱腔",
+        "历史戏",
+        "高亢",
+        "豪放",
+        "梆子",
+        "粗犷"
+      ],
+      "files": [],
+      "createdAt": "2025-08-03T21:45:00.000Z",
+      "updatedAt": "2025-08-03T21:45:00.000Z",
+      "media": []
+    },
+    "晋剧": {
+      "type": "opera",
+      "title": "晋剧",
+      "description": "山西地方戏曲，唱腔高亢，表演豪放，以历史戏著称",
+      "content": "山西地方戏曲，唱腔高亢，表演豪放，以历史戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "山西",
+        "唱腔",
+        "历史戏",
+        "高亢",
+        "豪放",
+        "梆子",
+        "粗犷"
+      ],
+      "history": "起源于山西，是山西主要地方戏曲，以历史戏见长。晋剧以其高亢的唱腔和豪放的表演著称，体现了山西文化的特色。",
+      "technique": "晋剧以梆子腔为主，唱腔高亢豪放，表演注重武打，音乐伴奏以梆子为主，具有浓郁的山西特色。",
+      "features": "唱腔高亢，表演豪放，武戏精彩，音乐伴奏热烈，具有浓郁的山西文化特色。",
+      "funFact": "晋剧是山西文化的重要组成部分，以其'高亢豪放'的特点闻名。晋剧的历史戏精彩纷呈，体现了山西人民的豪爽性格。",
+      "keywords": [
+        "晋剧",
+        "山西",
+        "唱腔",
+        "历史戏",
+        "高亢",
+        "豪放",
+        "梆子",
+        "粗犷"
+      ],
+      "files": [],
+      "createdAt": "2025-08-03T21:45:00.000Z",
+      "updatedAt": "2025-08-03T21:45:00.000Z",
+      "media": []
+    },
+    "河北梆子": {
+      "type": "opera",
+      "title": "河北梆子",
+      "description": "河北地方戏曲，唱腔高亢，表演豪放，以武戏著称",
+      "content": "河北地方戏曲，唱腔高亢，表演豪放，以武戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "河北",
+        "唱腔",
+        "武戏",
+        "高亢",
+        "豪放",
+        "梆子",
+        "粗犷"
+      ],
+      "history": "起源于河北，是河北主要地方戏曲，以武戏见长。河北梆子以其高亢的唱腔和豪放的表演著称，体现了河北文化的特色。",
+      "technique": "河北梆子以梆子腔为主，唱腔高亢豪放，表演注重武打，音乐伴奏以梆子为主，具有浓郁的河北特色。",
+      "features": "唱腔高亢，表演豪放，武戏精彩，音乐伴奏热烈，具有浓郁的河北文化特色。",
+      "funFact": "河北梆子是河北文化的重要组成部分，以其'高亢豪放'的特点闻名。河北梆子的武戏精彩纷呈，体现了河北人民的豪爽性格。",
+      "keywords": [
+        "河北梆子",
+        "河北",
+        "唱腔",
+        "武戏",
+        "高亢",
+        "豪放",
+        "梆子",
+        "粗犷"
+      ],
+      "files": [],
+      "createdAt": "2025-08-03T21:45:00.000Z",
+      "updatedAt": "2025-08-03T21:45:00.000Z",
+      "media": []
+    },
+    "山东梆子": {
+      "type": "opera",
+      "title": "山东梆子",
+      "description": "山东地方戏曲，唱腔高亢，表演豪放，以历史戏著称",
+      "content": "山东地方戏曲，唱腔高亢，表演豪放，以历史戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "山东",
+        "唱腔",
+        "历史戏",
+        "高亢",
+        "豪放",
+        "梆子",
+        "粗犷"
+      ],
+      "history": "起源于山东，是山东主要地方戏曲，以历史戏见长。山东梆子以其高亢的唱腔和豪放的表演著称，体现了山东文化的特色。",
+      "technique": "山东梆子以梆子腔为主，唱腔高亢豪放，表演注重武打，音乐伴奏以梆子为主，具有浓郁的山东特色。",
+      "features": "唱腔高亢，表演豪放，武戏精彩，音乐伴奏热烈，具有浓郁的山东文化特色。",
+      "funFact": "山东梆子是山东文化的重要组成部分，以其'高亢豪放'的特点闻名。山东梆子的历史戏精彩纷呈，体现了山东人民的豪爽性格。",
+      "keywords": [
+        "山东梆子",
+        "山东",
+        "唱腔",
+        "历史戏",
+        "高亢",
+        "豪放",
+        "梆子",
+        "粗犷"
+      ],
+      "files": [],
+      "createdAt": "2025-08-03T21:45:00.000Z",
+      "updatedAt": "2025-08-03T21:45:00.000Z",
+      "media": []
+    },
+    "川剧": {
+      "type": "opera",
+      "title": "川剧",
+      "description": "四川地方戏曲，唱腔独特，表演丰富，以变脸绝技著称",
+      "content": "四川地方戏曲，唱腔独特，表演丰富，以变脸绝技著称",
+      "icon": "fa-music",
+      "tags": [
+        "四川",
+        "唱腔",
+        "变脸",
+        "独特",
+        "丰富",
+        "绝技",
+        "神秘"
+      ],
+      "history": "起源于四川，是四川主要地方戏曲，以变脸绝技闻名。川剧以其独特的唱腔和丰富的表演著称，体现了四川文化的特色。",
+      "technique": "川剧以高腔为主，唱腔独特丰富，表演注重变脸绝技，音乐伴奏以川胡为主，具有浓郁的四川特色。",
+      "features": "唱腔独特，表演丰富，变脸绝技，音乐伴奏独特，具有浓郁的四川文化特色。",
+      "funFact": "川剧是四川文化的重要组成部分，以其'变脸绝技'闻名于世。川剧的变脸技术神秘莫测，是中华戏曲艺术的瑰宝。",
+      "keywords": [
+        "川剧",
+        "四川",
+        "唱腔",
+        "变脸",
+        "独特",
+        "丰富",
+        "绝技",
+        "神秘"
+      ],
+      "files": [],
+      "createdAt": "2025-08-03T21:45:00.000Z",
+      "updatedAt": "2025-08-03T21:45:00.000Z",
+      "media": []
+    },
+    "粤剧": {
+      "type": "opera",
+      "title": "粤剧",
+      "description": "广东地方戏曲，唱腔优美，表演细腻，以武戏著称",
+      "content": "广东地方戏曲，唱腔优美，表演细腻，以武戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "广东",
+        "唱腔",
+        "武戏",
+        "优美",
+        "细腻",
+        "岭南",
+        "精致"
+      ],
+      "history": "起源于广东，是广东主要地方戏曲，以武戏见长。粤剧以其优美的唱腔和细腻的表演著称，体现了岭南文化的特色。",
+      "technique": "粤剧以梆黄腔为主，唱腔优美细腻，表演注重身段，音乐伴奏以高胡为主，具有浓郁的岭南特色。",
+      "features": "唱腔优美，表演细腻，武戏精彩，音乐伴奏精致，具有浓郁的岭南文化特色。",
+      "funFact": "粤剧是广东文化的重要组成部分，以其'优美细腻'的特点闻名。粤剧的武戏精彩纷呈，体现了岭南文化的精致和优雅。",
+      "keywords": [
+        "粤剧",
+        "广东",
+        "唱腔",
+        "武戏",
+        "优美",
+        "细腻",
+        "岭南",
+        "精致"
+      ],
+      "files": [],
+      "createdAt": "2025-08-03T21:45:00.000Z",
+      "updatedAt": "2025-08-03T21:45:00.000Z",
+      "media": []
+    },
+    "闽剧": {
+      "type": "opera",
+      "title": "闽剧",
+      "description": "福建地方戏曲，唱腔独特，表演自然，以现代戏著称",
+      "content": "福建地方戏曲，唱腔独特，表演自然，以现代戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "福建",
+        "唱腔",
+        "现代戏",
+        "独特",
+        "自然",
+        "闽南",
+        "贴近生活"
+      ],
+      "history": "起源于福建，是福建主要地方戏曲，以现代戏见长。闽剧以其独特的唱腔和自然的表演著称，体现了闽南文化的特色。",
+      "technique": "闽剧以闽南腔为主，唱腔独特自然，表演贴近生活，音乐伴奏以闽南乐器为主，具有浓郁的闽南特色。",
+      "features": "唱腔独特，表演自然，题材贴近生活，音乐伴奏独特，具有浓郁的闽南文化特色。",
+      "funFact": "闽剧是福建文化的重要组成部分，以其'独特自然'的特点闻名。闽剧的现代戏贴近人民生活，深受观众喜爱。",
+      "keywords": [
+        "闽剧",
+        "福建",
+        "唱腔",
+        "现代戏",
+        "独特",
+        "自然",
+        "闽南",
+        "贴近生活"
+      ],
+      "files": [],
+      "createdAt": "2025-08-03T21:45:00.000Z",
+      "updatedAt": "2025-08-03T21:45:00.000Z",
+      "media": []
+    },
+    "赣剧": {
+      "type": "opera",
+      "title": "赣剧",
+      "description": "江西地方戏曲，唱腔高亢，表演豪放，以历史戏著称",
+      "content": "江西地方戏曲，唱腔高亢，表演豪放，以历史戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "江西",
+        "唱腔",
+        "历史戏",
+        "高亢",
+        "豪放",
+        "梆子",
+        "粗犷"
+      ],
+      "history": "起源于江西，是江西主要地方戏曲，以历史戏见长。赣剧以其高亢的唱腔和豪放的表演著称，体现了江西文化的特色。",
+      "technique": "赣剧以梆子腔为主，唱腔高亢豪放，表演注重武打，音乐伴奏以梆子为主，具有浓郁的江西特色。",
+      "features": "唱腔高亢，表演豪放，武戏精彩，音乐伴奏热烈，具有浓郁的江西文化特色。",
+      "funFact": "赣剧是江西文化的重要组成部分，以其'高亢豪放'的特点闻名。赣剧的历史戏精彩纷呈，体现了江西人民的豪爽性格。",
+      "keywords": [
+        "赣剧",
+        "江西",
+        "唱腔",
+        "历史戏",
+        "高亢",
+        "豪放",
+        "梆子",
+        "粗犷"
+      ],
+      "files": [],
+      "createdAt": "2025-08-03T21:45:00.000Z",
+      "updatedAt": "2025-08-03T21:45:00.000Z",
+      "media": []
+    },
+    "湘剧": {
+      "type": "opera",
+      "title": "湘剧",
+      "description": "湖南地方戏曲，唱腔独特，表演自然，以现代戏著称",
+      "content": "湖南地方戏曲，唱腔独特，表演自然，以现代戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "湖南",
+        "唱腔",
+        "现代戏",
+        "独特",
+        "自然",
+        "湘南",
+        "贴近生活"
+      ],
+      "history": "起源于湖南，是湖南主要地方戏曲，以现代戏见长。湘剧以其独特的唱腔和自然的表演著称，体现了湘南文化的特色。",
+      "technique": "湘剧以湘南腔为主，唱腔独特自然，表演贴近生活，音乐伴奏以湘南乐器为主，具有浓郁的湘南特色。",
+      "features": "唱腔独特，表演自然，题材贴近生活，音乐伴奏独特，具有浓郁的湘南文化特色。",
+      "funFact": "湘剧是湖南文化的重要组成部分，以其'独特自然'的特点闻名。湘剧的现代戏贴近人民生活，深受观众喜爱。",
+      "keywords": [
+        "湘剧",
+        "湖南",
+        "唱腔",
+        "现代戏",
+        "独特",
+        "自然",
+        "湘南",
+        "贴近生活"
+      ],
+      "files": [],
+      "createdAt": "2025-08-03T21:45:00.000Z",
+      "updatedAt": "2025-08-03T21:45:00.000Z",
+      "media": []
+    },
+    "桂剧": {
+      "type": "opera",
+      "title": "桂剧",
+      "description": "广西地方戏曲，唱腔优美，表演细腻，以爱情戏著称",
+      "content": "广西地方戏曲，唱腔优美，表演细腻，以爱情戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "广西",
+        "唱腔",
+        "爱情戏",
+        "优美",
+        "细腻",
+        "桂林",
+        "抒情"
+      ],
+      "history": "起源于广西，是广西主要地方戏曲，以爱情戏见长。桂剧以其优美的唱腔和细腻的表演著称，体现了广西文化的特色。",
+      "technique": "桂剧以抒情唱腔为主，表演细腻动人，音乐伴奏以二胡为主，具有浓郁的广西特色。",
+      "features": "唱腔优美，表演细腻，题材丰富，音乐伴奏抒情，具有浓郁的广西文化特色。",
+      "funFact": "桂剧是广西文化的重要组成部分，以其'优美细腻'的特点闻名。桂剧的爱情戏精彩纷呈，体现了广西人民的浪漫情怀。",
+      "keywords": [
+        "桂剧",
+        "广西",
+        "唱腔",
+        "爱情戏",
+        "优美",
+        "细腻",
+        "桂林",
+        "抒情"
+      ],
+      "files": [],
+      "createdAt": "2025-08-03T21:45:00.000Z",
+      "updatedAt": "2025-08-03T21:45:00.000Z",
+      "media": []
+    },
+    "琼剧": {
+      "type": "opera",
+      "title": "琼剧",
+      "content": "海南地方戏曲，唱腔独特，表演自然，以现代戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "海南",
+        "唱腔",
+        "现代戏",
+        "独特",
+        "自然",
+        "琼州",
+        "贴近生活"
+      ],
+      "history": "起源于海南，是海南主要地方戏曲，以现代戏见长。琼剧以其独特的唱腔和自然的表演著称，体现了海南文化的特色。",
+      "technique": "琼剧以琼州腔为主，唱腔独特自然，表演贴近生活，音乐伴奏以琼州乐器为主，具有浓郁的海南特色。",
+      "features": "唱腔独特，表演自然，题材贴近生活，音乐伴奏独特，具有浓郁的海南文化特色。",
+      "funFact": "琼剧是海南文化的重要组成部分，以其'独特自然'的特点闻名。琼剧的现代戏贴近人民生活，深受观众喜爱。",
+      "keywords": [
+        "琼剧",
+        "海南",
+        "唱腔",
+        "现代戏",
+        "独特",
+        "自然",
+        "琼州",
+        "贴近生活"
+      ],
+      "files": [],
+      "createdAt": "2025-08-03T21:45:00.000Z",
+      "updatedAt": "2025-08-03T21:45:00.000Z",
+      "media": []
+    },
+    "黔剧": {
+      "type": "opera",
+      "title": "黔剧",
+      "content": "贵州地方戏曲，唱腔高亢，表演豪放，以历史戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "贵州",
+        "唱腔",
+        "历史戏",
+        "高亢",
+        "豪放",
+        "梆子",
+        "粗犷"
+      ],
+      "history": "起源于贵州，是贵州主要地方戏曲，以历史戏见长。黔剧以其高亢的唱腔和豪放的表演著称，体现了贵州文化的特色。",
+      "technique": "黔剧以梆子腔为主，唱腔高亢豪放，表演注重武打，音乐伴奏以梆子为主，具有浓郁的贵州特色。",
+      "features": "唱腔高亢，表演豪放，武戏精彩，音乐伴奏热烈，具有浓郁的贵州文化特色。",
+      "funFact": "黔剧是贵州文化的重要组成部分，以其'高亢豪放'的特点闻名。黔剧的历史戏精彩纷呈，体现了贵州人民的豪爽性格。",
+      "keywords": [
+        "黔剧",
+        "贵州",
+        "唱腔",
+        "历史戏",
+        "高亢",
+        "豪放",
+        "梆子",
+        "粗犷"
+      ],
+      "files": [],
+      "createdAt": "2025-08-03T21:45:00.000Z",
+      "updatedAt": "2025-08-03T21:45:00.000Z",
+      "media": []
+    },
+    "滇剧": {
+      "type": "opera",
+      "title": "滇剧",
+      "content": "云南地方戏曲，唱腔独特，表演自然，以现代戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "云南",
+        "唱腔",
+        "现代戏",
+        "独特",
+        "自然",
+        "滇南",
+        "贴近生活"
+      ],
+      "history": "起源于云南，是云南主要地方戏曲，以现代戏见长。滇剧以其独特的唱腔和自然的表演著称，体现了滇南文化的特色。",
+      "technique": "滇剧以滇南腔为主，唱腔独特自然，表演贴近生活，音乐伴奏以滇南乐器为主，具有浓郁的云南特色。",
+      "features": "唱腔独特，表演自然，题材贴近生活，音乐伴奏独特，具有浓郁的云南文化特色。",
+      "funFact": "滇剧是云南文化的重要组成部分，以其'独特自然'的特点闻名。滇剧的现代戏贴近人民生活，深受观众喜爱。",
+      "keywords": [
+        "滇剧",
+        "云南",
+        "唱腔",
+        "现代戏",
+        "独特",
+        "自然",
+        "滇南",
+        "贴近生活"
+      ],
+      "files": [],
+      "createdAt": "2025-08-03T21:45:00.000Z",
+      "updatedAt": "2025-08-03T21:45:00.000Z",
+      "media": []
+    },
+    "藏剧": {
+      "type": "opera",
+      "title": "藏剧",
+      "description": "西藏地方戏曲，唱腔独特，表演神秘，以宗教戏著称",
+      "content": "西藏地方戏曲，唱腔独特，表演神秘，以宗教戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "西藏",
+        "唱腔",
+        "宗教戏",
+        "独特",
+        "神秘",
+        "藏传佛教",
+        "神圣"
+      ],
+      "history": "起源于西藏，是西藏主要地方戏曲，以宗教戏见长。藏剧以其独特的唱腔和神秘的表演著称，体现了藏传佛教文化的特色。",
+      "technique": "藏剧以藏腔为主，唱腔独特神秘，表演注重宗教仪式，音乐伴奏以藏传佛教乐器为主，具有浓郁的西藏特色。",
+      "features": "唱腔独特，表演神秘，宗教色彩浓厚，音乐伴奏神圣，具有浓郁的藏传佛教文化特色。",
+      "funFact": "藏剧是西藏文化的重要组成部分，以其'神秘神圣'的特点闻名。藏剧的宗教戏体现了藏传佛教文化的深厚底蕴。",
+      "keywords": [
+        "藏剧",
+        "西藏",
+        "唱腔",
+        "宗教戏",
+        "独特",
+        "神秘",
+        "藏传佛教",
+        "神圣"
+      ],
+      "files": [],
+      "createdAt": "2025-08-08T06:40:00.000Z",
+      "updatedAt": "2025-08-08T06:40:00.000Z",
+      "media": []
+    },
+    "蒙古剧": {
+      "type": "opera",
+      "title": "蒙古剧",
+      "description": "内蒙古地方戏曲，唱腔豪放，表演粗犷，以草原戏著称",
+      "content": "内蒙古地方戏曲，唱腔豪放，表演粗犷，以草原戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "内蒙古",
+        "唱腔",
+        "草原戏",
+        "豪放",
+        "粗犷",
+        "马头琴",
+        "辽阔"
+      ],
+      "history": "起源于内蒙古，是内蒙古主要地方戏曲，以草原戏见长。蒙古剧以其豪放的唱腔和粗犷的表演著称，体现了草原文化的特色。",
+      "technique": "蒙古剧以蒙古腔为主，唱腔豪放粗犷，表演注重草原风情，音乐伴奏以马头琴为主，具有浓郁的内蒙古特色。",
+      "features": "唱腔豪放，表演粗犷，草原风情浓厚，音乐伴奏辽阔，具有浓郁的内蒙古文化特色。",
+      "funFact": "蒙古剧是内蒙古文化的重要组成部分，以其'豪放粗犷'的特点闻名。蒙古剧的草原戏体现了草原人民的豪爽性格。",
+      "keywords": [
+        "蒙古剧",
+        "内蒙古",
+        "唱腔",
+        "草原戏",
+        "豪放",
+        "粗犷",
+        "马头琴",
+        "辽阔"
+      ],
+      "files": [],
+      "createdAt": "2025-08-08T06:40:00.000Z",
+      "updatedAt": "2025-08-08T06:40:00.000Z",
+      "media": []
+    },
+    "维吾尔剧": {
+      "type": "opera",
+      "title": "维吾尔剧",
+      "description": "新疆地方戏曲，唱腔优美，表演热情，以歌舞戏著称",
+      "content": "新疆地方戏曲，唱腔优美，表演热情，以歌舞戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "新疆",
+        "唱腔",
+        "歌舞戏",
+        "优美",
+        "热情",
+        "十二木卡姆",
+        "欢快"
+      ],
+      "history": "起源于新疆，是新疆主要地方戏曲，以歌舞戏见长。维吾尔剧以其优美的唱腔和热情的表演著称，体现了维吾尔文化的特色。",
+      "technique": "维吾尔剧以维吾尔腔为主，唱腔优美热情，表演注重歌舞，音乐伴奏以十二木卡姆为主，具有浓郁的新疆特色。",
+      "features": "唱腔优美，表演热情，歌舞色彩浓厚，音乐伴奏欢快，具有浓郁的新疆文化特色。",
+      "funFact": "维吾尔剧是新疆文化的重要组成部分，以其'优美热情'的特点闻名。维吾尔剧的歌舞戏体现了维吾尔人民的热情好客。",
+      "keywords": [
+        "维吾尔剧",
+        "新疆",
+        "唱腔",
+        "歌舞戏",
+        "优美",
+        "热情",
+        "十二木卡姆",
+        "欢快"
+      ],
+      "files": [],
+      "createdAt": "2025-08-08T06:40:00.000Z",
+      "updatedAt": "2025-08-08T06:40:00.000Z",
+      "media": []
+    },
+    "哈萨克剧": {
+      "type": "opera",
+      "title": "哈萨克剧",
+      "description": "新疆地方戏曲，唱腔悠扬，表演豪放，以草原戏著称",
+      "content": "新疆地方戏曲，唱腔悠扬，表演豪放，以草原戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "新疆",
+        "唱腔",
+        "草原戏",
+        "悠扬",
+        "豪放",
+        "冬不拉",
+        "辽阔"
+      ],
+      "history": "起源于新疆，是新疆主要地方戏曲，以草原戏见长。哈萨克剧以其悠扬的唱腔和豪放的表演著称，体现了哈萨克文化的特色。",
+      "technique": "哈萨克剧以哈萨克腔为主，唱腔悠扬豪放，表演注重草原风情，音乐伴奏以冬不拉为主，具有浓郁的新疆特色。",
+      "features": "唱腔悠扬，表演豪放，草原风情浓厚，音乐伴奏辽阔，具有浓郁的新疆文化特色。",
+      "funFact": "哈萨克剧是新疆文化的重要组成部分，以其'悠扬豪放'的特点闻名。哈萨克剧的草原戏体现了哈萨克人民的豪爽性格。",
+      "keywords": [
+        "哈萨克剧",
+        "新疆",
+        "唱腔",
+        "草原戏",
+        "悠扬",
+        "豪放",
+        "冬不拉",
+        "辽阔"
+      ],
+      "files": [],
+      "createdAt": "2025-08-08T06:40:00.000Z",
+      "updatedAt": "2025-08-08T06:40:00.000Z",
+      "media": []
+    },
+    "锡剧": {
+      "type": "opera",
+      "title": "锡剧",
+      "description": "江苏地方戏曲，唱腔优美，表演细腻，以才子佳人戏著称",
+      "content": "江苏地方戏曲，唱腔优美，表演细腻，以才子佳人戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "江苏",
+        "唱腔",
+        "才子佳人",
+        "优美",
+        "细腻",
+        "无锡",
+        "抒情"
+      ],
+      "history": "起源于江苏无锡，是江苏主要地方戏曲，以才子佳人戏见长。锡剧以其优美的唱腔和细腻的表演著称，体现了江南文化的特色。",
+      "technique": "锡剧以无锡腔为主，唱腔优美细腻，表演注重身段，音乐伴奏以二胡为主，具有浓郁的江苏特色。",
+      "features": "唱腔优美，表演细腻，才子佳人戏精彩，音乐伴奏抒情，具有浓郁的江苏文化特色。",
+      "funFact": "锡剧是江苏文化的重要组成部分，以其'优美细腻'的特点闻名。锡剧的才子佳人戏体现了江南文化的精致和优雅。",
+      "keywords": [
+        "锡剧",
+        "江苏",
+        "唱腔",
+        "才子佳人",
+        "优美",
+        "细腻",
+        "无锡",
+        "抒情"
+      ],
+      "files": [],
+      "createdAt": "2025-08-08T06:40:00.000Z",
+      "updatedAt": "2025-08-08T06:40:00.000Z",
+      "media": []
+    },
+    "扬剧": {
+      "type": "opera",
+      "title": "扬剧",
+      "description": "江苏地方戏曲，唱腔优美，表演细腻，以才子佳人戏著称",
+      "content": "江苏地方戏曲，唱腔优美，表演细腻，以才子佳人戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "江苏",
+        "唱腔",
+        "才子佳人",
+        "优美",
+        "细腻",
+        "扬州",
+        "抒情"
+      ],
+      "history": "起源于江苏扬州，是江苏主要地方戏曲，以才子佳人戏见长。扬剧以其优美的唱腔和细腻的表演著称，体现了江南文化的特色。",
+      "technique": "扬剧以扬州腔为主，唱腔优美细腻，表演注重身段，音乐伴奏以二胡为主，具有浓郁的江苏特色。",
+      "features": "唱腔优美，表演细腻，才子佳人戏精彩，音乐伴奏抒情，具有浓郁的江苏文化特色。",
+      "funFact": "扬剧是江苏文化的重要组成部分，以其'优美细腻'的特点闻名。扬剧的才子佳人戏体现了江南文化的精致和优雅。",
+      "keywords": [
+        "扬剧",
+        "江苏",
+        "唱腔",
+        "才子佳人",
+        "优美",
+        "细腻",
+        "扬州",
+        "抒情"
+      ],
+      "files": [],
+      "createdAt": "2025-08-08T06:40:00.000Z",
+      "updatedAt": "2025-08-08T06:40:00.000Z",
+      "media": []
+    },
+    "淮剧": {
+      "type": "opera",
+      "title": "淮剧",
+      "description": "江苏地方戏曲，唱腔高亢，表演豪放，以武戏著称",
+      "content": "江苏地方戏曲，唱腔高亢，表演豪放，以武戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "江苏",
+        "唱腔",
+        "武戏",
+        "高亢",
+        "豪放",
+        "淮安",
+        "粗犷"
+      ],
+      "history": "起源于江苏淮安，是江苏主要地方戏曲，以武戏见长。淮剧以其高亢的唱腔和豪放的表演著称，体现了江淮文化的特色。",
+      "technique": "淮剧以淮安腔为主，唱腔高亢豪放，表演注重武打，音乐伴奏以梆子为主，具有浓郁的江苏特色。",
+      "features": "唱腔高亢，表演豪放，武戏精彩，音乐伴奏热烈，具有浓郁的江苏文化特色。",
+      "funFact": "淮剧是江苏文化的重要组成部分，以其'高亢豪放'的特点闻名。淮剧的武戏体现了江淮人民的豪爽性格。",
+      "keywords": [
+        "淮剧",
+        "江苏",
+        "唱腔",
+        "武戏",
+        "高亢",
+        "豪放",
+        "淮安",
+        "粗犷"
+      ],
+      "files": [],
+      "createdAt": "2025-08-08T06:40:00.000Z",
+      "updatedAt": "2025-08-08T06:40:00.000Z",
+      "media": []
+    },
+    "沪剧": {
+      "type": "opera",
+      "title": "沪剧",
+      "description": "上海地方戏曲，唱腔优美，表演细腻，以现代戏著称",
+      "content": "上海地方戏曲，唱腔优美，表演细腻，以现代戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "上海",
+        "唱腔",
+        "现代戏",
+        "优美",
+        "细腻",
+        "海派",
+        "精致"
+      ],
+      "history": "起源于上海，是上海主要地方戏曲，以现代戏见长。沪剧以其优美的唱腔和细腻的表演著称，体现了海派文化的特色。",
+      "technique": "沪剧以上海腔为主，唱腔优美细腻，表演注重现代生活，音乐伴奏以二胡为主，具有浓郁的上海特色。",
+      "features": "唱腔优美，表演细腻，现代戏精彩，音乐伴奏精致，具有浓郁的上海文化特色。",
+      "funFact": "沪剧是上海文化的重要组成部分，以其'优美细腻'的特点闻名。沪剧的现代戏体现了海派文化的精致和时尚。",
+      "keywords": [
+        "沪剧",
+        "上海",
+        "唱腔",
+        "现代戏",
+        "优美",
+        "细腻",
+        "海派",
+        "精致"
+      ],
+      "files": [],
+      "createdAt": "2025-08-08T06:40:00.000Z",
+      "updatedAt": "2025-08-08T06:40:00.000Z",
+      "media": []
+    },
+    "甬剧": {
+      "type": "opera",
+      "title": "甬剧",
+      "description": "浙江地方戏曲，唱腔优美，表演细腻，以才子佳人戏著称",
+      "content": "浙江地方戏曲，唱腔优美，表演细腻，以才子佳人戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "浙江",
+        "唱腔",
+        "才子佳人",
+        "优美",
+        "细腻",
+        "宁波",
+        "抒情"
+      ],
+      "history": "起源于浙江宁波，是浙江主要地方戏曲，以才子佳人戏见长。甬剧以其优美的唱腔和细腻的表演著称，体现了江南文化的特色。",
+      "technique": "甬剧以宁波腔为主，唱腔优美细腻，表演注重身段，音乐伴奏以二胡为主，具有浓郁的浙江特色。",
+      "features": "唱腔优美，表演细腻，才子佳人戏精彩，音乐伴奏抒情，具有浓郁的浙江文化特色。",
+      "funFact": "甬剧是浙江文化的重要组成部分，以其'优美细腻'的特点闻名。甬剧的才子佳人戏体现了江南文化的精致和优雅。",
+      "keywords": [
+        "甬剧",
+        "浙江",
+        "唱腔",
+        "才子佳人",
+        "优美",
+        "细腻",
+        "宁波",
+        "抒情"
+      ],
+      "files": [],
+      "createdAt": "2025-08-08T06:40:00.000Z",
+      "updatedAt": "2025-08-08T06:40:00.000Z",
+      "media": []
+    },
+    "婺剧": {
+      "type": "opera",
+      "title": "婺剧",
+      "description": "浙江地方戏曲，唱腔高亢，表演豪放，以武戏著称",
+      "content": "浙江地方戏曲，唱腔高亢，表演豪放，以武戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "浙江",
+        "唱腔",
+        "武戏",
+        "高亢",
+        "豪放",
+        "金华",
+        "粗犷"
+      ],
+      "history": "起源于浙江金华，是浙江主要地方戏曲，以武戏见长。婺剧以其高亢的唱腔和豪放的表演著称，体现了浙中文化的特色。",
+      "technique": "婺剧以金华腔为主，唱腔高亢豪放，表演注重武打，音乐伴奏以梆子为主，具有浓郁的浙江特色。",
+      "features": "唱腔高亢，表演豪放，武戏精彩，音乐伴奏热烈，具有浓郁的浙江文化特色。",
+      "funFact": "婺剧是浙江文化的重要组成部分，以其'高亢豪放'的特点闻名。婺剧的武戏体现了浙中人民的豪爽性格。",
+      "keywords": [
+        "婺剧",
+        "浙江",
+        "唱腔",
+        "武戏",
+        "高亢",
+        "豪放",
+        "金华",
+        "粗犷"
+      ],
+      "files": [],
+      "createdAt": "2025-08-08T06:40:00.000Z",
+      "updatedAt": "2025-08-08T06:40:00.000Z",
+      "media": []
+    },
+    "绍剧": {
+      "type": "opera",
+      "title": "绍剧",
+      "description": "浙江地方戏曲，唱腔高亢，表演豪放，以历史戏著称",
+      "content": "浙江地方戏曲，唱腔高亢，表演豪放，以历史戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "浙江",
+        "唱腔",
+        "历史戏",
+        "高亢",
+        "豪放",
+        "绍兴",
+        "粗犷"
+      ],
+      "history": "起源于浙江绍兴，是浙江主要地方戏曲，以历史戏见长。绍剧以其高亢的唱腔和豪放的表演著称，体现了浙东文化的特色。",
+      "technique": "绍剧以绍兴腔为主，唱腔高亢豪放，表演注重历史题材，音乐伴奏以梆子为主，具有浓郁的浙江特色。",
+      "features": "唱腔高亢，表演豪放，历史戏精彩，音乐伴奏热烈，具有浓郁的浙江文化特色。",
+      "funFact": "绍剧是浙江文化的重要组成部分，以其'高亢豪放'的特点闻名。绍剧的历史戏体现了浙东人民的豪爽性格。",
+      "keywords": [
+        "绍剧",
+        "浙江",
+        "唱腔",
+        "历史戏",
+        "高亢",
+        "豪放",
+        "绍兴",
+        "粗犷"
+      ],
+      "files": [],
+      "createdAt": "2025-08-08T06:40:00.000Z",
+      "updatedAt": "2025-08-08T06:40:00.000Z",
+      "media": []
+    },
+    "瓯剧": {
+      "type": "opera",
+      "title": "瓯剧",
+      "description": "浙江地方戏曲，唱腔优美，表演细腻，以才子佳人戏著称",
+      "content": "浙江地方戏曲，唱腔优美，表演细腻，以才子佳人戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "浙江",
+        "唱腔",
+        "才子佳人",
+        "优美",
+        "细腻",
+        "温州",
+        "抒情"
+      ],
+      "history": "起源于浙江温州，是浙江主要地方戏曲，以才子佳人戏见长。瓯剧以其优美的唱腔和细腻的表演著称，体现了浙南文化的特色。",
+      "technique": "瓯剧以温州腔为主，唱腔优美细腻，表演注重身段，音乐伴奏以二胡为主，具有浓郁的浙江特色。",
+      "features": "唱腔优美，表演细腻，才子佳人戏精彩，音乐伴奏抒情，具有浓郁的浙江文化特色。",
+      "funFact": "瓯剧是浙江文化的重要组成部分，以其'优美细腻'的特点闻名。瓯剧的才子佳人戏体现了浙南文化的精致和优雅。",
+      "keywords": [
+        "瓯剧",
+        "浙江",
+        "唱腔",
+        "才子佳人",
+        "优美",
+        "细腻",
+        "温州",
+        "抒情"
+      ],
+      "files": [],
+      "createdAt": "2025-08-08T06:40:00.000Z",
+      "updatedAt": "2025-08-08T06:40:00.000Z",
+      "media": []
+    },
+    "姚剧": {
+      "type": "opera",
+      "title": "姚剧",
+      "description": "浙江地方戏曲，唱腔优美，表演细腻，以才子佳人戏著称",
+      "content": "浙江地方戏曲，唱腔优美，表演细腻，以才子佳人戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "浙江",
+        "唱腔",
+        "才子佳人",
+        "优美",
+        "细腻",
+        "余姚",
+        "抒情"
+      ],
+      "history": "起源于浙江余姚，是浙江主要地方戏曲，以才子佳人戏见长。姚剧以其优美的唱腔和细腻的表演著称，体现了浙东文化的特色。",
+      "technique": "姚剧以余姚腔为主，唱腔优美细腻，表演注重身段，音乐伴奏以二胡为主，具有浓郁的浙江特色。",
+      "features": "唱腔优美，表演细腻，才子佳人戏精彩，音乐伴奏抒情，具有浓郁的浙江文化特色。",
+      "funFact": "姚剧是浙江文化的重要组成部分，以其'优美细腻'的特点闻名。姚剧的才子佳人戏体现了浙东文化的精致和优雅。",
+      "keywords": [
+        "姚剧",
+        "浙江",
+        "唱腔",
+        "才子佳人",
+        "优美",
+        "细腻",
+        "余姚",
+        "抒情"
+      ],
+      "files": [],
+      "createdAt": "2025-08-08T06:40:00.000Z",
+      "updatedAt": "2025-08-08T06:40:00.000Z",
+      "media": []
+    },
+    "湖剧": {
+      "type": "opera",
+      "title": "湖剧",
+      "description": "浙江地方戏曲，唱腔优美，表演细腻，以才子佳人戏著称",
+      "content": "浙江地方戏曲，唱腔优美，表演细腻，以才子佳人戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "浙江",
+        "唱腔",
+        "才子佳人",
+        "优美",
+        "细腻",
+        "湖州",
+        "抒情"
+      ],
+      "history": "起源于浙江湖州，是浙江主要地方戏曲，以才子佳人戏见长。湖剧以其优美的唱腔和细腻的表演著称，体现了浙北文化的特色。",
+      "technique": "湖剧以湖州腔为主，唱腔优美细腻，表演注重身段，音乐伴奏以二胡为主，具有浓郁的浙江特色。",
+      "features": "唱腔优美，表演细腻，才子佳人戏精彩，音乐伴奏抒情，具有浓郁的浙江文化特色。",
+      "funFact": "湖剧是浙江文化的重要组成部分，以其'优美细腻'的特点闻名。湖剧的才子佳人戏体现了浙北文化的精致和优雅。",
+      "keywords": [
+        "湖剧",
+        "浙江",
+        "唱腔",
+        "才子佳人",
+        "优美",
+        "细腻",
+        "湖州",
+        "抒情"
+      ],
+      "files": [],
+      "createdAt": "2025-08-08T06:40:00.000Z",
+      "updatedAt": "2025-08-08T06:40:00.000Z",
+      "media": []
+    },
+    "庐剧": {
+      "type": "opera",
+      "title": "庐剧",
+      "description": "安徽地方戏曲，唱腔优美，表演细腻，以才子佳人戏著称",
+      "content": "安徽地方戏曲，唱腔优美，表演细腻，以才子佳人戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "安徽",
+        "唱腔",
+        "才子佳人",
+        "优美",
+        "细腻",
+        "合肥",
+        "抒情"
+      ],
+      "history": "起源于安徽合肥，是安徽主要地方戏曲，以才子佳人戏见长。庐剧以其优美的唱腔和细腻的表演著称，体现了江淮文化的特色。",
+      "technique": "庐剧以合肥腔为主，唱腔优美细腻，表演注重身段，音乐伴奏以二胡为主，具有浓郁的安徽特色。",
+      "features": "唱腔优美，表演细腻，才子佳人戏精彩，音乐伴奏抒情，具有浓郁的安徽文化特色。",
+      "funFact": "庐剧是安徽文化的重要组成部分，以其'优美细腻'的特点闻名。庐剧的才子佳人戏体现了江淮文化的精致和优雅。",
+      "keywords": [
+        "庐剧",
+        "安徽",
+        "唱腔",
+        "才子佳人",
+        "优美",
+        "细腻",
+        "合肥",
+        "抒情"
+      ],
+      "files": [],
+      "createdAt": "2025-08-08T06:41:00.000Z",
+      "updatedAt": "2025-08-08T06:41:00.000Z",
+      "media": []
+    },
+    "泗州戏": {
+      "type": "opera",
+      "title": "泗州戏",
+      "description": "安徽地方戏曲，唱腔高亢，表演豪放，以武戏著称",
+      "content": "安徽地方戏曲，唱腔高亢，表演豪放，以武戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "安徽",
+        "唱腔",
+        "武戏",
+        "高亢",
+        "豪放",
+        "泗县",
+        "粗犷"
+      ],
+      "history": "起源于安徽泗县，是安徽主要地方戏曲，以武戏见长。泗州戏以其高亢的唱腔和豪放的表演著称，体现了皖北文化的特色。",
+      "technique": "泗州戏以泗县腔为主，唱腔高亢豪放，表演注重武打，音乐伴奏以梆子为主，具有浓郁的安徽特色。",
+      "features": "唱腔高亢，表演豪放，武戏精彩，音乐伴奏热烈，具有浓郁的安徽文化特色。",
+      "funFact": "泗州戏是安徽文化的重要组成部分，以其'高亢豪放'的特点闻名。泗州戏的武戏体现了皖北人民的豪爽性格。",
+      "keywords": [
+        "泗州戏",
+        "安徽",
+        "唱腔",
+        "武戏",
+        "高亢",
+        "豪放",
+        "泗县",
+        "粗犷"
+      ],
+      "files": [],
+      "createdAt": "2025-08-08T06:41:00.000Z",
+      "updatedAt": "2025-08-08T06:41:00.000Z",
+      "media": []
+    },
+    "花鼓戏": {
+      "type": "opera",
+      "title": "花鼓戏",
+      "description": "湖南地方戏曲，唱腔优美，表演热情，以歌舞戏著称",
+      "content": "湖南地方戏曲，唱腔优美，表演热情，以歌舞戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "湖南",
+        "唱腔",
+        "歌舞戏",
+        "优美",
+        "热情",
+        "花鼓",
+        "欢快"
+      ],
+      "history": "起源于湖南，是湖南主要地方戏曲，以歌舞戏见长。花鼓戏以其优美的唱腔和热情的表演著称，体现了湖南文化的特色。",
+      "technique": "花鼓戏以花鼓腔为主，唱腔优美热情，表演注重歌舞，音乐伴奏以花鼓为主，具有浓郁的湖南特色。",
+      "features": "唱腔优美，表演热情，歌舞色彩浓厚，音乐伴奏欢快，具有浓郁的湖南文化特色。",
+      "funFact": "花鼓戏是湖南文化的重要组成部分，以其'优美热情'的特点闻名。花鼓戏的歌舞戏体现了湖南人民的热情好客。",
+      "keywords": [
+        "花鼓戏",
+        "湖南",
+        "唱腔",
+        "歌舞戏",
+        "优美",
+        "热情",
+        "花鼓",
+        "欢快"
+      ],
+      "files": [],
+      "createdAt": "2025-08-08T06:41:00.000Z",
+      "updatedAt": "2025-08-08T06:41:00.000Z",
+      "media": []
+    },
+    "采茶戏": {
+      "type": "opera",
+      "title": "采茶戏",
+      "description": "江西地方戏曲，唱腔优美，表演自然，以生活戏著称",
+      "content": "江西地方戏曲，唱腔优美，表演自然，以生活戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "江西",
+        "唱腔",
+        "生活戏",
+        "优美",
+        "自然",
+        "采茶",
+        "贴近生活"
+      ],
+      "history": "起源于江西，是江西主要地方戏曲，以生活戏见长。采茶戏以其优美的唱腔和自然的表演著称，体现了江西文化的特色。",
+      "technique": "采茶戏以采茶腔为主，唱腔优美自然，表演贴近生活，音乐伴奏以采茶调为主，具有浓郁的江西特色。",
+      "features": "唱腔优美，表演自然，生活气息浓厚，音乐伴奏贴近生活，具有浓郁的江西文化特色。",
+      "funFact": "采茶戏是江西文化的重要组成部分，以其'优美自然'的特点闻名。采茶戏的生活戏体现了江西人民的朴实生活。",
+      "keywords": [
+        "采茶戏",
+        "江西",
+        "唱腔",
+        "生活戏",
+        "优美",
+        "自然",
+        "采茶",
+        "贴近生活"
+      ],
+      "files": [],
+      "createdAt": "2025-08-08T06:41:00.000Z",
+      "updatedAt": "2025-08-08T06:41:00.000Z",
+      "media": []
+    },
+    "楚剧": {
+      "type": "opera",
+      "title": "楚剧",
+      "description": "湖北地方戏曲，唱腔优美，表演细腻，以才子佳人戏著称",
+      "content": "湖北地方戏曲，唱腔优美，表演细腻，以才子佳人戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "湖北",
+        "唱腔",
+        "才子佳人",
+        "优美",
+        "细腻",
+        "武汉",
+        "抒情"
+      ],
+      "history": "起源于湖北武汉，是湖北主要地方戏曲，以才子佳人戏见长。楚剧以其优美的唱腔和细腻的表演著称，体现了楚文化的特色。",
+      "technique": "楚剧以武汉腔为主，唱腔优美细腻，表演注重身段，音乐伴奏以二胡为主，具有浓郁的湖北特色。",
+      "features": "唱腔优美，表演细腻，才子佳人戏精彩，音乐伴奏抒情，具有浓郁的湖北文化特色。",
+      "funFact": "楚剧是湖北文化的重要组成部分，以其'优美细腻'的特点闻名。楚剧的才子佳人戏体现了楚文化的精致和优雅。",
+      "keywords": [
+        "楚剧",
+        "湖北",
+        "唱腔",
+        "才子佳人",
+        "优美",
+        "细腻",
+        "武汉",
+        "抒情"
+      ],
+      "files": [],
+      "createdAt": "2025-08-08T06:41:00.000Z",
+      "updatedAt": "2025-08-08T06:41:00.000Z",
+      "media": []
+    },
+    "汉剧": {
+      "type": "opera",
+      "title": "汉剧",
+      "description": "湖北地方戏曲，唱腔高亢，表演豪放，以历史戏著称",
+      "content": "湖北地方戏曲，唱腔高亢，表演豪放，以历史戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "湖北",
+        "唱腔",
+        "历史戏",
+        "高亢",
+        "豪放",
+        "汉口",
+        "粗犷"
+      ],
+      "history": "起源于湖北汉口，是湖北主要地方戏曲，以历史戏见长。汉剧以其高亢的唱腔和豪放的表演著称，体现了楚文化的特色。",
+      "technique": "汉剧以汉口腔为主，唱腔高亢豪放，表演注重历史题材，音乐伴奏以梆子为主，具有浓郁的湖北特色。",
+      "features": "唱腔高亢，表演豪放，历史戏精彩，音乐伴奏热烈，具有浓郁的湖北文化特色。",
+      "funFact": "汉剧是湖北文化的重要组成部分，以其'高亢豪放'的特点闻名。汉剧的历史戏体现了楚文化的豪爽性格。",
+      "keywords": [
+        "汉剧",
+        "湖北",
+        "唱腔",
+        "历史戏",
+        "高亢",
+        "豪放",
+        "汉口",
+        "粗犷"
+      ],
+      "files": [],
+      "createdAt": "2025-08-08T06:41:00.000Z",
+      "updatedAt": "2025-08-08T06:41:00.000Z",
+      "media": []
+    },
+    "荆州花鼓戏": {
+      "type": "opera",
+      "title": "荆州花鼓戏",
+      "description": "湖北地方戏曲，唱腔优美，表演热情，以歌舞戏著称",
+      "content": "湖北地方戏曲，唱腔优美，表演热情，以歌舞戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "湖北",
+        "唱腔",
+        "歌舞戏",
+        "优美",
+        "热情",
+        "荆州",
+        "欢快"
+      ],
+      "history": "起源于湖北荆州，是湖北主要地方戏曲，以歌舞戏见长。荆州花鼓戏以其优美的唱腔和热情的表演著称，体现了楚文化的特色。",
+      "technique": "荆州花鼓戏以荆州腔为主，唱腔优美热情，表演注重歌舞，音乐伴奏以花鼓为主，具有浓郁的湖北特色。",
+      "features": "唱腔优美，表演热情，歌舞色彩浓厚，音乐伴奏欢快，具有浓郁的湖北文化特色。",
+      "funFact": "荆州花鼓戏是湖北文化的重要组成部分，以其'优美热情'的特点闻名。荆州花鼓戏的歌舞戏体现了楚文化的热情好客。",
+      "keywords": [
+        "荆州花鼓戏",
+        "湖北",
+        "唱腔",
+        "歌舞戏",
+        "优美",
+        "热情",
+        "荆州",
+        "欢快"
+      ],
+      "files": [],
+      "createdAt": "2025-08-08T06:41:00.000Z",
+      "updatedAt": "2025-08-08T06:41:00.000Z",
+      "media": []
+    },
+    "河南曲剧": {
+      "type": "opera",
+      "title": "河南曲剧",
+      "description": "河南地方戏曲，唱腔优美，表演细腻，以才子佳人戏著称",
+      "content": "河南地方戏曲，唱腔优美，表演细腻，以才子佳人戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "河南",
+        "唱腔",
+        "才子佳人",
+        "优美",
+        "细腻",
+        "曲剧",
+        "抒情"
+      ],
+      "history": "起源于河南，是河南主要地方戏曲，以才子佳人戏见长。河南曲剧以其优美的唱腔和细腻的表演著称，体现了中原文化的特色。",
+      "technique": "河南曲剧以曲剧腔为主，唱腔优美细腻，表演注重身段，音乐伴奏以二胡为主，具有浓郁的河南特色。",
+      "features": "唱腔优美，表演细腻，才子佳人戏精彩，音乐伴奏抒情，具有浓郁的河南文化特色。",
+      "funFact": "河南曲剧是河南文化的重要组成部分，以其'优美细腻'的特点闻名。河南曲剧的才子佳人戏体现了中原文化的精致和优雅。",
+      "keywords": [
+        "河南曲剧",
+        "河南",
+        "唱腔",
+        "才子佳人",
+        "优美",
+        "细腻",
+        "曲剧",
+        "抒情"
+      ],
+      "files": [],
+      "createdAt": "2025-08-08T06:41:00.000Z",
+      "updatedAt": "2025-08-08T06:41:00.000Z",
+      "media": []
+    },
+    "河南坠子": {
+      "type": "opera",
+      "title": "河南坠子",
+      "description": "河南地方戏曲，唱腔独特，表演自然，以说唱戏著称",
+      "content": "河南地方戏曲，唱腔独特，表演自然，以说唱戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "河南",
+        "唱腔",
+        "说唱戏",
+        "独特",
+        "自然",
+        "坠子",
+        "贴近生活"
+      ],
+      "history": "起源于河南，是河南主要地方戏曲，以说唱戏见长。河南坠子以其独特的唱腔和自然的表演著称，体现了中原文化的特色。",
+      "technique": "河南坠子以坠子腔为主，唱腔独特自然，表演注重说唱，音乐伴奏以坠子为主，具有浓郁的河南特色。",
+      "features": "唱腔独特，表演自然，说唱色彩浓厚，音乐伴奏贴近生活，具有浓郁的河南文化特色。",
+      "funFact": "河南坠子是河南文化的重要组成部分，以其'独特自然'的特点闻名。河南坠子的说唱戏体现了中原人民的朴实生活。",
+      "keywords": [
+        "河南坠子",
+        "河南",
+        "唱腔",
+        "说唱戏",
+        "独特",
+        "自然",
+        "坠子",
+        "贴近生活"
+      ],
+      "files": [],
+      "createdAt": "2025-08-08T06:41:00.000Z",
+      "updatedAt": "2025-08-08T06:41:00.000Z",
+      "media": []
+    },
+    "山东吕剧": {
+      "type": "opera",
+      "title": "山东吕剧",
+      "description": "山东地方戏曲，唱腔优美，表演细腻，以才子佳人戏著称",
+      "content": "山东地方戏曲，唱腔优美，表演细腻，以才子佳人戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "山东",
+        "唱腔",
+        "才子佳人",
+        "优美",
+        "细腻",
+        "吕剧",
+        "抒情"
+      ],
+      "history": "起源于山东，是山东主要地方戏曲，以才子佳人戏见长。山东吕剧以其优美的唱腔和细腻的表演著称，体现了齐鲁文化的特色。",
+      "technique": "山东吕剧以吕剧腔为主，唱腔优美细腻，表演注重身段，音乐伴奏以二胡为主，具有浓郁的山东特色。",
+      "features": "唱腔优美，表演细腻，才子佳人戏精彩，音乐伴奏抒情，具有浓郁的山东文化特色。",
+      "funFact": "山东吕剧是山东文化的重要组成部分，以其'优美细腻'的特点闻名。山东吕剧的才子佳人戏体现了齐鲁文化的精致和优雅。",
+      "keywords": [
+        "山东吕剧",
+        "山东",
+        "唱腔",
+        "才子佳人",
+        "优美",
+        "细腻",
+        "吕剧",
+        "抒情"
+      ],
+      "files": [],
+      "createdAt": "2025-08-08T06:41:00.000Z",
+      "updatedAt": "2025-08-08T06:41:00.000Z",
+      "media": []
+    },
+    "山东柳子戏": {
+      "type": "opera",
+      "title": "山东柳子戏",
+      "description": "山东地方戏曲，唱腔高亢，表演豪放，以武戏著称",
+      "content": "山东地方戏曲，唱腔高亢，表演豪放，以武戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "山东",
+        "唱腔",
+        "武戏",
+        "高亢",
+        "豪放",
+        "柳子",
+        "粗犷"
+      ],
+      "history": "起源于山东，是山东主要地方戏曲，以武戏见长。山东柳子戏以其高亢的唱腔和豪放的表演著称，体现了齐鲁文化的特色。",
+      "technique": "山东柳子戏以柳子腔为主，唱腔高亢豪放，表演注重武打，音乐伴奏以梆子为主，具有浓郁的山东特色。",
+      "features": "唱腔高亢，表演豪放，武戏精彩，音乐伴奏热烈，具有浓郁的山东文化特色。",
+      "funFact": "山东柳子戏是山东文化的重要组成部分，以其'高亢豪放'的特点闻名。山东柳子戏的武戏体现了齐鲁人民的豪爽性格。",
+      "keywords": [
+        "山东柳子戏",
+        "山东",
+        "唱腔",
+        "武戏",
+        "高亢",
+        "豪放",
+        "柳子",
+        "粗犷"
+      ],
+      "files": [],
+      "createdAt": "2025-08-08T06:41:00.000Z",
+      "updatedAt": "2025-08-08T06:41:00.000Z",
+      "media": []
+    },
+    "河北评剧": {
+      "type": "opera",
+      "title": "河北评剧",
+      "description": "河北地方戏曲，唱腔通俗，表演自然，以现代戏著称",
+      "content": "河北地方戏曲，唱腔通俗，表演自然，以现代戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "河北",
+        "唱腔",
+        "现代戏",
+        "通俗",
+        "自然",
+        "评剧",
+        "贴近生活"
+      ],
+      "history": "起源于河北，是河北主要地方戏曲，以现代戏见长。河北评剧以其通俗的唱腔和自然的表演著称，体现了燕赵文化的特色。",
+      "technique": "河北评剧以评剧腔为主，唱腔通俗自然，表演贴近生活，音乐伴奏以板胡为主，具有浓郁的河北特色。",
+      "features": "唱腔通俗，表演自然，现代戏精彩，音乐伴奏贴近生活，具有浓郁的河北文化特色。",
+      "funFact": "河北评剧是河北文化的重要组成部分，以其'通俗自然'的特点闻名。河北评剧的现代戏体现了燕赵人民的朴实生活。",
+      "keywords": [
+        "河北评剧",
+        "河北",
+        "唱腔",
+        "现代戏",
+        "通俗",
+        "自然",
+        "评剧",
+        "贴近生活"
+      ],
+      "files": [],
+      "createdAt": "2025-08-08T06:41:00.000Z",
+      "updatedAt": "2025-08-08T06:41:00.000Z",
+      "media": []
+    },
+    "河北丝弦": {
+      "type": "opera",
+      "title": "河北丝弦",
+      "description": "河北地方戏曲，唱腔优美，表演细腻，以才子佳人戏著称",
+      "content": "河北地方戏曲，唱腔优美，表演细腻，以才子佳人戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "河北",
+        "唱腔",
+        "才子佳人",
+        "优美",
+        "细腻",
+        "丝弦",
+        "抒情"
+      ],
+      "history": "起源于河北，是河北主要地方戏曲，以才子佳人戏见长。河北丝弦以其优美的唱腔和细腻的表演著称，体现了燕赵文化的特色。",
+      "technique": "河北丝弦以丝弦腔为主，唱腔优美细腻，表演注重身段，音乐伴奏以丝弦为主，具有浓郁的河北特色。",
+      "features": "唱腔优美，表演细腻，才子佳人戏精彩，音乐伴奏抒情，具有浓郁的河北文化特色。",
+      "funFact": "河北丝弦是河北文化的重要组成部分，以其'优美细腻'的特点闻名。河北丝弦的才子佳人戏体现了燕赵文化的精致和优雅。",
+      "keywords": [
+        "河北丝弦",
+        "河北",
+        "唱腔",
+        "才子佳人",
+        "优美",
+        "细腻",
+        "丝弦",
+        "抒情"
+      ],
+      "files": [],
+      "createdAt": "2025-08-08T06:41:00.000Z",
+      "updatedAt": "2025-08-08T06:41:00.000Z",
+      "media": []
+    },
+    "山西蒲剧": {
+      "type": "opera",
+      "title": "山西蒲剧",
+      "description": "山西地方戏曲，唱腔高亢，表演豪放，以历史戏著称",
+      "content": "山西地方戏曲，唱腔高亢，表演豪放，以历史戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "山西",
+        "唱腔",
+        "历史戏",
+        "高亢",
+        "豪放",
+        "蒲剧",
+        "粗犷"
+      ],
+      "history": "起源于山西，是山西主要地方戏曲，以历史戏见长。山西蒲剧以其高亢的唱腔和豪放的表演著称，体现了晋文化的特色。",
+      "technique": "山西蒲剧以蒲剧腔为主，唱腔高亢豪放，表演注重历史题材，音乐伴奏以梆子为主，具有浓郁的山西特色。",
+      "features": "唱腔高亢，表演豪放，历史戏精彩，音乐伴奏热烈，具有浓郁的山西文化特色。",
+      "funFact": "山西蒲剧是山西文化的重要组成部分，以其'高亢豪放'的特点闻名。山西蒲剧的历史戏体现了晋文化的豪爽性格。",
+      "keywords": [
+        "山西蒲剧",
+        "山西",
+        "唱腔",
+        "历史戏",
+        "高亢",
+        "豪放",
+        "蒲剧",
+        "粗犷"
+      ],
+      "files": [],
+      "createdAt": "2025-08-08T06:41:00.000Z",
+      "updatedAt": "2025-08-08T06:41:00.000Z",
+      "media": []
+    },
+    "山西北路梆子": {
+      "type": "opera",
+      "title": "山西北路梆子",
+      "description": "山西地方戏曲，唱腔高亢，表演豪放，以武戏著称",
+      "content": "山西地方戏曲，唱腔高亢，表演豪放，以武戏著称",
+      "icon": "fa-music",
+      "tags": [
+        "山西",
+        "唱腔",
+        "武戏",
+        "高亢",
+        "豪放",
+        "北路梆子",
+        "粗犷"
+      ],
+      "history": "起源于山西，是山西主要地方戏曲，以武戏见长。山西北路梆子以其高亢的唱腔和豪放的表演著称，体现了晋文化的特色。",
+      "technique": "山西北路梆子以北路梆子腔为主，唱腔高亢豪放，表演注重武打，音乐伴奏以梆子为主，具有浓郁的山西特色。",
+      "features": "唱腔高亢，表演豪放，武戏精彩，音乐伴奏热烈，具有浓郁的山西文化特色。",
+      "funFact": "山西北路梆子是山西文化的重要组成部分，以其'高亢豪放'的特点闻名。山西北路梆子的武戏体现了晋文化的豪爽性格。",
+      "keywords": [
+        "山西北路梆子",
+        "山西",
+        "唱腔",
+        "武戏",
+        "高亢",
+        "豪放",
+        "北路梆子",
+        "粗犷"
+      ],
+      "files": [],
+      "createdAt": "2025-08-08T06:41:00.000Z",
+      "updatedAt": "2025-08-08T06:41:00.000Z",
+      "media": []
+    }
+  },
+  "traditionalMedicine": {
+    "人参": {
+      "id": "人参",
+      "title": "人参",
+      "description": "中国传统名贵中药材，被誉为'百草之王'，具有大补元气、复脉固脱的功效",
+      "content": "人参是中国传统名贵中药材，被誉为'百草之王'，具有大补元气、复脉固脱的功效。人参性微温，味甘微苦，归脾、肺、心、肾经。具有大补元气、复脉固脱、补脾益肺、生津养血、安神益智的功效。",
+      "category": "traditionalMedicine",
+      "tags": [
+        "中药材",
+        "补气",
+        "名贵",
+        "百草之王",
+        "大补元气",
+        "复脉固脱"
+      ],
+      "keywords": [
+        "人参",
+        "中药材",
+        "补气",
+        "名贵",
+        "百草之王",
+        "大补元气",
+        "复脉固脱",
+        "补脾益肺",
+        "生津养血",
+        "安神益智"
+      ],
+      "history": "人参在中国已有2000多年的药用历史，最早记载于《神农本草经》，被列为上品。古代医家认为人参能'大补元气，复脉固脱'，是治疗虚证的重要药物。",
+      "technique": "人参的采集和炮制有严格的要求，一般在秋季采挖，经过清洗、晒干或烘干等工序。炮制方法包括生晒参、红参、白参等不同品种。",
+      "features": "人参具有大补元气、复脉固脱的功效，适用于气虚证、虚脱证等。现代研究表明人参含有多种活性成分，具有抗疲劳、增强免疫力的作用。",
+      "funFact": "人参被誉为'百草之王'，在中国传统文化中具有重要地位。古代医家认为人参能'起死回生'，是治疗重症的重要药物。",
+      "media": [],
+      "createdAt": "2025-08-08T07:00:00.000Z",
+      "updatedAt": "2025-08-08T07:00:00.000Z",
+      "type": "traditionalMedicine",
+      "icon": "fa-leaf"
+    },
+    "当归": {
+      "id": "当归",
+      "title": "当归",
+      "description": "中国传统妇科要药，被誉为'血中之宝'，具有补血活血、调经止痛的功效",
+      "content": "当归是中国传统妇科要药，被誉为'血中之宝'，具有补血活血、调经止痛的功效。当归性温，味甘辛，归肝、心、脾经。具有补血活血、调经止痛、润燥滑肠的功效。",
+      "category": "traditionalMedicine",
+      "tags": [
+        "中药材",
+        "妇科",
+        "补血",
+        "活血",
+        "调经",
+        "止痛"
+      ],
+      "keywords": [
+        "当归",
+        "中药材",
+        "妇科",
+        "补血",
+        "活血",
+        "调经",
+        "止痛",
+        "润燥滑肠",
+        "血中之宝"
+      ],
+      "history": "当归在中国已有1500多年的药用历史，最早记载于《神农本草经》。古代医家认为当归是妇科要药，能'补血活血，调经止痛'。",
+      "technique": "当归一般在秋季采挖，经过清洗、切片、晒干等工序。炮制方法包括生当归、酒当归、炒当归等不同品种。",
+      "features": "当归具有补血活血、调经止痛的功效，适用于血虚证、月经不调、痛经等。现代研究表明当归含有多种活性成分，具有补血、活血、抗炎的作用。",
+      "funFact": "当归被誉为'血中之宝'，在中医妇科中具有重要地位。古代医家认为当归能'补血活血，调经止痛'，是治疗妇科疾病的重要药物。",
+      "media": [],
+      "createdAt": "2025-08-08T07:00:00.000Z",
+      "updatedAt": "2025-08-08T07:00:00.000Z",
+      "type": "traditionalMedicine",
+      "icon": "fa-leaf"
+    },
+    "黄芪": {
+      "id": "黄芪",
+      "title": "黄芪",
+      "description": "中国传统补气要药，被誉为'补气之长'，具有补气升阳、益卫固表的功效",
+      "content": "黄芪是中国传统补气要药，被誉为'补气之长'，具有补气升阳、益卫固表的功效。黄芪性微温，味甘，归脾、肺经。具有补气升阳、益卫固表、利水消肿、生津养血、行气活血、托毒排脓、敛疮生肌的功效。",
+      "category": "traditionalMedicine",
+      "tags": [
+        "中药材",
+        "补气",
+        "升阳",
+        "固表",
+        "利水",
+        "消肿"
+      ],
+      "keywords": [
+        "黄芪",
+        "中药材",
+        "补气",
+        "升阳",
+        "固表",
+        "利水",
+        "消肿",
+        "生津养血",
+        "行气活血",
+        "托毒排脓"
+      ],
+      "history": "黄芪在中国已有2000多年的药用历史，最早记载于《神农本草经》，被列为上品。古代医家认为黄芪能'补气升阳，益卫固表'，是治疗气虚证的重要药物。",
+      "technique": "黄芪一般在秋季采挖，经过清洗、切片、晒干等工序。炮制方法包括生黄芪、炙黄芪、炒黄芪等不同品种。",
+      "features": "黄芪具有补气升阳、益卫固表的功效，适用于气虚证、表虚自汗等。现代研究表明黄芪含有多种活性成分，具有增强免疫力、抗疲劳的作用。",
+      "funFact": "黄芪被誉为'补气之长'，在中医补气药中具有重要地位。古代医家认为黄芪能'补气升阳，益卫固表'，是治疗气虚证的重要药物。",
+      "media": [],
+      "createdAt": "2025-08-08T07:00:00.000Z",
+      "updatedAt": "2025-08-08T07:00:00.000Z",
+      "type": "traditionalMedicine",
+      "icon": "fa-leaf"
+    },
+    "枸杞": {
+      "id": "枸杞",
+      "title": "枸杞",
+      "description": "中国传统滋补要药，被誉为'明目之宝'，具有滋补肝肾、益精明目的功效",
+      "content": "枸杞是中国传统滋补要药，被誉为'明目之宝'，具有滋补肝肾、益精明目的功效。枸杞性平，味甘，归肝、肾经。具有滋补肝肾、益精明目、养血安神的功效。",
+      "category": "traditionalMedicine",
+      "tags": [
+        "中药材",
+        "滋补",
+        "明目",
+        "肝肾",
+        "养血",
+        "安神"
+      ],
+      "keywords": [
+        "枸杞",
+        "中药材",
+        "滋补",
+        "明目",
+        "肝肾",
+        "养血",
+        "安神",
+        "明目之宝",
+        "滋补肝肾",
+        "益精明目"
+      ],
+      "history": "枸杞在中国已有2000多年的药用历史，最早记载于《神农本草经》，被列为上品。古代医家认为枸杞能'滋补肝肾，益精明目'，是治疗肝肾阴虚的重要药物。",
+      "technique": "枸杞一般在夏季采摘，经过清洗、晒干等工序。炮制方法包括生枸杞、酒枸杞、炒枸杞等不同品种。",
+      "features": "枸杞具有滋补肝肾、益精明目的功效，适用于肝肾阴虚、目昏不明等。现代研究表明枸杞含有多种活性成分，具有抗氧化、增强免疫力的作用。",
+      "funFact": "枸杞被誉为'明目之宝'，在中医滋补药中具有重要地位。古代医家认为枸杞能'滋补肝肾，益精明目'，是治疗肝肾阴虚的重要药物。",
+      "media": [],
+      "createdAt": "2025-08-08T07:00:00.000Z",
+      "updatedAt": "2025-08-08T07:00:00.000Z",
+      "type": "traditionalMedicine",
+      "icon": "fa-leaf"
+    },
+    "茯苓": {
+      "id": "茯苓",
+      "title": "茯苓",
+      "description": "中国传统利水要药，被誉为'利水之宝'，具有利水渗湿、健脾宁心的功效",
+      "content": "茯苓是中国传统利水要药，被誉为'利水之宝'，具有利水渗湿、健脾宁心的功效。茯苓性平，味甘淡，归心、肺、脾、肾经。具有利水渗湿、健脾宁心、安神的功效。",
+      "category": "traditionalMedicine",
+      "tags": [
+        "中药材",
+        "利水",
+        "渗湿",
+        "健脾",
+        "宁心",
+        "安神"
+      ],
+      "keywords": [
+        "茯苓",
+        "中药材",
+        "利水",
+        "渗湿",
+        "健脾",
+        "宁心",
+        "安神",
+        "利水之宝",
+        "利水渗湿",
+        "健脾宁心"
+      ],
+      "history": "茯苓在中国已有2000多年的药用历史，最早记载于《神农本草经》，被列为上品。古代医家认为茯苓能'利水渗湿，健脾宁心'，是治疗水湿证的重要药物。",
+      "technique": "茯苓一般在秋季采挖，经过清洗、切片、晒干等工序。炮制方法包括生茯苓、炒茯苓、朱茯苓等不同品种。",
+      "features": "茯苓具有利水渗湿、健脾宁心的功效，适用于水湿证、脾虚证等。现代研究表明茯苓含有多种活性成分，具有利尿、镇静的作用。",
+      "funFact": "茯苓被誉为'利水之宝'，在中医利水药中具有重要地位。古代医家认为茯苓能'利水渗湿，健脾宁心'，是治疗水湿证的重要药物。",
+      "media": [],
+      "createdAt": "2025-08-08T07:00:00.000Z",
+      "updatedAt": "2025-08-08T07:00:00.000Z",
+      "type": "traditionalMedicine",
+      "icon": "fa-leaf"
+    },
+    "白术": {
+      "id": "白术",
+      "title": "白术",
+      "description": "中国传统健脾要药，被誉为'健脾之长'，具有健脾益气、燥湿利水的功效",
+      "content": "白术是中国传统健脾要药，被誉为'健脾之长'，具有健脾益气、燥湿利水的功效。白术性温，味苦甘，归脾、胃经。具有健脾益气、燥湿利水、止汗安胎的功效。",
+      "category": "traditionalMedicine",
+      "tags": [
+        "中药材",
+        "健脾",
+        "益气",
+        "燥湿",
+        "利水",
+        "止汗"
+      ],
+      "keywords": [
+        "白术",
+        "中药材",
+        "健脾",
+        "益气",
+        "燥湿",
+        "利水",
+        "止汗",
+        "安胎",
+        "健脾之长",
+        "健脾益气"
+      ],
+      "history": "白术在中国已有2000多年的药用历史，最早记载于《神农本草经》，被列为上品。古代医家认为白术能'健脾益气，燥湿利水'，是治疗脾虚证的重要药物。",
+      "technique": "白术一般在秋季采挖，经过清洗、切片、晒干等工序。炮制方法包括生白术、炒白术、焦白术等不同品种。",
+      "features": "白术具有健脾益气、燥湿利水的功效，适用于脾虚证、水湿证等。现代研究表明白术含有多种活性成分，具有增强消化功能、利尿的作用。",
+      "funFact": "白术被誉为'健脾之长'，在中医健脾药中具有重要地位。古代医家认为白术能'健脾益气，燥湿利水'，是治疗脾虚证的重要药物。",
+      "media": [],
+      "createdAt": "2025-08-08T07:00:00.000Z",
+      "updatedAt": "2025-08-08T07:00:00.000Z",
+      "type": "traditionalMedicine",
+      "icon": "fa-leaf"
+    },
+    "白芍": {
+      "id": "白芍",
+      "title": "白芍",
+      "description": "中国传统养血要药，被誉为'养血之宝'，具有养血调经、敛阴止汗的功效",
+      "content": "白芍是中国传统养血要药，被誉为'养血之宝'，具有养血调经、敛阴止汗的功效。白芍性微寒，味苦酸，归肝、脾经。具有养血调经、敛阴止汗、柔肝止痛、平抑肝阳的功效。",
+      "category": "traditionalMedicine",
+      "tags": [
+        "中药材",
+        "养血",
+        "调经",
+        "敛阴",
+        "止汗",
+        "柔肝"
+      ],
+      "keywords": [
+        "白芍",
+        "中药材",
+        "养血",
+        "调经",
+        "敛阴",
+        "止汗",
+        "柔肝",
+        "止痛",
+        "平抑肝阳",
+        "养血之宝"
+      ],
+      "history": "白芍在中国已有2000多年的药用历史，最早记载于《神农本草经》，被列为上品。古代医家认为白芍能'养血调经，敛阴止汗'，是治疗血虚证的重要药物。",
+      "technique": "白芍一般在秋季采挖，经过清洗、切片、晒干等工序。炮制方法包括生白芍、炒白芍、酒白芍等不同品种。",
+      "features": "白芍具有养血调经、敛阴止汗的功效，适用于血虚证、月经不调等。现代研究表明白芍含有多种活性成分，具有补血、镇静、镇痛的作用。",
+      "funFact": "白芍被誉为'养血之宝'，在中医养血药中具有重要地位。古代医家认为白芍能'养血调经，敛阴止汗'，是治疗血虚证的重要药物。",
+      "media": [],
+      "createdAt": "2025-08-08T07:00:00.000Z",
+      "updatedAt": "2025-08-08T07:00:00.000Z",
+      "type": "traditionalMedicine",
+      "icon": "fa-leaf"
+    },
+    "川芎": {
+      "id": "川芎",
+      "title": "川芎",
+      "description": "中国传统活血要药，被誉为'血中之气药'，具有活血行气、祛风止痛的功效",
+      "content": "川芎是中国传统活血要药，被誉为'血中之气药'，具有活血行气、祛风止痛的功效。川芎性温，味辛，归肝、胆、心包经。具有活血行气、祛风止痛、开郁调经的功效。",
+      "category": "traditionalMedicine",
+      "tags": [
+        "中药材",
+        "活血",
+        "行气",
+        "祛风",
+        "止痛",
+        "开郁"
+      ],
+      "keywords": [
+        "川芎",
+        "中药材",
+        "活血",
+        "行气",
+        "祛风",
+        "止痛",
+        "开郁",
+        "调经",
+        "血中之气药",
+        "活血行气"
+      ],
+      "history": "川芎在中国已有2000多年的药用历史，最早记载于《神农本草经》，被列为上品。古代医家认为川芎能'活血行气，祛风止痛'，是治疗血瘀证的重要药物。",
+      "technique": "川芎一般在秋季采挖，经过清洗、切片、晒干等工序。炮制方法包括生川芎、炒川芎、酒川芎等不同品种。",
+      "features": "川芎具有活血行气、祛风止痛的功效，适用于血瘀证、头痛等。现代研究表明川芎含有多种活性成分，具有活血、镇痛、抗炎的作用。",
+      "funFact": "川芎被誉为'血中之气药'，在中医活血药中具有重要地位。古代医家认为川芎能'活血行气，祛风止痛'，是治疗血瘀证的重要药物。",
+      "media": [],
+      "createdAt": "2025-08-08T07:00:00.000Z",
+      "updatedAt": "2025-08-08T07:00:00.000Z",
+      "type": "traditionalMedicine",
+      "icon": "fa-leaf"
+    },
+    "甘草": {
+      "id": "甘草",
+      "title": "甘草",
+      "description": "中国传统调和要药，被誉为'国老'，具有补脾益气、清热解毒、调和诸药的功效",
+      "content": "甘草是中国传统调和要药，被誉为'国老'，具有补脾益气、清热解毒、调和诸药的功效。甘草性平，味甘，归心、肺、脾、胃经。具有补脾益气、清热解毒、祛痰止咳、缓急止痛、调和诸药的功效。",
+      "category": "traditionalMedicine",
+      "tags": [
+        "中药材",
+        "调和",
+        "补脾",
+        "益气",
+        "清热",
+        "解毒"
+      ],
+      "keywords": [
+        "甘草",
+        "中药材",
+        "调和",
+        "补脾",
+        "益气",
+        "清热",
+        "解毒",
+        "祛痰止咳",
+        "缓急止痛",
+        "国老"
+      ],
+      "history": "甘草在中国已有2000多年的药用历史，最早记载于《神农本草经》，被列为上品。古代医家认为甘草能'调和诸药'，是中药方剂中的重要配伍药物。",
+      "technique": "甘草一般在秋季采挖，经过清洗、切片、晒干等工序。炮制方法包括生甘草、炙甘草、炒甘草等不同品种。",
+      "features": "甘草具有补脾益气、清热解毒、调和诸药的功效，适用于脾虚证、热毒证等。现代研究表明甘草含有多种活性成分，具有抗炎、解毒、镇咳的作用。",
+      "funFact": "甘草被誉为'国老'，在中医方剂中具有重要地位。古代医家认为甘草能'调和诸药'，是中药方剂中的重要配伍药物。",
+      "media": [],
+      "createdAt": "2025-08-08T07:00:00.000Z",
+      "updatedAt": "2025-08-08T07:00:00.000Z",
+      "type": "traditionalMedicine",
+      "icon": "fa-leaf"
+    },
+    "熟地黄": {
+      "id": "熟地黄",
+      "title": "熟地黄",
+      "description": "中国传统补血要药，被誉为'补血之长'，具有补血滋阴、益精填髓的功效",
+      "content": "熟地黄是中国传统补血要药，被誉为'补血之长'，具有补血滋阴、益精填髓的功效。熟地黄性微温，味甘，归肝、肾经。具有补血滋阴、益精填髓的功效。",
+      "category": "traditionalMedicine",
+      "tags": [
+        "中药材",
+        "补血",
+        "滋阴",
+        "益精",
+        "填髓",
+        "补血之长"
+      ],
+      "keywords": [
+        "熟地黄",
+        "中药材",
+        "补血",
+        "滋阴",
+        "益精",
+        "填髓",
+        "补血之长",
+        "补血滋阴",
+        "益精填髓",
+        "肝肾"
+      ],
+      "history": "熟地黄在中国已有2000多年的药用历史，最早记载于《神农本草经》，被列为上品。古代医家认为熟地黄能'补血滋阴，益精填髓'，是治疗血虚证的重要药物。",
+      "technique": "熟地黄是生地黄经过蒸制而成，经过清洗、蒸制、切片、晒干等工序。炮制方法包括酒蒸、醋蒸等不同品种。",
+      "features": "熟地黄具有补血滋阴、益精填髓的功效，适用于血虚证、肝肾阴虚等。现代研究表明熟地黄含有多种活性成分，具有补血、滋阴的作用。",
+      "funFact": "熟地黄被誉为'补血之长'，在中医补血药中具有重要地位。古代医家认为熟地黄能'补血滋阴，益精填髓'，是治疗血虚证的重要药物。",
+      "media": [],
+      "createdAt": "2025-08-08T07:00:00.000Z",
+      "updatedAt": "2025-08-08T07:00:00.000Z",
+      "type": "traditionalMedicine",
+      "icon": "fa-leaf"
+    },
+    "山药": {
+      "id": "山药",
+      "title": "山药",
+      "description": "中国传统健脾要药，被誉为'健脾之宝'，具有补脾养胃、生津益肺的功效",
+      "content": "山药是中国传统健脾要药，被誉为'健脾之宝'，具有补脾养胃、生津益肺的功效。山药性平，味甘，归脾、肺、肾经。具有补脾养胃、生津益肺、补肾涩精的功效。",
+      "category": "traditionalMedicine",
+      "tags": [
+        "中药材",
+        "健脾",
+        "养胃",
+        "生津",
+        "益肺",
+        "补肾"
+      ],
+      "keywords": [
+        "山药",
+        "中药材",
+        "健脾",
+        "养胃",
+        "生津",
+        "益肺",
+        "补肾",
+        "涩精",
+        "健脾之宝",
+        "补脾养胃"
+      ],
+      "history": "山药在中国已有2000多年的药用历史，最早记载于《神农本草经》，被列为上品。古代医家认为山药能'补脾养胃，生津益肺'，是治疗脾虚证的重要药物。",
+      "technique": "山药一般在秋季采挖，经过清洗、切片、晒干等工序。炮制方法包括生山药、炒山药、麸炒山药等不同品种。",
+      "features": "山药具有补脾养胃、生津益肺的功效，适用于脾虚证、肺虚证等。现代研究表明山药含有多种活性成分，具有增强消化功能、降血糖的作用。",
+      "funFact": "山药被誉为'健脾之宝'，在中医健脾药中具有重要地位。古代医家认为山药能'补脾养胃，生津益肺'，是治疗脾虚证的重要药物。",
+      "media": [],
+      "createdAt": "2025-08-08T07:00:00.000Z",
+      "updatedAt": "2025-08-08T07:00:00.000Z",
+      "type": "traditionalMedicine",
+      "icon": "fa-leaf"
+    },
+    "阿胶": {
+      "id": "阿胶",
+      "title": "阿胶",
+      "description": "中国传统补血要药，被誉为'补血圣品'，具有补血滋阴、润燥止血的功效",
+      "content": "阿胶是中国传统补血要药，被誉为'补血圣品'，具有补血滋阴、润燥止血的功效。阿胶性平，味甘，归肺、肝、肾经。具有补血滋阴、润燥止血的功效。",
+      "category": "traditionalMedicine",
+      "tags": [
+        "中药材",
+        "补血",
+        "滋阴",
+        "润燥",
+        "止血",
+        "补血圣品"
+      ],
+      "keywords": [
+        "阿胶",
+        "中药材",
+        "补血",
+        "滋阴",
+        "润燥",
+        "止血",
+        "补血圣品",
+        "补血滋阴",
+        "润燥止血",
+        "驴皮胶"
+      ],
+      "history": "阿胶在中国已有2000多年的药用历史，最早记载于《神农本草经》，被列为上品。古代医家认为阿胶能'补血滋阴，润燥止血'，是治疗血虚证的重要药物。",
+      "technique": "阿胶是用驴皮熬制而成，经过清洗、熬制、凝固、切块等工序。炮制方法包括生阿胶、炒阿胶、蛤粉炒阿胶等不同品种。",
+      "features": "阿胶具有补血滋阴、润燥止血的功效，适用于血虚证、阴虚证等。现代研究表明阿胶含有多种活性成分，具有补血、止血、抗衰老的作用。",
+      "funFact": "阿胶被誉为'补血圣品'，在中医补血药中具有重要地位。古代医家认为阿胶能'补血滋阴，润燥止血'，是治疗血虚证的重要药物。",
+      "media": [],
+      "createdAt": "2025-08-08T07:00:00.000Z",
+      "updatedAt": "2025-08-08T07:00:00.000Z",
+      "type": "traditionalMedicine",
+      "icon": "fa-leaf"
+    },
+    "何首乌": {
+      "id": "何首乌",
+      "title": "何首乌",
+      "description": "中国传统滋补要药，被誉为'乌发之宝'，具有补肝肾、益精血、乌须发的功效",
+      "content": "何首乌是中国传统滋补要药，被誉为'乌发之宝'，具有补肝肾、益精血、乌须发的功效。何首乌性微温，味苦甘涩，归肝、肾经。具有补肝肾、益精血、乌须发、截疟、解毒、润肠通便的功效。",
+      "category": "traditionalMedicine",
+      "tags": [
+        "中药材",
+        "滋补",
+        "补肝肾",
+        "益精血",
+        "乌须发",
+        "截疟"
+      ],
+      "keywords": [
+        "何首乌",
+        "中药材",
+        "滋补",
+        "补肝肾",
+        "益精血",
+        "乌须发",
+        "截疟",
+        "解毒",
+        "润肠通便",
+        "乌发之宝"
+      ],
+      "history": "何首乌在中国已有2000多年的药用历史，最早记载于《神农本草经》，被列为上品。古代医家认为何首乌能'补肝肾，益精血，乌须发'，是治疗肝肾阴虚的重要药物。",
+      "technique": "何首乌一般在秋季采挖，经过清洗、切片、晒干等工序。炮制方法包括生何首乌、制何首乌、酒何首乌等不同品种。",
+      "features": "何首乌具有补肝肾、益精血、乌须发的功效，适用于肝肾阴虚、须发早白等。现代研究表明何首乌含有多种活性成分，具有抗衰老、降血脂的作用。",
+      "funFact": "何首乌被誉为'乌发之宝'，在中医滋补药中具有重要地位。古代医家认为何首乌能'补肝肾，益精血，乌须发'，是治疗肝肾阴虚的重要药物。",
+      "media": [],
+      "createdAt": "2025-08-08T07:00:00.000Z",
+      "updatedAt": "2025-08-08T07:00:00.000Z",
+      "type": "traditionalMedicine",
+      "icon": "fa-leaf"
+    },
+    "灵芝": {
+      "id": "灵芝",
+      "title": "灵芝",
+      "description": "中国传统滋补要药，被誉为'仙草'，具有补气安神、益肺止咳的功效",
+      "content": "灵芝是中国传统滋补要药，被誉为'仙草'，具有补气安神、益肺止咳的功效。灵芝性平，味甘，归心、肺、肝、肾经。具有补气安神、益肺止咳、平喘的功效。",
+      "category": "traditionalMedicine",
+      "tags": [
+        "中药材",
+        "滋补",
+        "补气",
+        "安神",
+        "益肺",
+        "止咳"
+      ],
+      "keywords": [
+        "灵芝",
+        "中药材",
+        "滋补",
+        "补气",
+        "安神",
+        "益肺",
+        "止咳",
+        "平喘",
+        "仙草",
+        "补气安神"
+      ],
+      "history": "灵芝在中国已有2000多年的药用历史，最早记载于《神农本草经》，被列为上品。古代医家认为灵芝能'补气安神，益肺止咳'，是治疗虚证的重要药物。",
+      "technique": "灵芝一般在秋季采集，经过清洗、切片、晒干等工序。炮制方法包括生灵芝、炒灵芝、酒灵芝等不同品种。",
+      "features": "灵芝具有补气安神、益肺止咳的功效，适用于气虚证、失眠等。现代研究表明灵芝含有多种活性成分，具有增强免疫力、抗肿瘤的作用。",
+      "funFact": "灵芝被誉为'仙草'，在中医滋补药中具有重要地位。古代医家认为灵芝能'补气安神，益肺止咳'，是治疗虚证的重要药物。",
+      "media": [],
+      "createdAt": "2025-08-08T07:00:00.000Z",
+      "updatedAt": "2025-08-08T07:00:00.000Z",
+      "type": "traditionalMedicine",
+      "icon": "fa-leaf"
+    },
+    "冬虫夏草": {
+      "id": "冬虫夏草",
+      "title": "冬虫夏草",
+      "description": "中国传统滋补要药，被誉为'软黄金'，具有补肺益肾、止血化痰的功效",
+      "content": "冬虫夏草是中国传统滋补要药，被誉为'软黄金'，具有补肺益肾、止血化痰的功效。冬虫夏草性平，味甘，归肺、肾经。具有补肺益肾、止血化痰的功效。",
+      "category": "traditionalMedicine",
+      "tags": [
+        "中药材",
+        "滋补",
+        "补肺",
+        "益肾",
+        "止血",
+        "化痰"
+      ],
+      "keywords": [
+        "冬虫夏草",
+        "中药材",
+        "滋补",
+        "补肺",
+        "益肾",
+        "止血",
+        "化痰",
+        "软黄金",
+        "补肺益肾",
+        "止血化痰"
+      ],
+      "history": "冬虫夏草在中国已有1000多年的药用历史，最早记载于《本草纲目》。古代医家认为冬虫夏草能'补肺益肾，止血化痰'，是治疗虚证的重要药物。",
+      "technique": "冬虫夏草一般在夏季采集，经过清洗、晒干等工序。炮制方法包括生冬虫夏草、酒冬虫夏草等不同品种。",
+      "features": "冬虫夏草具有补肺益肾、止血化痰的功效，适用于肺虚证、肾虚证等。现代研究表明冬虫夏草含有多种活性成分，具有增强免疫力、抗肿瘤的作用。",
+      "funFact": "冬虫夏草被誉为'软黄金'，在中医滋补药中具有重要地位。古代医家认为冬虫夏草能'补肺益肾，止血化痰'，是治疗虚证的重要药物。",
+      "media": [],
+      "createdAt": "2025-08-08T07:00:00.000Z",
+      "updatedAt": "2025-08-08T07:00:00.000Z",
+      "type": "traditionalMedicine",
+      "icon": "fa-leaf"
+    },
+    "石斛": {
+      "id": "石斛",
+      "title": "石斛",
+      "description": "中国传统滋阴要药，被誉为'滋阴之宝'，具有益胃生津、滋阴清热的功效",
+      "content": "石斛是中国传统滋阴要药，被誉为'滋阴之宝'，具有益胃生津、滋阴清热的功效。石斛性微寒，味甘，归胃、肾经。具有益胃生津、滋阴清热的功效。",
+      "category": "traditionalMedicine",
+      "tags": [
+        "中药材",
+        "滋阴",
+        "益胃",
+        "生津",
+        "清热",
+        "滋阴之宝"
+      ],
+      "keywords": [
+        "石斛",
+        "中药材",
+        "滋阴",
+        "益胃",
+        "生津",
+        "清热",
+        "滋阴之宝",
+        "益胃生津",
+        "滋阴清热",
+        "铁皮石斛"
+      ],
+      "history": "石斛在中国已有2000多年的药用历史，最早记载于《神农本草经》，被列为上品。古代医家认为石斛能'益胃生津，滋阴清热'，是治疗阴虚证的重要药物。",
+      "technique": "石斛一般在秋季采集，经过清洗、切片、晒干等工序。炮制方法包括生石斛、炒石斛、酒石斛等不同品种。",
+      "features": "石斛具有益胃生津、滋阴清热的功效，适用于胃阴虚、肾阴虚等。现代研究表明石斛含有多种活性成分，具有降血糖、增强免疫力的作用。",
+      "funFact": "石斛被誉为'滋阴之宝'，在中医滋阴药中具有重要地位。古代医家认为石斛能'益胃生津，滋阴清热'，是治疗阴虚证的重要药物。",
+      "media": [],
+      "createdAt": "2025-08-08T07:00:00.000Z",
+      "updatedAt": "2025-08-08T07:00:00.000Z",
+      "type": "traditionalMedicine",
+      "icon": "fa-leaf"
+    },
+    "天麻": {
+      "id": "天麻",
+      "title": "天麻",
+      "description": "中国传统平肝要药，被誉为'定风草'，具有平肝息风、通络止痛的功效",
+      "content": "天麻是中国传统平肝要药，被誉为'定风草'，具有平肝息风、通络止痛的功效。天麻性平，味甘，归肝经。具有平肝息风、通络止痛的功效。",
+      "category": "traditionalMedicine",
+      "tags": [
+        "中药材",
+        "平肝",
+        "息风",
+        "通络",
+        "止痛",
+        "定风草"
+      ],
+      "keywords": [
+        "天麻",
+        "中药材",
+        "平肝",
+        "息风",
+        "通络",
+        "止痛",
+        "定风草",
+        "平肝息风",
+        "通络止痛",
+        "肝风"
+      ],
+      "history": "天麻在中国已有2000多年的药用历史，最早记载于《神农本草经》，被列为上品。古代医家认为天麻能'平肝息风，通络止痛'，是治疗肝风证的重要药物。",
+      "technique": "天麻一般在秋季采挖，经过清洗、切片、晒干等工序。炮制方法包括生天麻、炒天麻、酒天麻等不同品种。",
+      "features": "天麻具有平肝息风、通络止痛的功效，适用于肝风证、头痛等。现代研究表明天麻含有多种活性成分，具有镇静、镇痛、抗惊厥的作用。",
+      "funFact": "天麻被誉为'定风草'，在中医平肝药中具有重要地位。古代医家认为天麻能'平肝息风，通络止痛'，是治疗肝风证的重要药物。",
+      "media": [],
+      "createdAt": "2025-08-08T07:00:00.000Z",
+      "updatedAt": "2025-08-08T07:00:00.000Z",
+      "type": "traditionalMedicine",
+      "icon": "fa-leaf"
+    },
+    "杜仲": {
+      "id": "杜仲",
+      "title": "杜仲",
+      "description": "中国传统补肾要药，被誉为'补肾之长'，具有补肝肾、强筋骨、安胎的功效",
+      "content": "杜仲是中国传统补肾要药，被誉为'补肾之长'，具有补肝肾、强筋骨、安胎的功效。杜仲性温，味甘，归肝、肾经。具有补肝肾、强筋骨、安胎的功效。",
+      "category": "traditionalMedicine",
+      "tags": [
+        "中药材",
+        "补肾",
+        "补肝肾",
+        "强筋骨",
+        "安胎",
+        "补肾之长"
+      ],
+      "keywords": [
+        "杜仲",
+        "中药材",
+        "补肾",
+        "补肝肾",
+        "强筋骨",
+        "安胎",
+        "补肾之长",
+        "补肝肾",
+        "强筋骨",
+        "杜仲皮"
+      ],
+      "history": "杜仲在中国已有2000多年的药用历史，最早记载于《神农本草经》，被列为上品。古代医家认为杜仲能'补肝肾，强筋骨'，是治疗肾虚证的重要药物。",
+      "technique": "杜仲一般在春季采剥树皮，经过清洗、切片、晒干等工序。炮制方法包括生杜仲、炒杜仲、盐杜仲等不同品种。",
+      "features": "杜仲具有补肝肾、强筋骨、安胎的功效，适用于肾虚证、腰膝酸软等。现代研究表明杜仲含有多种活性成分，具有降血压、增强免疫力的作用。",
+      "funFact": "杜仲被誉为'补肾之长'，在中医补肾药中具有重要地位。古代医家认为杜仲能'补肝肾，强筋骨'，是治疗肾虚证的重要药物。",
+      "media": [],
+      "createdAt": "2025-08-08T07:00:00.000Z",
+      "updatedAt": "2025-08-08T07:00:00.000Z",
+      "type": "traditionalMedicine",
+      "icon": "fa-leaf"
+    },
+    "牛膝": {
+      "id": "牛膝",
+      "title": "牛膝",
+      "description": "中国传统活血要药，被誉为'活血之宝'，具有活血通经、补肝肾、强筋骨的功效",
+      "content": "牛膝是中国传统活血要药，被誉为'活血之宝'，具有活血通经、补肝肾、强筋骨的功效。牛膝性平，味苦酸，归肝、肾经。具有活血通经、补肝肾、强筋骨、利尿通淋、引血下行的功效。",
+      "category": "traditionalMedicine",
+      "tags": [
+        "中药材",
+        "活血",
+        "通经",
+        "补肝肾",
+        "强筋骨",
+        "利尿"
+      ],
+      "keywords": [
+        "牛膝",
+        "中药材",
+        "活血",
+        "通经",
+        "补肝肾",
+        "强筋骨",
+        "利尿",
+        "通淋",
+        "引血下行",
+        "活血之宝"
+      ],
+      "history": "牛膝在中国已有2000多年的药用历史，最早记载于《神农本草经》，被列为上品。古代医家认为牛膝能'活血通经，补肝肾，强筋骨'，是治疗血瘀证的重要药物。",
+      "technique": "牛膝一般在秋季采挖，经过清洗、切片、晒干等工序。炮制方法包括生牛膝、炒牛膝、酒牛膝等不同品种。",
+      "features": "牛膝具有活血通经、补肝肾、强筋骨的功效，适用于血瘀证、腰膝酸软等。现代研究表明牛膝含有多种活性成分，具有活血、抗炎、镇痛的作用。",
+      "funFact": "牛膝被誉为'活血之宝'，在中医活血药中具有重要地位。古代医家认为牛膝能'活血通经，补肝肾，强筋骨'，是治疗血瘀证的重要药物。",
+      "media": [],
+      "createdAt": "2025-08-08T07:00:00.000Z",
+      "updatedAt": "2025-08-08T07:00:00.000Z",
+      "type": "traditionalMedicine",
+      "icon": "fa-leaf"
+    },
+    "续断": {
+      "id": "续断",
+      "title": "续断",
+      "description": "中国传统续筋要药，被誉为'续筋之宝'，具有补肝肾、强筋骨、续折伤的功效",
+      "content": "续断是中国传统续筋要药，被誉为'续筋之宝'，具有补肝肾、强筋骨、续折伤的功效。续断性微温，味苦辛，归肝、肾经。具有补肝肾、强筋骨、续折伤、止崩漏、安胎的功效。",
+      "category": "traditionalMedicine",
+      "tags": [
+        "中药材",
+        "续筋",
+        "补肝肾",
+        "强筋骨",
+        "续折伤",
+        "止崩漏"
+      ],
+      "keywords": [
+        "续断",
+        "中药材",
+        "续筋",
+        "补肝肾",
+        "强筋骨",
+        "续折伤",
+        "止崩漏",
+        "安胎",
+        "续筋之宝",
+        "补肝肾"
+      ],
+      "history": "续断在中国已有2000多年的药用历史，最早记载于《神农本草经》，被列为上品。古代医家认为续断能'补肝肾，强筋骨，续折伤'，是治疗筋骨损伤的重要药物。",
+      "technique": "续断一般在秋季采挖，经过清洗、切片、晒干等工序。炮制方法包括生续断、炒续断、酒续断等不同品种。",
+      "features": "续断具有补肝肾、强筋骨、续折伤的功效，适用于筋骨损伤、腰膝酸软等。现代研究表明续断含有多种活性成分，具有促进骨折愈合、抗炎的作用。",
+      "funFact": "续断被誉为'续筋之宝'，在中医续筋药中具有重要地位。古代医家认为续断能'补肝肾，强筋骨，续折伤'，是治疗筋骨损伤的重要药物。",
+      "media": [],
+      "createdAt": "2025-08-08T07:00:00.000Z",
+      "updatedAt": "2025-08-08T07:00:00.000Z",
+      "type": "traditionalMedicine",
+      "icon": "fa-leaf"
+    },
+    "党参": {
+      "id": "党参",
+      "title": "党参",
+      "description": "中国传统补气要药，性质平和，具有补中益气、健脾养胃的功效",
+      "content": "党参性平，味甘，归脾、肺经。主要功效为补中益气、健脾养胃、生津养血。多用于气虚乏力、食少便溏、口干少津等症。",
+      "category": "traditionalMedicine",
+      "tags": [
+        "中药材",
+        "补气",
+        "健脾",
+        "养胃"
+      ],
+      "keywords": [
+        "党参",
+        "补中益气",
+        "健脾养胃",
+        "性平味甘",
+        "益气生津"
+      ],
+      "history": "党参载于历代本草，因补气而不过燥，被用作人参的平价替代，应用广泛。",
+      "technique": "秋季采挖，除去须根，晒干或烘干；可切片使用。",
+      "features": "补气而不燥，平和易用，适用人群广。",
+      "funFact": "民间常以党参代人参入膳，既温和又实惠。",
+      "media": [],
+      "createdAt": "2025-08-08T07:35:00.000Z",
+      "updatedAt": "2025-08-08T07:35:00.000Z",
+      "type": "traditionalMedicine",
+      "icon": "fa-leaf"
+    },
+    "麦冬": {
+      "id": "麦冬",
+      "title": "麦冬",
+      "description": "中国传统养阴生津要药，具有养阴润肺、益胃生津、清心除烦的功效",
+      "content": "麦冬性微寒，味甘微苦，归心、肺、胃经。主治阴虚燥咳、咽干口渴、内热烦躁等。",
+      "category": "traditionalMedicine",
+      "tags": [
+        "中药材",
+        "养阴",
+        "润肺",
+        "生津"
+      ],
+      "keywords": [
+        "麦冬",
+        "养阴润肺",
+        "益胃生津",
+        "清心除烦"
+      ],
+      "history": "自古用于润燥生津，东汉《名医别录》已有记载。",
+      "technique": "夏末秋初采挖，去须根与外皮，洗净晒干。",
+      "features": "质润不腻，善润肺胃而清心。",
+      "funFact": "麦冬常与玉竹、百合等搭配为润养甜汤。",
+      "media": [],
+      "createdAt": "2025-08-08T07:35:00.000Z",
+      "updatedAt": "2025-08-08T07:35:00.000Z",
+      "type": "traditionalMedicine",
+      "icon": "fa-leaf"
+    },
+    "黄连": {
+      "id": "黄连",
+      "title": "黄连",
+      "description": "苦寒清热要药，具有清热燥湿、泻火解毒的功效",
+      "content": "黄连性寒，味苦，归心、肝、胃、大肠经。主治湿热内蕴、心火炽盛所致的烦躁、口疮、泄泻等。",
+      "category": "traditionalMedicine",
+      "tags": [
+        "中药材",
+        "清热",
+        "燥湿",
+        "解毒"
+      ],
+      "keywords": [
+        "黄连",
+        "清热燥湿",
+        "泻火解毒",
+        "苦寒"
+      ],
+      "history": "古籍广载，因苦而名，历为清热要药。",
+      "technique": "秋季采挖，除须根，晒干；用时多为切片。",
+      "features": "苦能泄热，善清心胃肠之火湿。",
+      "funFact": "“良药苦口”在黄连上体现得淋漓尽致。",
+      "media": [],
+      "createdAt": "2025-08-08T07:35:00.000Z",
+      "updatedAt": "2025-08-08T07:35:00.000Z",
+      "type": "traditionalMedicine",
+      "icon": "fa-leaf"
+    },
+    "黄柏": {
+      "id": "黄柏",
+      "title": "黄柏",
+      "description": "苦寒下行之品，具有清热燥湿、泻火除蒸、解毒疗疮的功效",
+      "content": "黄柏性寒，味苦，归肾、膀胱经。善清下焦湿热，常用于脚气、带下、痈疮肿毒等。",
+      "category": "traditionalMedicine",
+      "tags": [
+        "中药材",
+        "清热",
+        "燥湿",
+        "解毒"
+      ],
+      "keywords": [
+        "黄柏",
+        "清热燥湿",
+        "泻火除蒸",
+        "下焦湿热"
+      ],
+      "history": "与黄连、黄芩并称“三黄”，自古用于湿热证。",
+      "technique": "剥取树皮，晒干切片；外用内服皆可按法配伍。",
+      "features": "苦寒下行，专清下焦湿热。",
+      "funFact": "民间外洗方中常见黄柏以清热止痒。",
+      "media": [],
+      "createdAt": "2025-08-08T07:35:00.000Z",
+      "updatedAt": "2025-08-08T07:35:00.000Z",
+      "type": "traditionalMedicine",
+      "icon": "fa-leaf"
+    },
+    "连翘": {
+      "id": "连翘",
+      "title": "连翘",
+      "description": "清热解毒、消肿散结之要药，广用于温病初起与痈肿疮毒",
+      "content": "连翘性微寒，味苦，归心、肺、胆经。主清热解毒、消肿散结、疏散风热。",
+      "category": "traditionalMedicine",
+      "tags": [
+        "中药材",
+        "清热",
+        "解毒",
+        "散结"
+      ],
+      "keywords": [
+        "连翘",
+        "清热解毒",
+        "消肿散结",
+        "风热"
+      ],
+      "history": "《伤寒论》《温病条辨》中均常见其用于时行温病。",
+      "technique": "秋季果实将熟时采收，晒干；用时多炒制。",
+      "features": "善于上焦风热之解表清热。",
+      "funFact": "银翘散之“翘”即指连翘。",
+      "media": [],
+      "createdAt": "2025-08-08T07:35:00.000Z",
+      "updatedAt": "2025-08-08T07:35:00.000Z",
+      "type": "traditionalMedicine",
+      "icon": "fa-leaf"
+    },
+    "金银花": {
+      "id": "金银花",
+      "title": "金银花",
+      "description": "芳香清热之品，具有清热解毒、疏散风热的功效",
+      "content": "金银花性寒，味甘，归肺、心、胃经。常用于温病发热、咽喉肿痛、疮痈肿毒等。",
+      "category": "traditionalMedicine",
+      "tags": [
+        "中药材",
+        "清热",
+        "解毒",
+        "风热"
+      ],
+      "keywords": [
+        "金银花",
+        "清热解毒",
+        "疏散风热",
+        "咽痛",
+        "痈肿"
+      ],
+      "history": "自古为清热解毒常用花类药材，应用广泛。",
+      "technique": "花初开时采收，阴干或低温烘干，保持花色。",
+      "features": "清而不峻，芳香透达上焦。",
+      "funFact": "与连翘同用为'银翘'组合，时疫初起常用。",
+      "media": [],
+      "createdAt": "2025-08-08T07:35:00.000Z",
+      "updatedAt": "2025-08-08T07:35:00.000Z",
+      "type": "traditionalMedicine",
+      "icon": "fa-leaf"
+    },
+    "菊花": {
+      "id": "菊花",
+      "title": "菊花",
+      "description": "疏风清热、平肝明目的常用花类药物",
+      "content": "菊花性微寒，味甘苦，归肺、肝经。主治风热感冒、头痛眩晕、目赤肿痛。",
+      "category": "traditionalMedicine",
+      "tags": [
+        "中药材",
+        "疏风",
+        "清热",
+        "明目"
+      ],
+      "keywords": [
+        "菊花",
+        "疏风清热",
+        "平肝明目",
+        "风热上扰"
+      ],
+      "history": "《本草纲目》记载其清热明目之效，历代常用。",
+      "technique": "秋季花盛开时采收，阴干；贡菊、杭菊等为佳品。",
+      "features": "轻清上扬，善走头目。",
+      "funFact": "菊花茶既是花饮亦是药饮，老少皆宜。",
+      "media": [],
+      "createdAt": "2025-08-08T07:35:00.000Z",
+      "updatedAt": "2025-08-08T07:35:00.000Z",
+      "type": "traditionalMedicine",
+      "icon": "fa-leaf"
+    },
+    "薄荷": {
+      "id": "薄荷",
+      "title": "薄荷",
+      "description": "辛凉解表、疏散风热之常用药，并能透疹、利咽、疏肝",
+      "content": "薄荷性凉，味辛，归肺、肝经。用于风热感冒、头痛咽痛、目赤、麻疹不透。",
+      "category": "traditionalMedicine",
+      "tags": [
+        "中药材",
+        "解表",
+        "疏风",
+        "利咽"
+      ],
+      "keywords": [
+        "薄荷",
+        "辛凉解表",
+        "疏散风热",
+        "透疹利咽"
+      ],
+      "history": "芳香走窜之品，古今感冒清热常用。",
+      "technique": "夏季茎叶茂盛时采割，阴干保存挥发油。",
+      "features": "芳香宣透，清利头目咽喉。",
+      "funFact": "薄荷与菊花、桑叶常组成清凉花草茶。",
+      "media": [],
+      "createdAt": "2025-08-08T07:35:00.000Z",
+      "updatedAt": "2025-08-08T07:35:00.000Z",
+      "type": "traditionalMedicine",
+      "icon": "fa-leaf"
+    },
+    "柴胡": {
+      "id": "柴胡",
+      "title": "柴胡",
+      "description": "和解少阳、疏肝解郁之要药，常用于往来寒热、胁痛胸闷",
+      "content": "柴胡性微寒，味苦辛，归肝、胆经。善疏散半表半里之邪，调达肝气。",
+      "category": "traditionalMedicine",
+      "tags": [
+        "中药材",
+        "和解",
+        "疏肝",
+        "解郁"
+      ],
+      "keywords": [
+        "柴胡",
+        "和解少阳",
+        "疏肝解郁",
+        "往来寒热"
+      ],
+      "history": "张仲景方中多用柴胡和解少阳，影响深远。",
+      "technique": "春秋采根，洗净晒干；北柴胡、狭叶柴胡均入药。",
+      "features": "升散疏达，调畅气机。",
+      "funFact": "小柴胡汤为中医经典和解方之一。",
+      "media": [],
+      "createdAt": "2025-08-08T07:35:00.000Z",
+      "updatedAt": "2025-08-08T07:35:00.000Z",
+      "type": "traditionalMedicine",
+      "icon": "fa-leaf"
+    },
+    "丹参": {
+      "id": "丹参",
+      "title": "丹参",
+      "description": "活血化瘀、凉血安神之品，广用于瘀阻所致的胸痹心痛、痛经等",
+      "content": "丹参性微寒，味苦，归心、心包、肝经。主活血祛瘀、通经止痛、清心除烦。",
+      "category": "traditionalMedicine",
+      "tags": [
+        "中药材",
+        "活血",
+        "化瘀",
+        "安神"
+      ],
+      "keywords": [
+        "丹参",
+        "活血化瘀",
+        "清心除烦",
+        "痛经胸痹"
+      ],
+      "history": "历代医家常以丹参治瘀证，被誉为'活血良药'。",
+      "technique": "秋季采根，洗净晒干切片；现代多制成提取物。",
+      "features": "活而不燥，兼清心烦。",
+      "funFact": "民间有'血瘀用丹参'的经验法则。",
+      "media": [],
+      "createdAt": "2025-08-08T07:35:00.000Z",
+      "updatedAt": "2025-08-08T07:35:00.000Z",
+      "type": "traditionalMedicine",
+      "icon": "fa-leaf"
+    },
+    "黄芩": {
+      "id": "黄芩",
+      "title": "黄芩",
+      "description": "苦寒清热、燥湿泻火，擅长上焦肺胃之热",
+      "content": "黄芩性寒，味苦，归肺、胆、胃、大肠经。主清热燥湿、泻火解毒、止血安胎。",
+      "category": "traditionalMedicine",
+      "tags": [
+        "中药材",
+        "清热",
+        "燥湿",
+        "安胎"
+      ],
+      "keywords": [
+        "黄芩",
+        "清热燥湿",
+        "泻火解毒",
+        "安胎"
+      ],
+      "history": "与黄连、黄柏并称'三黄'，历代用于湿热与火热证。",
+      "technique": "春秋二季采挖，除去须根，晒干切片。",
+      "features": "苦寒清泄，上焦实热之常用。",
+      "funFact": "安胎多取炙黄芩，更为平和。",
+      "media": [],
+      "createdAt": "2025-08-08T07:36:00.000Z",
+      "updatedAt": "2025-08-08T07:36:00.000Z",
+      "type": "traditionalMedicine",
+      "icon": "fa-leaf"
+    },
+    "桔梗": {
+      "id": "桔梗",
+      "title": "桔梗",
+      "description": "宣肺利咽、祛痰排脓，载药上行之使药",
+      "content": "桔梗性平，味苦辛，归肺经。主宣肺祛痰、利咽排脓，能引诸药上行至肺。",
+      "category": "traditionalMedicine",
+      "tags": [
+        "中药材",
+        "宣肺",
+        "利咽",
+        "祛痰"
+      ],
+      "keywords": [
+        "桔梗",
+        "宣肺利咽",
+        "祛痰排脓",
+        "引药上行"
+      ],
+      "history": "古方中常以桔梗为使，导引药力至上焦。",
+      "technique": "秋季采根，洗净晒干，切片用。",
+      "features": "味辛开宣，上行咽喉。",
+      "funFact": "'桔梗汤'是嗓音工作者常用调护方之一。",
+      "media": [],
+      "createdAt": "2025-08-08T07:36:00.000Z",
+      "updatedAt": "2025-08-08T07:36:00.000Z",
+      "type": "traditionalMedicine",
+      "icon": "fa-leaf"
+    },
+    "桑叶": {
+      "id": "桑叶",
+      "title": "桑叶",
+      "description": "疏风清热、清肺润燥，并能清肝明目",
+      "content": "桑叶性寒，味甘苦，归肺、肝经。用于风热感冒、咳嗽、目赤昏花。",
+      "category": "traditionalMedicine",
+      "tags": [
+        "中药材",
+        "疏风",
+        "清热",
+        "明目"
+      ],
+      "keywords": [
+        "桑叶",
+        "疏风清热",
+        "清肺润燥",
+        "清肝明目"
+      ],
+      "history": "药食同源之品，古人常以桑叶入茶。",
+      "technique": "夏秋采摘嫩叶，阴干保存。",
+      "features": "轻清上扬，善清头目风热。",
+      "funFact": "桑叶配菊花，为经典清凉茶搭档。",
+      "media": [],
+      "createdAt": "2025-08-08T07:36:00.000Z",
+      "updatedAt": "2025-08-08T07:36:00.000Z",
+      "type": "traditionalMedicine",
+      "icon": "fa-leaf"
+    },
+    "葛根": {
+      "id": "葛根",
+      "title": "葛根",
+      "description": "解肌退热、生津止渴，并能升阳止泻",
+      "content": "葛根性凉，味甘辛，归脾、胃经。用于外感发热、项背强痛、消渴、泄泻。",
+      "category": "traditionalMedicine",
+      "tags": [
+        "中药材",
+        "解肌",
+        "生津",
+        "止泻"
+      ],
+      "keywords": [
+        "葛根",
+        "解肌退热",
+        "生津止渴",
+        "升阳止泻"
+      ],
+      "history": "《伤寒论》葛根汤，解肌发表、舒颈背名方。",
+      "technique": "秋季采挖肥大根，去皮切块晒干。",
+      "features": "善舒颈背、解肌退热。",
+      "funFact": "“凉粉葛粉”亦出于葛根，药食兼用。",
+      "media": [],
+      "createdAt": "2025-08-08T07:36:00.000Z",
+      "updatedAt": "2025-08-08T07:36:00.000Z",
+      "type": "traditionalMedicine",
+      "icon": "fa-leaf"
+    },
+    "石膏": {
+      "id": "石膏",
+      "title": "石膏",
+      "description": "大寒之品，清气分实热，除烦止渴",
+      "content": "石膏性大寒，味辛甘，归肺、胃经。用于高热烦渴、头痛牙痛、肌热烦躁。",
+      "category": "traditionalMedicine",
+      "tags": [
+        "中药材",
+        "清热",
+        "除烦",
+        "止渴"
+      ],
+      "keywords": [
+        "石膏",
+        "清气分热",
+        "除烦止渴",
+        "大寒"
+      ],
+      "history": "温病学派常以石膏为清气分大将。",
+      "technique": "矿石粉碎净化，按法制成细末入方。",
+      "features": "量大力峻，直清阳明气分热。",
+      "funFact": "白虎汤以石膏为君，清热生津。",
+      "media": [],
+      "createdAt": "2025-08-08T07:36:00.000Z",
+      "updatedAt": "2025-08-08T07:36:00.000Z",
+      "type": "traditionalMedicine",
+      "icon": "fa-leaf"
+    },
+    "知母": {
+      "id": "知母",
+      "title": "知母",
+      "description": "苦寒滋阴，清热泻火，生津润燥",
+      "content": "知母性寒，味苦甘，归肺、胃、肾经。治阴虚内热、骨蒸劳热、燥咳口渴。",
+      "category": "traditionalMedicine",
+      "tags": [
+        "中药材",
+        "清热",
+        "滋阴",
+        "生津"
+      ],
+      "keywords": [
+        "知母",
+        "滋阴降火",
+        "生津润燥",
+        "阴虚内热"
+      ],
+      "history": "与石膏相伍，清热生津之效更佳。",
+      "technique": "秋季采挖根茎，晒干切片。",
+      "features": "既清热又滋阴，标本兼顾。",
+      "funFact": "白虎加人参汤中常见知母配伍。",
+      "media": [],
+      "createdAt": "2025-08-08T07:36:00.000Z",
+      "updatedAt": "2025-08-08T07:36:00.000Z",
+      "type": "traditionalMedicine",
+      "icon": "fa-leaf"
+    },
+    "枇杷叶": {
+      "id": "枇杷叶",
+      "title": "枇杷叶",
+      "description": "清肺止咳、降逆止呕，兼能润燥",
+      "content": "枇杷叶性微寒，味苦，归肺、胃经。治咳嗽痰热、胃气上逆呕恶。",
+      "category": "traditionalMedicine",
+      "tags": [
+        "中药材",
+        "清肺",
+        "止咳",
+        "降逆"
+      ],
+      "keywords": [
+        "枇杷叶",
+        "清肺止咳",
+        "降逆止呕",
+        "润燥"
+      ],
+      "history": "常入川贝枇杷膏一类化裁方。",
+      "technique": "夏秋采叶，去毛，晒干备用。",
+      "features": "清降兼润，肺胃两顾。",
+      "funFact": "枇杷叶去毛更利咽喉，口感佳。",
+      "media": [],
+      "createdAt": "2025-08-08T07:36:00.000Z",
+      "updatedAt": "2025-08-08T07:36:00.000Z",
+      "type": "traditionalMedicine",
+      "icon": "fa-leaf"
+    },
+    "百合": {
+      "id": "百合",
+      "title": "百合",
+      "description": "养阴润肺、清心安神，肺燥咳嗽与虚烦不寐常用",
+      "content": "百合性微寒，味甘，归肺、心经。治阴虚咳嗽、咽干、心烦失眠。",
+      "category": "traditionalMedicine",
+      "tags": [
+        "中药材",
+        "养阴",
+        "润肺",
+        "安神"
+      ],
+      "keywords": [
+        "百合",
+        "养阴润肺",
+        "清心安神",
+        "阴虚咳嗽"
+      ],
+      "history": "药食两用，自古以百合粥、百合羹调养身心。",
+      "technique": "秋季采挖鳞茎，漂洗去膜，蒸晒干燥。",
+      "features": "甘润而清，宁心润肺。",
+      "funFact": "百合配莲子是经典养心安神甜品组合。",
+      "media": [],
+      "createdAt": "2025-08-08T07:36:00.000Z",
+      "updatedAt": "2025-08-08T07:36:00.000Z",
+      "type": "traditionalMedicine",
+      "icon": "fa-leaf"
+    },
+    "川贝母": {
+      "id": "川贝母",
+      "title": "川贝母",
+      "description": "清热润肺、化痰止咳，尤善阴虚燥咳",
+      "content": "川贝母性微寒，味苦甘，归肺、心经。用于久咳少痰、咽干咯血。",
+      "category": "traditionalMedicine",
+      "tags": [
+        "中药材",
+        "化痰",
+        "止咳",
+        "润肺"
+      ],
+      "keywords": [
+        "川贝",
+        "润肺化痰",
+        "止咳平喘",
+        "阴虚燥咳"
+      ],
+      "history": "名贵止咳药材，历代医家推崇。",
+      "technique": "夏季采挖鳞茎，阴干储存。",
+      "features": "润而不腻，专善阴虚燥咳。",
+      "funFact": "川贝炖雪梨为经典润肺甜汤。",
+      "media": [],
+      "createdAt": "2025-08-08T07:36:00.000Z",
+      "updatedAt": "2025-08-08T07:36:00.000Z",
+      "type": "traditionalMedicine",
+      "icon": "fa-leaf"
+    },
+    "桑白皮": {
+      "id": "桑白皮",
+      "title": "桑白皮",
+      "description": "泻肺平喘、利水消肿，治肺热咳喘",
+      "content": "桑白皮性寒，味甘，归肺经。主治肺热咳喘、水肿尿少。",
+      "category": "traditionalMedicine",
+      "tags": [
+        "中药材",
+        "泻肺",
+        "平喘",
+        "利水"
+      ],
+      "keywords": [
+        "桑白皮",
+        "泻肺平喘",
+        "利水消肿",
+        "肺热咳喘"
+      ],
+      "history": "与麻黄同用，宣降相配，治疗咳喘。",
+      "technique": "春秋剥取根皮，晒干切丝。",
+      "features": "清泄肺热并利水。",
+      "funFact": "同源于桑树，多部位可入药。",
+      "media": [],
+      "createdAt": "2025-08-08T07:36:00.000Z",
+      "updatedAt": "2025-08-08T07:36:00.000Z",
+      "type": "traditionalMedicine",
+      "icon": "fa-leaf"
+    }
+  }
+}

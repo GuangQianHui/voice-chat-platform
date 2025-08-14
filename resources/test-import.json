@@ -1,0 +1,58 @@
+{
+  "traditionalCrafts": {
+    "mebjgf779xcakoojv4": {
+      "id": "mebjgf779xcakoojv4",
+      "category": "traditionalCrafts",
+      "title": "产品包装",
+      "type": "traditionalCrafts",
+      "content": "独特，新颖",
+      "description": "独特，新颖",
+      "history": "",
+      "keywords": [
+        "售卖，产品"
+      ],
+      "tags": [
+        "工艺"
+      ],
+      "icon": "fa-gem",
+      "media": [
+        {
+          "name": "微信图片_20250814231038_1808.jpg",
+          "type": "image",
+          "size": 1201252,
+          "url": "http://121.40.185.158:3000/resources/images/2025-08-14T15-12-47______________20250814231038_1808.jpg"
+        }
+      ],
+      "createdAt": "2025-08-14T15:12:49.651Z",
+      "updatedAt": "2025-08-14T15:12:49.651Z"
+    }
+  },
+  "traditionalFoods": {
+    "me6ga9nkda33ldjwm54": {
+      "id": "me6ga9nkda33ldjwm54",
+      "category": "traditionalFoods",
+      "title": "绿豆糕的制作",
+      "type": "traditionalFoods",
+      "content": "香甜可口，老少皆宜",
+      "description": "香甜可口，老少皆宜",
+      "history": "",
+      "keywords": [
+        "香甜可口，老少皆宜"
+      ],
+      "tags": [
+        "糕点"
+      ],
+      "icon": "fa-utensils",
+      "media": [
+        {
+          "name": "切.mp4",
+          "type": "video",
+          "size": 2366960,
+          "url": "http://121.40.185.158:3000/resources/videos/2025-08-11T01-45-45____.mp4"
+        }
+      ],
+      "createdAt": "2025-08-11T01:45:12.800Z",
+      "updatedAt": "2025-08-11T01:45:50.201Z"
+    }
+  }
+}
