@@ -18,14 +18,14 @@ RUN mkdir -p logs uploads
 
 # 设置环境变量
 ENV NODE_ENV=production
-ENV PORT=25812
+ENV PORT=3000
 
 # 暴露端口
-EXPOSE 25812
+EXPOSE 3000
 
 # 健康检查
 HEALTHCHECK --interval=30s --timeout=3s --start-period=5s --retries=3 \
-  CMD node -e "require('http').get('http://localhost:25812/api/health', (res) => { process.exit(res.statusCode === 200 ? 0 : 1) })"
+  CMD node -e "require('http').get('http://localhost:3000/api/health', (res) => { process.exit(res.statusCode === 200 ? 0 : 1) })"
 
 # 启动应用程序
 CMD ["node", "server-optimized.js"]

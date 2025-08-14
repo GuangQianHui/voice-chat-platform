@@ -193,9 +193,9 @@ goto :eof
 echo.
 echo [SUCCESS] 部署完成！
 echo.
-echo 📊 服务信息:
-echo    - 健康检查: http://localhost:25812/api/health
-echo    - 主应用: http://localhost:25812
+    echo 📊 服务信息:
+    echo    - 健康检查: http://localhost:3000/api/health
+    echo    - 主应用: http://localhost:3000
 
 if "%USE_DOCKER%"=="true" (
     if exist "docker-compose.yml" (

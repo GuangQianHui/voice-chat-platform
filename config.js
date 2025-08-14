@@ -8,7 +8,7 @@ const config = {
     
     // 服务器配置
     server: {
-        port: process.env.PORT || 25812,
+        port: process.env.PORT || 3000,
         host: process.env.HOST || '0.0.0.0',
         cors: {
             origin: process.env.CORS_ORIGIN || '*',
@@ -42,7 +42,9 @@ const config = {
                     mediaSrc: ["'self'"],
                     frameSrc: ["'none'"]
                 }
-            }
+            },
+            crossOriginOpenerPolicy: false,
+            crossOriginEmbedderPolicy: false
         }
     },
     
