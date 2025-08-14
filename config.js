@@ -11,7 +11,7 @@ const config = {
         port: process.env.PORT || 25812,
         host: process.env.HOST || '0.0.0.0',
         cors: {
-            origin: process.env.CORS_ORIGIN || '*',
+            origin: process.env.CORS_ORIGIN || ['https://localhost:25812', 'https://127.0.0.1:25812', 'http://localhost:25812'],
             credentials: true
         }
     },

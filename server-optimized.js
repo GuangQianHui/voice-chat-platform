@@ -6,6 +6,8 @@ const helmet = require('helmet');
 const compression = require('compression');
 const rateLimit = require('express-rate-limit');
 const winston = require('winston');
+const https = require('https');
+const http = require('http');
 require('winston-daily-rotate-file');
 
 const config = require('./config');
@@ -44,8 +46,30 @@ const logger = winston.createLogger({
 
 const app = express();
 
-// 安全中间件
-app.use(helmet(config.security.helmet));
+// 安全中间件 - 更新配置以支持HTTPS
+app.use(helmet({
+    contentSecurityPolicy: {
+        directives: {
+            defaultSrc: ["'self'"],
+            styleSrc: ["'self'", "'unsafe-inline'", "https://cdnjs.cloudflare.com"],
+            scriptSrc: ["'self'", "'unsafe-inline'", "https://cdnjs.cloudflare.com"],
+            imgSrc: ["'self'", "data:", "https:"],
+            connectSrc: ["'self'", "https:"],
+            fontSrc: ["'self'", "https://cdnjs.cloudflare.com"],
+            objectSrc: ["'none'"],
+            mediaSrc: ["'self'"],
+            frameSrc: ["'none'"]
+        }
+    },
+    crossOriginOpenerPolicy: { policy: "same-origin" },
+    crossOriginEmbedderPolicy: false,
+    hsts: {
+        maxAge: 31536000,
+        includeSubDomains: true,
+        preload: true
+    },
+    forceSecureCookies: true
+}));
 
 // 压缩中间件
 app.use(compression(config.compression));
@@ -54,8 +78,13 @@ app.use(compression(config.compression));
 const limiter = rateLimit(config.security.rateLimit);
 app.use('/api/', limiter);
 
-// CORS配置
-app.use(cors(config.server.cors));
+// CORS配置 - 更新为HTTPS
+app.use(cors({
+    origin: config.server.cors.origin,
+    credentials: true,
+    methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
+    allowedHeaders: ['Content-Type', 'Authorization', 'X-Requested-With']
+}));
 
 // 解析JSON
 app.use(express.json({ limit: '10mb' }));
@@ -70,6 +99,10 @@ app.use(express.static('.', {
         if (path.endsWith('.css') || path.endsWith('.js')) {
             res.setHeader('Cache-Control', 'public, max-age=31536000'); // 1年
         }
+        // 添加安全头部
+        res.setHeader('X-Content-Type-Options', 'nosniff');
+        res.setHeader('X-Frame-Options', 'DENY');
+        res.setHeader('X-XSS-Protection', '1; mode=block');
     }
 }));
 
@@ -87,7 +120,8 @@ app.use((req, res, next) => {
             status: res.statusCode,
             duration: `${duration}ms`,
             userAgent: req.get('User-Agent'),
-            ip: req.ip
+            ip: req.ip,
+            protocol: req.protocol
         });
     });
     next();
@@ -294,20 +328,82 @@ app.use('*', (req, res) => {
     res.status(404).json({ error: '接口不存在' });
 });
 
-// 启动服务器
-const server = app.listen(config.server.port, config.server.host, () => {
-    logger.info(`服务器启动成功`, {
-        port: config.server.port,
-        host: config.server.host,
-        environment: config.env,
-        version: require('./package.json').version
-    });
+// 创建自签名证书（使用内置crypto模块）
+function createSelfSignedCertificate() {
+    const crypto = require('crypto');
+    const { execSync } = require('child_process');
     
-    console.log(`🚀 语音交流平台已启动`);
-    console.log(`📍 地址: http://localhost:${config.server.port}`);
-    console.log(`🌍 环境: ${config.env}`);
-    console.log(`📊 健康检查: http://localhost:${config.server.port}/api/health`);
-});
+    try {
+        // 检查是否已有证书
+        const certPath = path.join(__dirname, 'ssl');
+        if (!require('fs').existsSync(certPath)) {
+            require('fs').mkdirSync(certPath, { recursive: true });
+        }
+        
+        const keyPath = path.join(certPath, 'server.key');
+        const certFilePath = path.join(certPath, 'server.crt');
+        
+        // 如果证书不存在，生成新的
+        if (!require('fs').existsSync(keyPath) || !require('fs').existsSync(certFilePath)) {
+            const opensslCmd = `openssl req -x509 -newkey rsa:2048 -keyout "${keyPath}" -out "${certFilePath}" -days 365 -nodes -subj "/C=CN/ST=Beijing/L=Beijing/O=Voice Chat Platform/OU=Development/CN=localhost"`;
+            execSync(opensslCmd, { stdio: 'pipe' });
+        }
+        
+        return {
+            key: require('fs').readFileSync(keyPath),
+            cert: require('fs').readFileSync(certFilePath)
+        };
+    } catch (error) {
+        logger.error('生成SSL证书失败', { error: error.message });
+        return null;
+    }
+}
+
+// 启动HTTPS服务器
+let server;
+const certData = createSelfSignedCertificate();
+
+if (certData) {
+    // 使用HTTPS
+    const httpsOptions = {
+        key: certData.key,
+        cert: certData.cert
+    };
+    
+    server = https.createServer(httpsOptions, app);
+    server.listen(config.server.port, config.server.host, () => {
+        logger.info(`HTTPS服务器启动成功`, {
+            port: config.server.port,
+            host: config.server.host,
+            environment: config.env,
+            version: require('./package.json').version,
+            protocol: 'HTTPS'
+        });
+        
+        console.log(`🚀 语音交流平台已启动 (HTTPS)`);
+        console.log(`📍 地址: https://localhost:${config.server.port}`);
+        console.log(`🌍 环境: ${config.env}`);
+        console.log(`📊 健康检查: https://localhost:${config.server.port}/api/health`);
+        console.log(`⚠️  注意: 使用自签名证书，浏览器可能会显示安全警告`);
+    });
+} else {
+    // 回退到HTTP
+    server = http.createServer(app);
+    server.listen(config.server.port, config.server.host, () => {
+        logger.info(`HTTP服务器启动成功`, {
+            port: config.server.port,
+            host: config.server.host,
+            environment: config.env,
+            version: require('./package.json').version,
+            protocol: 'HTTP'
+        });
+        
+        console.log(`🚀 语音交流平台已启动 (HTTP)`);
+        console.log(`📍 地址: http://localhost:${config.server.port}`);
+        console.log(`🌍 环境: ${config.env}`);
+        console.log(`📊 健康检查: http://localhost:${config.server.port}/api/health`);
+    });
+}
 
 // 优雅关闭
 process.on('SIGTERM', () => {

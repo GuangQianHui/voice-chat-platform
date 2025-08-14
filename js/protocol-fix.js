@@ -9,10 +9,20 @@
     const currentProtocol = window.location.protocol;
     const isHttps = currentProtocol === 'https:';
     const isHttp = currentProtocol === 'http:';
+    const currentHost = window.location.host;
     
     console.log('当前协议:', currentProtocol);
+    console.log('当前主机:', currentHost);
     console.log('是否HTTPS:', isHttps);
     console.log('是否HTTP:', isHttp);
+
+    // 强制使用HTTPS（如果可能）
+    if (isHttp && !currentHost.includes('localhost') && !currentHost.includes('127.0.0.1')) {
+        const httpsUrl = window.location.href.replace('http://', 'https://');
+        console.log('重定向到HTTPS:', httpsUrl);
+        window.location.href = httpsUrl;
+        return;
+    }
 
     // 修复资源链接
     function fixResourceLinks() {
