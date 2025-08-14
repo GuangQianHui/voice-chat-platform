@@ -8,7 +8,7 @@ const config = {
     
     // 服务器配置
     server: {
-        port: process.env.PORT || 3000,
+        port: process.env.PORT || 25812,
         host: process.env.HOST || '0.0.0.0',
         cors: {
             origin: process.env.CORS_ORIGIN || '*',
@@ -35,8 +35,8 @@ const config = {
                     defaultSrc: ["'self'"],
                     styleSrc: ["'self'", "'unsafe-inline'", "https://cdnjs.cloudflare.com"],
                     scriptSrc: ["'self'", "'unsafe-inline'", "https://cdnjs.cloudflare.com"],
-                    imgSrc: ["'self'", "data:", "https:"],
-                    connectSrc: ["'self'", "https:"],
+                    imgSrc: ["'self'", "data:", "http:", "https:"],
+                    connectSrc: ["'self'", "http:", "https:"],
                     fontSrc: ["'self'", "https://cdnjs.cloudflare.com"],
                     objectSrc: ["'none'"],
                     mediaSrc: ["'self'"],
@@ -44,7 +44,9 @@ const config = {
                 }
             },
             crossOriginOpenerPolicy: false,
-            crossOriginEmbedderPolicy: false
+            crossOriginEmbedderPolicy: false,
+            hsts: false,
+            forceSecureCookies: false
         }
     },
     
