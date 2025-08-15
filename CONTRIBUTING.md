@@ -1,220 +1,176 @@
 # 贡献指南
 
-感谢您对智能语音助手项目的关注！我们欢迎所有形式的贡献。
+感谢您对语音交流平台项目的关注！我们欢迎所有形式的贡献，包括但不限于：
 
-## 🤝 如何贡献
+- 🐛 报告 Bug
+- 💡 提出新功能建议
+- 📝 改进文档
+- 🔧 提交代码修复
+- 🎨 改进用户界面
 
-### 报告问题
+## 如何贡献
 
-如果您发现了 bug 或有功能建议，请通过以下方式联系我们：
+### 1. Fork 项目
 
-1. 在 [GitHub Issues](https://github.com/yourusername/voice-assistant/issues) 中搜索是否已有相关问题
-2. 如果没有找到相关问题，请创建新的 Issue
-3. 请使用清晰的标题和详细的描述
+首先，在 GitHub 上 Fork 这个项目到您的账户。
 
-### 提交代码
+### 2. 克隆到本地
 
-如果您想贡献代码，请遵循以下步骤：
+```bash
+git clone https://github.com/your-username/voice-chat-platform.git
+cd voice-chat-platform
+```
 
-1. **Fork 项目**
+### 3. 创建分支
 
-   ```bash
-   git clone https://github.com/yourusername/voice-assistant.git
-   cd voice-assistant
-   ```
+为您的贡献创建一个新的分支：
 
-2. **创建特性分支**
+```bash
+git checkout -b feature/your-feature-name
+# 或者
+git checkout -b fix/your-bug-fix
+```
 
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
+### 4. 安装依赖
 
-3. **进行修改**
+```bash
+npm install
+```
 
-   - 编写清晰的代码
-   - 添加必要的注释
-   - 确保代码符合项目规范
+### 5. 开发
 
-4. **提交更改**
+- 在相应的文件中进行修改
+- 确保代码符合项目规范
+- 添加必要的注释和文档
 
-   ```bash
-   git add .
-   git commit -m "feat: add your feature description"
-   ```
+### 6. 测试
 
-5. **推送到分支**
+在提交之前，请确保：
 
-   ```bash
-   git push origin feature/your-feature-name
-   ```
+- 代码没有语法错误
+- 功能正常工作
+- 没有破坏现有功能
 
-6. **创建 Pull Request**
-   - 在 GitHub 上创建 Pull Request
-   - 填写详细的描述
-   - 等待代码审查
+```bash
+# 检查语法
+node -c js/main.js
+node -c js/managers/*.js
 
-## 📋 开发规范
+# 启动服务器测试
+npm start
+```
 
-### 代码风格
+### 7. 提交更改
 
-- 使用 2 个空格缩进
-- 使用分号结束语句
-- 使用单引号
-- 使用驼峰命名法
-- 添加适当的空行分隔
+```bash
+git add .
+git commit -m "feat: 添加新功能描述"
+git push origin feature/your-feature-name
+```
+
+### 8. 创建 Pull Request
+
+在 GitHub 上创建 Pull Request，并详细描述您的更改。
+
+## 代码规范
+
+### JavaScript 规范
+
+- 使用 ES6+ 语法
+- 使用有意义的变量和函数名
+- 添加适当的注释
+- 遵循一致的缩进（2个空格）
+
+### CSS 规范
+
+- 使用有意义的类名
+- 遵循 BEM 命名约定
+- 保持样式的一致性
+- 添加响应式设计
 
 ### 提交信息规范
 
-我们使用 [Conventional Commits](https://www.conventionalcommits.org/) 规范：
+使用 [Conventional Commits](https://www.conventionalcommits.org/) 规范：
 
 ```
-<type>[optional scope]: <description>
+type(scope): description
 
 [optional body]
 
-[optional footer(s)]
+[optional footer]
 ```
 
-**类型说明：**
-
+类型包括：
 - `feat`: 新功能
-- `fix`: 修复 bug
+- `fix`: 修复 Bug
 - `docs`: 文档更新
 - `style`: 代码格式调整
 - `refactor`: 代码重构
 - `test`: 测试相关
 - `chore`: 构建过程或辅助工具的变动
 
-**示例：**
+### 示例
 
 ```bash
-git commit -m "feat: add voice recognition feature"
-git commit -m "fix: resolve audio playback issue"
-git commit -m "docs: update README with new features"
+feat(resource): 添加资源导入功能
+fix(voice): 修复语音识别中断问题
+docs(readme): 更新安装说明
+style(ui): 优化按钮样式
 ```
 
-### 文件命名规范
+## 报告 Bug
 
-- 文件名使用小写字母和连字符
-- 组件文件使用 PascalCase
-- 工具函数使用 camelCase
+如果您发现了 Bug，请：
 
-## 🧪 测试
+1. 检查是否已经有相关的 Issue
+2. 创建新的 Issue，包含：
+   - Bug 的详细描述
+   - 重现步骤
+   - 期望行为
+   - 实际行为
+   - 环境信息（浏览器、操作系统等）
+   - 截图或录屏（如果适用）
 
-### 运行测试
+## 功能建议
 
-```bash
-npm test
-```
+如果您有新功能建议，请：
 
-### 代码检查
+1. 检查是否已经有相关的 Issue
+2. 创建新的 Issue，包含：
+   - 功能的详细描述
+   - 使用场景
+   - 预期效果
+   - 实现建议（如果适用）
 
-```bash
-npm run lint
-```
+## 文档贡献
 
-### 构建检查
+文档同样重要！如果您发现文档有错误或需要改进，请：
 
-```bash
-npm run build
-```
+1. 直接提交 Pull Request 修复
+2. 或者创建 Issue 描述问题
 
-## 📝 文档
+## 社区行为准则
 
-### 更新文档
+我们致力于为每个人提供友好、安全和欢迎的环境。请：
 
-如果您添加了新功能，请同时更新相关文档：
+- 尊重他人
+- 使用包容性语言
+- 接受建设性批评
+- 关注社区利益
+- 展示对其他社区成员的同情
 
-- `README.md` - 项目说明
-- `API.md` - API 文档
-- `CHANGELOG.md` - 更新日志
+## 联系方式
 
-### 文档规范
+如果您有任何问题或需要帮助，请：
 
-- 使用清晰的标题结构
-- 添加代码示例
-- 包含截图或演示
-- 保持文档的时效性
+- 创建 GitHub Issue
+- 发送邮件到：your-email@example.com
+- 加入我们的讨论群
 
-## 🎯 贡献领域
+## 致谢
 
-我们特别欢迎以下领域的贡献：
-
-### 功能开发
-
-- 语音识别优化
-- AI 对话增强
-- 用户界面改进
-- 性能优化
-
-### 文档完善
-
-- 使用教程
-- API 文档
-- 部署指南
-- 故障排除
-
-### 测试覆盖
-
-- 单元测试
-- 集成测试
-- 端到端测试
-- 性能测试
-
-### 国际化
-
-- 多语言支持
-- 本地化适配
-- 文化差异考虑
-
-## 🔍 代码审查
-
-### 审查标准
-
-- 代码质量和可读性
-- 功能完整性和正确性
-- 测试覆盖率
-- 文档完整性
-- 性能影响
-
-### 审查流程
-
-1. 自动检查（CI/CD）
-2. 代码审查者审查
-3. 必要的修改和讨论
-4. 合并到主分支
-
-## 🏆 贡献者
-
-感谢所有为项目做出贡献的开发者！
-
-### 如何成为贡献者
-
-- 提交有效的 Pull Request
-- 积极参与项目讨论
-- 帮助其他贡献者
-- 维护项目文档
-
-### 贡献者权益
-
-- 在项目 README 中列出姓名
-- 获得贡献者徽章
-- 参与项目决策
-- 获得技术支持
-
-## 📞 联系我们
-
-如果您在贡献过程中遇到问题，可以通过以下方式联系我们：
-
-- **GitHub Issues**: [问题反馈](https://github.com/yourusername/voice-assistant/issues)
-- **邮箱**: your-email@example.com
-- **微信**: your-wechat-id
-- **QQ 群**: your-qq-group
-
-## 🙏 致谢
-
-感谢您对智能语音助手项目的支持！每一个贡献都让项目变得更好。
+感谢所有为这个项目做出贡献的开发者！您的贡献让这个项目变得更好。
 
 ---
 
-**让我们一起打造更好的 AI 语音助手！** 🚀
+再次感谢您的贡献！🎉

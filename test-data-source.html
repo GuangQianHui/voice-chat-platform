@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>数据源切换测试</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            padding: 20px; 
+            background: #1a1a1a;
+            color: white;
+        }
+        .container { max-width: 800px; margin: 0 auto; }
+        .test-section { 
+            background: #2a2a2a; 
+            padding: 20px; 
+            margin: 20px 0; 
+            border-radius: 8px;
+            border: 1px solid #444;
+        }
+        .success { color: #4CAF50; }
+        .error { color: #f44336; }
+        .info { color: #2196F3; }
+        .warning { color: #ff9800; }
+        button {
+            background: #4CAF50;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            margin: 5px;
+        }
+        button:hover { background: #45a049; }
+        .data-display {
+            background: #333;
+            padding: 15px;
+            border-radius: 4px;
+            margin: 10px 0;
+            max-height: 300px;
+            overflow-y: auto;
+        }
+        .status {
+            padding: 10px;
+            border-radius: 4px;
+            margin: 10px 0;
+        }
+        .status.local { background: #2E7D32; }
+        .status.imported { background: #1976D2; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>数据源切换测试</h1>
+        
+        <div class="test-section">
+            <h2>当前状态</h2>
+            <div id="current-status" class="status">
+                正在检测...
+            </div>
+        </div>
+
+        <div class="test-section">
+            <h2>测试操作</h2>
+            <button onclick="testLocalData()">测试本地数据</button>
+            <button onclick="testImportedData()">测试导入数据</button>
+            <button onclick="clearImportedData()">清除导入数据</button>
+            <button onclick="refreshStatus()">刷新状态</button>
+        </div>
+
+        <div class="test-section">
+            <h2>资源管理器状态</h2>
+            <div id="resource-manager-status" class="data-display">
+                正在加载...
+            </div>
+        </div>
+
+        <div class="test-section">
+            <h2>对话管理器状态</h2>
+            <div id="dialogue-manager-status" class="data-display">
+                正在加载...
+            </div>
+        </div>
+
+        <div class="test-section">
+            <h2>测试日志</h2>
+            <div id="test-log" class="data-display">
+                测试日志将在这里显示...
+            </div>
+        </div>
+    </div>
+
+    <!-- 加载必要的脚本 -->
+    <script src="js/managers/resourceManager.js"></script>
+    <script src="js/managers/dialogueManager.js"></script>
+    
+    <script>
+        let resourceManager, dialogueManager;
+        let testLog = [];
+
+        function log(message, type = 'info') {
+            const timestamp = new Date().toLocaleTimeString();
+            const logEntry = `[${timestamp}] ${message}`;
+            testLog.push({ message: logEntry, type });
+            
+            const logDiv = document.getElementById('test-log');
+            logDiv.innerHTML = testLog.map(entry => 
+                `<div class="${entry.type}">${entry.message}</div>`
+            ).join('');
+            logDiv.scrollTop = logDiv.scrollHeight;
+            
+            console.log(logEntry);
+        }
+
+        async function initManagers() {
+            try {
+                log('初始化资源管理器...', 'info');
+                resourceManager = new ResourceManager();
+                window.resourceManager = resourceManager;
+                
+                log('初始化对话管理器...', 'info');
+                dialogueManager = new DialogueManager();
+                
+                log('管理器初始化完成', 'success');
+                refreshStatus();
+            } catch (error) {
+                log(`初始化失败: ${error.message}`, 'error');
+            }
+        }
+
+        function refreshStatus() {
+            try {
+                // 检查当前数据源
+                const importedData = localStorage.getItem('imported_resources');
+                const statusDiv = document.getElementById('current-status');
+                
+                if (importedData) {
+                    statusDiv.className = 'status imported';
+                    statusDiv.textContent = '当前使用导入的数据源';
+                    log('检测到导入的数据源', 'info');
+                } else {
+                    statusDiv.className = 'status local';
+                    statusDiv.textContent = '当前使用本地数据源';
+                    log('检测到本地数据源', 'info');
+                }
+
+                // 显示资源管理器状态
+                updateResourceManagerStatus();
+                
+                // 显示对话管理器状态
+                updateDialogueManagerStatus();
+                
+            } catch (error) {
+                log(`刷新状态失败: ${error.message}`, 'error');
+            }
+        }
+
+        function updateResourceManagerStatus() {
+            const statusDiv = document.getElementById('resource-manager-status');
+            if (resourceManager) {
+                const categories = Object.keys(resourceManager.resources);
+                const totalResources = categories.reduce((total, category) => {
+                    return total + Object.keys(resourceManager.resources[category] || {}).length;
+                }, 0);
+                
+                statusDiv.innerHTML = `
+                    <div><strong>分类数量:</strong> ${categories.length}</div>
+                    <div><strong>总资源数:</strong> ${totalResources}</div>
+                    <div><strong>分类列表:</strong></div>
+                    <ul>
+                        ${categories.map(cat => {
+                            const count = Object.keys(resourceManager.resources[cat] || {}).length;
+                            return `<li>${cat}: ${count} 项</li>`;
+                        }).join('')}
+                    </ul>
+                `;
+            } else {
+                statusDiv.innerHTML = '<div class="error">资源管理器未初始化</div>';
+            }
+        }
+
+        function updateDialogueManagerStatus() {
+            const statusDiv = document.getElementById('dialogue-manager-status');
+            if (dialogueManager) {
+                const categories = Object.keys(dialogueManager.knowledgeBase);
+                const totalResources = categories.reduce((total, category) => {
+                    return total + Object.keys(dialogueManager.knowledgeBase[category] || {}).length;
+                }, 0);
+                
+                statusDiv.innerHTML = `
+                    <div><strong>分类数量:</strong> ${categories.length}</div>
+                    <div><strong>总资源数:</strong> ${totalResources}</div>
+                    <div><strong>分类列表:</strong></div>
+                    <ul>
+                        ${categories.map(cat => {
+                            const count = Object.keys(dialogueManager.knowledgeBase[cat] || {}).length;
+                            return `<li>${cat}: ${count} 项</li>`;
+                        }).join('')}
+                    </ul>
+                `;
+            } else {
+                statusDiv.innerHTML = '<div class="error">对话管理器未初始化</div>';
+            }
+        }
+
+        async function testLocalData() {
+            try {
+                log('开始测试本地数据...', 'info');
+                
+                // 清除导入数据
+                localStorage.removeItem('imported_resources');
+                
+                // 重新加载资源管理器
+                await resourceManager.loadResources();
+                
+                // 刷新对话管理器
+                await dialogueManager.refreshKnowledgeBase();
+                
+                log('本地数据测试完成', 'success');
+                refreshStatus();
+                
+            } catch (error) {
+                log(`本地数据测试失败: ${error.message}`, 'error');
+            }
+        }
+
+        async function testImportedData() {
+            try {
+                log('开始测试导入数据...', 'info');
+                
+                // 创建测试数据
+                const testData = {
+                    traditionalFoods: {
+                        test1: {
+                            id: "test1",
+                            category: "traditionalFoods",
+                            title: "测试美食1",
+                            description: "这是一个测试美食",
+                            content: "测试内容",
+                            tags: ["测试"],
+                            keywords: ["测试"],
+                            media: [],
+                            createdAt: new Date().toISOString(),
+                            updatedAt: new Date().toISOString()
+                        }
+                    },
+                    traditionalCrafts: {
+                        test2: {
+                            id: "test2",
+                            category: "traditionalCrafts",
+                            title: "测试工艺1",
+                            description: "这是一个测试工艺",
+                            content: "测试内容",
+                            tags: ["测试"],
+                            keywords: ["测试"],
+                            media: [],
+                            createdAt: new Date().toISOString(),
+                            updatedAt: new Date().toISOString()
+                        }
+                    }
+                };
+                
+                // 保存到本地存储
+                localStorage.setItem('imported_resources', JSON.stringify(testData));
+                
+                // 重新加载资源管理器
+                await resourceManager.loadResources();
+                
+                // 刷新对话管理器
+                await dialogueManager.refreshKnowledgeBase();
+                
+                log('导入数据测试完成', 'success');
+                refreshStatus();
+                
+            } catch (error) {
+                log(`导入数据测试失败: ${error.message}`, 'error');
+            }
+        }
+
+        async function clearImportedData() {
+            try {
+                log('开始清除导入数据...', 'info');
+                
+                // 清除导入数据
+                const result = resourceManager.clearImportedResources();
+                
+                if (result.success) {
+                    log('导入数据清除成功', 'success');
+                } else {
+                    log(`导入数据清除失败: ${result.message}`, 'error');
+                }
+                
+                refreshStatus();
+                
+            } catch (error) {
+                log(`清除导入数据失败: ${error.message}`, 'error');
+            }
+        }
+
+        // 页面加载完成后初始化
+        window.addEventListener('load', () => {
+            log('页面加载完成，开始初始化...', 'info');
+            initManagers();
+        });
+    </script>
+</body>
+</html>

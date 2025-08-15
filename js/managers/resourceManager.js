@@ -21,6 +21,9 @@ class ResourceManager {
         // 导入历史记录
         this.importHistory = this.loadImportHistory();
         
+        // 数据更新回调
+        this.onDataUpdate = null;
+        
         this.init();
     }
 
@@ -240,6 +243,9 @@ class ResourceManager {
         // 保存到本地存储
         this.saveImportedResources();
 
+        // 通知数据更新
+        this.notifyDataUpdate();
+
         console.log(`成功导入 ${fileName}，分类: ${importedCategories.join(', ')}，资源数量: ${totalImported}`);
         
         return {
@@ -386,6 +392,15 @@ class ResourceManager {
     }
 
     /**
+     * 通知数据更新
+     */
+    notifyDataUpdate() {
+        if (this.onDataUpdate && typeof this.onDataUpdate === 'function') {
+            this.onDataUpdate();
+        }
+    }
+
+    /**
      * 清除导入的资源，恢复到本地资源库
      */
     clearImportedResources() {
@@ -402,6 +417,9 @@ class ResourceManager {
             // 重新渲染界面
             this.renderKnowledgeSidebar();
             this.updateResourceStats();
+
+            // 通知数据更新
+            this.notifyDataUpdate();
 
             console.log('已清除导入资源，恢复到本地资源库');
 

@@ -83,9 +83,59 @@ class DialogueManager {
     async init() {
         await this.loadKnowledgeBase();
         this.addSystemMessage('系统已就绪，可以开始对话');
+        
+        // 监听资源管理器数据更新
+        this.setupResourceManagerListener();
+    }
+
+    setupResourceManagerListener() {
+        // 监听资源管理器的数据更新事件
+        if (window.resourceManager) {
+            window.resourceManager.onDataUpdate = () => {
+                this.refreshKnowledgeBase();
+            };
+        } else {
+            // 如果资源管理器还没有初始化，等待一下再设置
+            setTimeout(() => {
+                this.setupResourceManagerListener();
+            }, 100);
+        }
+    }
+
+    async refreshKnowledgeBase() {
+        try {
+            console.log('刷新知识库数据...');
+            await this.loadKnowledgeBase();
+            this.addSystemMessage('知识库已更新，可以开始新的对话');
+        } catch (error) {
+            console.error('刷新知识库失败:', error);
+        }
     }
 
     async loadKnowledgeBase() {
+        try {
+            // 从资源管理器获取当前资源数据
+            if (window.resourceManager && window.resourceManager.resources) {
+                this.knowledgeBase = { ...window.resourceManager.resources };
+                console.log('从资源管理器加载知识库数据');
+                
+                // 统计各分类的资源数量
+                for (const [category, resources] of Object.entries(this.knowledgeBase)) {
+                    console.log(`知识库 ${category}，共 ${Object.keys(resources).length} 项`);
+                }
+            } else {
+                // 如果资源管理器不可用，回退到本地加载
+                console.log('资源管理器不可用，回退到本地知识库加载');
+                await this.loadLocalKnowledgeBase();
+            }
+        } catch (error) {
+            console.error('加载知识库失败:', error);
+            // 出错时也回退到本地加载
+            await this.loadLocalKnowledgeBase();
+        }
+    }
+
+    async loadLocalKnowledgeBase() {
         try {
             const categories = ['traditionalFoods', 'traditionalCrafts', 'traditionalOpera', 'traditionalFestivals', 'traditionalMedicine', 'traditionalArchitecture'];
             
@@ -95,16 +145,16 @@ class DialogueManager {
                     if (response.ok) {
                         const data = await response.json();
                         this.knowledgeBase[category] = data.resources;
-                        console.log(`成功加载 ${category} 知识库，共 ${Object.keys(data.resources).length} 项`);
+                        console.log(`成功加载本地 ${category} 知识库，共 ${Object.keys(data.resources).length} 项`);
                     } else {
-                        console.warn(`无法加载 ${category} 知识库: ${response.status}`);
+                        console.warn(`无法加载本地 ${category} 知识库: ${response.status}`);
                     }
                 } catch (error) {
-                    console.error(`加载 ${category} 知识库失败:`, error);
+                    console.error(`加载本地 ${category} 知识库失败:`, error);
                 }
             }
         } catch (error) {
-            console.error('加载知识库失败:', error);
+            console.error('加载本地知识库失败:', error);
         }
     }
 

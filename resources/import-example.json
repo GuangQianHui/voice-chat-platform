@@ -1,0 +1,72 @@
+{
+  "category": "traditionalArchitecture",
+  "name": "传统建筑示例",
+  "resources": {
+    "示例建筑1": {
+      "id": "示例建筑1",
+      "title": "示例建筑1",
+      "description": "这是一个示例建筑，用于展示导入文件的格式",
+      "content": "这是一个示例建筑，用于展示导入文件的格式。您可以按照这个格式创建自己的资源文件。",
+      "category": "traditionalArchitecture",
+      "tags": [
+        "示例",
+        "建筑",
+        "导入",
+        "格式"
+      ],
+      "keywords": [
+        "示例建筑1",
+        "示例",
+        "建筑",
+        "导入",
+        "格式",
+        "传统建筑"
+      ],
+      "history": "这是一个示例建筑的历史信息。",
+      "technique": "这是一个示例建筑的工艺技术信息。",
+      "features": "这是一个示例建筑的特色亮点信息。",
+      "funFact": "这是一个示例建筑的趣闻轶事信息。",
+      "media": [],
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "updatedAt": "2025-01-01T00:00:00.000Z",
+      "type": "traditionalArchitecture",
+      "icon": "fa-building"
+    },
+    "示例建筑2": {
+      "id": "示例建筑2",
+      "title": "示例建筑2",
+      "description": "另一个示例建筑，展示更多格式细节",
+      "content": "另一个示例建筑，展示更多格式细节。每个资源都需要包含完整的字段信息。",
+      "category": "traditionalArchitecture",
+      "tags": [
+        "示例",
+        "建筑",
+        "格式",
+        "说明"
+      ],
+      "keywords": [
+        "示例建筑2",
+        "示例",
+        "建筑",
+        "格式",
+        "说明",
+        "传统建筑"
+      ],
+      "history": "另一个示例建筑的历史信息。",
+      "technique": "另一个示例建筑的工艺技术信息。",
+      "features": "另一个示例建筑的特色亮点信息。",
+      "funFact": "另一个示例建筑的趣闻轶事信息。",
+      "media": [],
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "updatedAt": "2025-01-01T00:00:00.000Z",
+      "type": "traditionalArchitecture",
+      "icon": "fa-building"
+    }
+  },
+  "lastUpdated": "2025-01-01T00:00:00.000Z",
+  "metadata": {
+    "totalResources": 2,
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "updatedAt": "2025-01-01T00:00:00.000Z"
+  }
+}

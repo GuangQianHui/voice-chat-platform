@@ -1,46 +1,43 @@
-# 智能语音助手 - AI 对话平台
+# 语音交流平台
 
-<div align="center">
+一个基于 Web 的 AI 智能语音对话平台，支持语音识别、语音合成和知识库管理。
 
-![智能语音助手](favicon.svg)
+## 🌟 功能特性
 
-**AI 驱动的智能语音交互平台，让交流更自然、更智能**
+### 🎤 语音交互
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/voice-assistant?style=social)](https://github.com/yourusername/voice-assistant)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/voice-assistant?style=social)](https://github.com/yourusername/voice-assistant)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/voice-assistant)](https://github.com/yourusername/voice-assistant/issues)
-[![GitHub license](https://img.shields.io/github/license/yourusername/voice-assistant)](https://github.com/yourusername/voice-assistant/blob/main/LICENSE)
+- **语音识别**：实时语音转文字，支持中文识别
+- **语音合成**：自然语音播放，多种语音选择
+- **智能对话**：AI 驱动的对话系统，支持上下文理解
 
-[在线演示](https://your-demo-url.com) | [文档](https://your-docs-url.com) | [问题反馈](https://github.com/yourusername/voice-assistant/issues)
+### 📚 知识库管理
 
-</div>
+- **分类浏览**：传统美食、工艺、戏曲、节日、医药、建筑等分类
+- **资源导入**：支持 JSON 格式资源文件导入
+- **搜索功能**：快速搜索和筛选知识条目
+- **媒体支持**：图片、视频、音频文件管理
 
-## ✨ 功能特性
+### 🎨 用户界面
 
-- 🎤 **智能语音识别** - 高精度语音转文字，支持多种语言
-- 🤖 **AI 智能对话** - 基于先进 NLP 技术的自然语言处理
-- 💬 **实时语音交互** - 低延迟的语音对话体验
-- 📱 **响应式设计** - 完美适配桌面和移动设备
-- 🎨 **数字人形象** - 生动的 AI 助手视觉呈现
-- 📚 **知识库管理** - 丰富的传统文化知识资源
-- 🔄 **对话历史** - 完整的对话记录和回顾功能
-- ⚡ **高性能** - 优化的前端架构，流畅的用户体验
+- **现代化设计**：美观的渐变背景和动画效果
+- **响应式布局**：适配各种屏幕尺寸
+- **深色模式**：支持系统主题切换
+- **实时状态**：系统状态监控和反馈
 
 ## 🚀 快速开始
 
 ### 环境要求
 
-- Node.js 14.0+
-- 现代浏览器（Chrome 80+, Firefox 75+, Safari 13+）
-- 麦克风权限（用于语音输入）
+- Node.js 20.0+
+- 现代浏览器（Chrome、Firefox、Safari、Edge）
 
-### 安装运行
+### 安装步骤
 
 1. **克隆项目**
 
 ```bash
-git clone https://github.com/yourusername/voice-assistant.git
-cd voice-assistant
+git clone https://github.com/your-username/voice-chat-platform.git
+cd voice-chat-platform
 ```
 
 2. **安装依赖**
@@ -49,230 +46,157 @@ cd voice-assistant
 npm install
 ```
 
-3. **启动开发服务器**
+3. **启动服务器**
 
 ```bash
 npm start
 ```
 
 4. **访问应用**
-   打开浏览器访问 `http://localhost:3000`
-
-### Docker 部署
-
-```bash
-# 构建镜像
-docker build -t voice-assistant .
-
-# 运行容器
-docker run -p 3000:3000 voice-assistant
-
-# 使用 Docker Compose
-docker-compose up -d
-```
+   打开浏览器访问 `http://localhost:25812`
 
 ## 📁 项目结构
 
 ```
 语音交流平台/
 ├── css/                    # 样式文件
-│   ├── styles.css         # 主样式文件
-│   └── tailwind-fallback.css
-├── js/                    # JavaScript 文件
-│   ├── main.js           # 主逻辑文件
-│   ├── audio/            # 音频处理模块
+│   └── styles.css         # 主样式文件
+├── js/                    # JavaScript文件
+│   ├── main.js           # 主应用文件
+│   ├── speech/           # 语音相关模块
+│   │   ├── speechRecognition.js
+│   │   └── naturalSpeechSynthesis.js
 │   ├── managers/         # 管理器模块
-│   └── speech/           # 语音处理模块
-├── images/               # 图片资源
+│   │   ├── dialogueManager.js
+│   │   ├── resourceManager.js
+│   │   ├── systemMonitor.js
+│   │   ├── dataStorageManager.js
+│   │   └── historyManager.js
+│   └── audio/            # 音频处理
+│       └── audioManager.js
 ├── resources/            # 资源文件
-│   ├── audio/           # 音频文件
-│   ├── images/          # 图片文件
-│   ├── videos/          # 视频文件
 │   └── knowledge/       # 知识库数据
-├── index.html           # 主页面
+├── images/              # 图片资源
 ├── server.js            # 服务器文件
-├── package.json         # 项目配置
-├── docker-compose.yml   # Docker 配置
-└── README.md           # 项目说明
+├── index.html           # 主页面
+└── package.json         # 项目配置
 ```
 
-## 🛠️ 技术栈
+## 🔧 配置说明
 
-### 前端技术
+### 语音设置
 
-- **HTML5** - 语义化标记
-- **CSS3** - 现代样式设计
-- **JavaScript ES6+** - 核心逻辑
-- **Tailwind CSS** - 实用优先的 CSS 框架
-- **Font Awesome** - 图标库
+- 语音识别开关
+- 语音合成开关
+- 自动播放设置
 
-### 后端技术
+### 界面设置
 
-- **Node.js** - 服务器运行环境
-- **Express.js** - Web 应用框架
-- **WebSocket** - 实时通信
+- 深色模式切换
+- 动画效果控制
+- 自动保存设置
 
-### 语音技术
+### 资源管理
 
-- **Web Speech API** - 语音识别和合成
-- **MediaRecorder API** - 音频录制
-- **AudioContext** - 音频处理
-
-### 部署技术
-
-- **Docker** - 容器化部署
-- **Nginx** - 反向代理
-- **PM2** - 进程管理
-
-## 🎯 核心功能
-
-### 语音交互
-
-- 实时语音识别
-- 智能语音合成
-- 多语言支持
-- 噪音抑制
-
-### AI 对话
-
-- 自然语言理解
-- 上下文记忆
-- 智能回复生成
-- 情感分析
-
-### 知识库
-
-- 传统文化知识
-- 多媒体资源管理
-- 分类导航
-- 搜索功能
-
-### 用户体验
-
-- 响应式界面
-- 暗色主题
-- 动画效果
-- 无障碍支持
+- 支持导入 JSON 格式资源文件
+- 支持拖拽上传
+- 资源分类管理
 
 ## 📖 使用指南
 
 ### 语音对话
 
-1. 点击麦克风按钮开始录音
-2. 说出您的问题或需求
-3. 系统自动识别并生成回复
-4. 可选择文字或语音输出
+1. 点击麦克风按钮开始语音识别
+2. 说话完成后自动识别并发送
+3. 系统会以语音形式回复
 
 ### 文字对话
 
 1. 在输入框中输入文字
-2. 按回车键或点击发送按钮
-3. AI 助手会智能回复
-4. 支持多轮对话
+2. 按 Enter 键或点击发送按钮
+3. 系统会以语音形式回复
 
-### 知识库浏览
+### 知识库管理
 
-1. 点击"资源管理"按钮
-2. 选择感兴趣的知识分类
-3. 浏览相关内容和媒体资源
-4. 与 AI 助手讨论相关内容
+1. 点击导航栏的"资源管理"按钮
+2. 在资源管理页面进行资源操作
+3. 支持添加、编辑、删除资源
 
-## 🔧 配置说明
+## 🛠️ 开发指南
 
-### 环境变量
+### 添加新功能
 
-```bash
-# 服务器配置
-PORT=3000
-NODE_ENV=production
+1. 在相应的模块文件中添加功能
+2. 更新 CSS 样式文件
+3. 在 main.js 中绑定事件
+4. 测试功能完整性
 
-# 语音API配置
-SPEECH_API_KEY=your_api_key
-SPEECH_API_REGION=your_region
+### 自定义样式
 
-# 数据库配置
-DB_HOST=localhost
-DB_PORT=27017
-DB_NAME=voice_assistant
-```
+- 修改 `css/styles.css` 文件
+- 支持 CSS 变量自定义主题
+- 响应式设计适配
 
-### 自定义配置
+### 扩展知识库
 
-编辑 `config.js` 文件来自定义应用配置：
+- 在 `resources/knowledge/` 目录下添加分类
+- 创建对应的 JSON 数据文件
+- 更新资源管理器配置
+
+## 📝 API 文档
+
+### 语音识别 API
 
 ```javascript
-const config = {
-  // 语音设置
-  speech: {
-    language: "zh-CN",
-    voice: "zh-CN-XiaoxiaoNeural",
-    rate: 1.0,
-    pitch: 1.0,
-  },
+// 初始化语音识别
+const speechRecognition = new SpeechRecognitionSystem();
 
-  // AI设置
-  ai: {
-    model: "gpt-3.5-turbo",
-    temperature: 0.7,
-    maxTokens: 1000,
-  },
+// 开始识别
+speechRecognition.start();
 
-  // 界面设置
-  ui: {
-    theme: "dark",
-    language: "zh-CN",
-    animations: true,
-  },
-};
+// 监听识别结果
+speechRecognition.onResult((transcript) => {
+  console.log("识别结果:", transcript);
+});
+```
+
+### 资源管理 API
+
+```javascript
+// 初始化资源管理器
+const resourceManager = new ResourceManager();
+
+// 导入资源文件
+resourceManager.importResourceFile(file);
+
+// 获取资源列表
+const resources = resourceManager.getResources();
 ```
 
 ## 🤝 贡献指南
 
-我们欢迎所有形式的贡献！
-
-### 如何贡献
-
-1. Fork 本仓库
-2. 创建特性分支 (`git checkout -b feature/AmazingFeature`)
+1. Fork 项目
+2. 创建功能分支 (`git checkout -b feature/AmazingFeature`)
 3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
 4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 开启 Pull Request
-
-### 开发规范
-
-- 遵循 ESLint 代码规范
-- 编写清晰的提交信息
-- 添加必要的测试用例
-- 更新相关文档
+5. 打开 Pull Request
 
 ## 📄 许可证
 
-本项目采用 [MIT 许可证](LICENSE) - 查看 [LICENSE](LICENSE) 文件了解详情。
+本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情
 
 ## 🙏 致谢
 
-- [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API) - 语音识别和合成
-- [Tailwind CSS](https://tailwindcss.com/) - CSS 框架
-- [Font Awesome](https://fontawesome.com/) - 图标库
-- [OpenAI](https://openai.com/) - AI 模型支持
+- 感谢所有贡献者的支持
+- 感谢开源社区提供的技术栈
+- 感谢用户的使用和反馈
 
-## 📞 联系我们
+## 📞 联系方式
 
-- **项目主页**: [https://github.com/yourusername/voice-assistant](https://github.com/yourusername/voice-assistant)
-- **问题反馈**: [Issues](https://github.com/yourusername/voice-assistant/issues)
-- **邮箱**: your-email@example.com
-- **微信**: your-wechat-id
-
-## ⭐ 支持我们
-
-如果这个项目对您有帮助，请给我们一个 ⭐ Star！
+- 项目主页：[GitHub Repository](https://github.com/your-username/voice-chat-platform)
+- 问题反馈：[Issues](https://github.com/your-username/voice-chat-platform/issues)
+- 邮箱：your-email@example.com
 
 ---
 
-<div align="center">
-
-**让 AI 语音助手成为您的智能伙伴**
-
-Made with ❤️ by [Your Name](https://github.com/yourusername)
-
-</div>
+⭐ 如果这个项目对您有帮助，请给我们一个星标！

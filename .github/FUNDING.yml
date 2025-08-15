@@ -1,0 +1,15 @@
+# 这些是支持的开源赞助平台
+
+github: [your-username] # 用您的GitHub用户名替换
+patreon: your-patreon-username # 用您的Patreon用户名替换
+open_collective: your-collective-name # 用您的Open Collective组织名替换
+ko_fi: your-ko-fi-username # 用您的Ko-fi用户名替换
+tidelift: your-tidelift-username # 用您的Tidelift用户名替换
+community_bridge: your-community-bridge-username # 用您的Community Bridge用户名替换
+liberapay: your-liberapay-username # 用您的Liberapay用户名替换
+issuehunt: your-issuehunt-username # 用您的IssueHunt用户名替换
+otechie: your-otechie-username # 用您的Otechie用户名替换
+custom: ["https://your-custom-sponsor-link.com"] # 自定义赞助链接
+
+# 或者，如果您想使用自定义链接，可以这样配置：
+# custom: ["https://your-sponsor-link.com", "https://another-sponsor-link.com"]

@@ -25,8 +25,12 @@ class VoiceChatApp {
             
             this.speechRecognition = new SpeechRecognitionSystem();
             this.speechSynthesis = new NaturalSpeechSynthesis();
-            this.dialogueManager = new DialogueManager();
             this.resourceManager = new ResourceManager();
+            
+            // 将资源管理器暴露到全局，供其他模块使用
+            window.resourceManager = this.resourceManager;
+            
+            this.dialogueManager = new DialogueManager();
             
             // 等待历史记录管理器初始化
             await this.waitForHistoryManager();
