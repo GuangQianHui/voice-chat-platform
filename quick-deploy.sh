@@ -31,7 +31,7 @@ npm install -g pm2
 
 # 配置防火墙
 echo "正在配置防火墙..."
-firewall-cmd --permanent --add-port=3000/tcp
+firewall-cmd --permanent --add-port=25812/tcp
 firewall-cmd --reload
 
 # 下载项目
@@ -53,7 +53,7 @@ mkdir -p logs uploads conversations
 # 创建环境配置
 cat > .env << EOF
 NODE_ENV=production
-PORT=3000
+PORT=25812
 UPLOAD_PATH=./uploads
 MAX_FILE_SIZE=52428800
 LOG_LEVEL=info
@@ -76,10 +76,10 @@ echo "=========================================="
 echo "          部署完成！"
 echo "=========================================="
 echo "项目目录: /opt/voice-chat-platform"
-echo "应用端口: 3000"
+echo "应用端口: 25812"
 echo ""
 echo "访问地址:"
-echo "  - 应用地址: http://$SERVER_IP:3000"
+echo "  - 应用地址: http://$SERVER_IP:25812"
 echo ""
 echo "管理命令:"
 echo "  - 查看状态: pm2 status"
@@ -87,7 +87,7 @@ echo "  - 查看日志: pm2 logs voice-chat-platform"
 echo "  - 重启应用: pm2 restart voice-chat-platform"
 echo ""
 echo "注意事项:"
-echo "1. 请确保阿里云安全组已开放端口3000"
-echo "2. 应用直接运行在3000端口，无需Nginx代理"
+echo "1. 请确保阿里云安全组已开放端口25812"
+echo "2. 应用直接运行在25812端口，无需Nginx代理"
 echo "3. 建议配置域名和SSL证书"
 echo "=========================================="

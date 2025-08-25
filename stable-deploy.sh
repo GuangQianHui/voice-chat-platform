@@ -119,9 +119,9 @@ fi
 # 5. 配置防火墙
 log_info "正在配置防火墙..."
 if command -v firewall-cmd &> /dev/null; then
-    firewall-cmd --permanent --add-port=3000/tcp || {
-        log_warning "防火墙配置失败，请手动开放端口3000"
-    }
+    firewall-cmd --permanent --add-port=25812/tcp || {
+    log_warning "防火墙配置失败，请手动开放端口25812"
+}
     firewall-cmd --reload || {
         log_warning "防火墙重载失败"
     }
@@ -189,7 +189,7 @@ mkdir -p logs uploads conversations || {
 log_info "正在创建环境配置..."
 cat > .env << EOF
 NODE_ENV=production
-PORT=3000
+PORT=25812
 UPLOAD_PATH=./uploads
 MAX_FILE_SIZE=52428800
 LOG_LEVEL=info
@@ -316,13 +316,13 @@ echo "=========================================="
 log_success "部署完成！"
 echo "=========================================="
 echo "项目目录: $PROJECT_DIR"
-echo "应用端口: 3000"
+echo "应用端口: 25812"
 echo ""
 echo "访问地址:"
 if [[ "$SERVER_IP" != "无法获取IP" ]]; then
-    echo "  - 应用地址: http://$SERVER_IP:3000"
+    echo "  - 应用地址: http://$SERVER_IP:25812"
 else
-    echo "  - 应用地址: http://您的服务器IP:3000"
+    echo "  - 应用地址: http://您的服务器IP:25812"
 fi
 echo ""
 echo "管理命令:"
@@ -333,8 +333,8 @@ echo "  - 停止应用: pm2 stop voice-chat-platform"
 echo "  - 使用管理脚本: $PROJECT_DIR/manage.sh {start|stop|restart|status|logs|update}"
 echo ""
 echo "注意事项:"
-echo "1. 请确保阿里云安全组已开放端口3000"
-echo "2. 应用直接运行在3000端口，无需Nginx代理"
+echo "1. 请确保阿里云安全组已开放端口25812"
+echo "2. 应用直接运行在25812端口，无需Nginx代理"
 echo "3. 建议配置域名和SSL证书"
 echo "4. 如果遇到问题，请查看日志: pm2 logs voice-chat-platform"
 echo "=========================================="

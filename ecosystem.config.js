@@ -6,13 +6,13 @@ module.exports = {
     exec_mode: 'cluster',
     env: {
       NODE_ENV: 'development',
-      PORT: 3000,
+      PORT: 25812,
       UPLOAD_PATH: './uploads',
       MAX_FILE_SIZE: 52428800
     },
     env_production: {
       NODE_ENV: 'production',
-      PORT: 3000,
+      PORT: 25812,
       UPLOAD_PATH: './uploads',
       MAX_FILE_SIZE: 52428800
     },

@@ -36,7 +36,7 @@ PROJECT_URL="https://gitee.com/guangqianhui/voice-chat-platform.git"
 PROJECT_DIR="/opt/$PROJECT_NAME"
 NODE_VERSION="16"
 PM2_APP_NAME="voice-chat-platform"
-PORT="3000"
+PORT="25812"
 
 # 检查是否为root用户
 check_root() {
@@ -72,16 +72,60 @@ check_system() {
     fi
 }
 
+# 检查并安装基础软件
+check_and_install_basic_software() {
+    log_step "检查并安装基础软件..."
+    
+    # 检查并安装curl
+    if ! command -v curl &> /dev/null; then
+        log_info "安装curl..."
+        yum install -y curl
+    else
+        log_info "curl已安装"
+    fi
+    
+    # 检查并安装wget
+    if ! command -v wget &> /dev/null; then
+        log_info "安装wget..."
+        yum install -y wget
+    else
+        log_info "wget已安装"
+    fi
+    
+    # 检查并安装git
+    if ! command -v git &> /dev/null; then
+        log_info "安装git..."
+        yum install -y git
+    else
+        log_info "git已安装"
+    fi
+    
+    # 检查并安装vim
+    if ! command -v vim &> /dev/null; then
+        log_info "安装vim..."
+        yum install -y vim
+    else
+        log_info "vim已安装"
+    fi
+    
+    # 检查并安装htop
+    if ! command -v htop &> /dev/null; then
+        log_info "安装htop..."
+        yum install -y htop
+    else
+        log_info "htop已安装"
+    fi
+}
+
 # 更新系统
 update_system() {
     log_step "更新系统包..."
     yum update -y
-    yum install -y curl wget git vim htop
 }
 
 # 安装Node.js
 install_nodejs() {
-    log_step "安装Node.js $NODE_VERSION..."
+    log_step "检查并安装Node.js $NODE_VERSION..."
     
     # 检查Node.js是否已安装
     if command -v node &> /dev/null; then
@@ -89,18 +133,28 @@ install_nodejs() {
         log_info "Node.js已安装: $NODE_CURRENT_VERSION"
         
         # 检查版本是否满足要求
-        if [[ "$NODE_CURRENT_VERSION" == v16* ]] || [[ "$NODE_CURRENT_VERSION" == v18* ]]; then
-            log_info "Node.js版本满足要求"
+        if [[ "$NODE_CURRENT_VERSION" == v16* ]] || [[ "$NODE_CURRENT_VERSION" == v18* ]] || [[ "$NODE_CURRENT_VERSION" == v20* ]]; then
+            log_info "Node.js版本满足要求，跳过安装"
             return 0
         else
-            log_warn "Node.js版本过低，将重新安装"
+            log_warn "Node.js版本过低 ($NODE_CURRENT_VERSION)，将重新安装"
         fi
+    else
+        log_info "Node.js未安装，开始安装..."
+    fi
+    
+    # 检查npm是否已安装
+    if command -v npm &> /dev/null; then
+        NPM_CURRENT_VERSION=$(npm --version)
+        log_info "npm已安装: $NPM_CURRENT_VERSION"
     fi
     
     # 安装NodeSource仓库
+    log_info "安装NodeSource仓库..."
     curl -fsSL https://rpm.nodesource.com/setup_${NODE_VERSION}.x | bash -
     
     # 安装Node.js
+    log_info "安装Node.js..."
     yum install -y nodejs
     
     # 验证安装
@@ -112,13 +166,15 @@ install_nodejs() {
 
 # 安装PM2
 install_pm2() {
-    log_step "安装PM2..."
+    log_step "检查并安装PM2..."
     
     if command -v pm2 &> /dev/null; then
-        log_info "PM2已安装"
+        PM2_VERSION=$(pm2 --version)
+        log_info "PM2已安装: $PM2_VERSION"
         return 0
     fi
     
+    log_info "PM2未安装，开始安装..."
     npm install -g pm2
     
     # 验证安装
@@ -128,13 +184,24 @@ install_pm2() {
 
 # 安装Nginx
 install_nginx() {
-    log_step "安装Nginx..."
+    log_step "检查并安装Nginx..."
     
     if command -v nginx &> /dev/null; then
-        log_info "Nginx已安装"
+        NGINX_VERSION=$(nginx -v 2>&1)
+        log_info "Nginx已安装: $NGINX_VERSION"
+        
+        # 检查Nginx服务状态
+        if systemctl is-active --quiet nginx; then
+            log_info "Nginx服务正在运行"
+        else
+            log_warn "Nginx服务未运行，正在启动..."
+            systemctl start nginx
+            systemctl enable nginx
+        fi
         return 0
     fi
     
+    log_info "Nginx未安装，开始安装..."
     yum install -y nginx
     
     # 启动并设置开机自启
@@ -150,13 +217,37 @@ configure_firewall() {
     
     # 检查firewalld是否运行
     if systemctl is-active --quiet firewalld; then
-        firewall-cmd --permanent --add-service=http
-        firewall-cmd --permanent --add-service=https
-        firewall-cmd --permanent --add-port=$PORT/tcp
+        log_info "firewalld正在运行，配置防火墙规则..."
+        
+        # 检查端口是否已开放
+        if firewall-cmd --list-ports | grep -q "$PORT/tcp"; then
+            log_info "端口 $PORT 已开放"
+        else
+            log_info "开放端口 $PORT..."
+            firewall-cmd --permanent --add-port=$PORT/tcp
+        fi
+        
+        # 检查HTTP服务是否已开放
+        if firewall-cmd --list-services | grep -q "http"; then
+            log_info "HTTP服务已开放"
+        else
+            log_info "开放HTTP服务..."
+            firewall-cmd --permanent --add-service=http
+        fi
+        
+        # 检查HTTPS服务是否已开放
+        if firewall-cmd --list-services | grep -q "https"; then
+            log_info "HTTPS服务已开放"
+        else
+            log_info "开放HTTPS服务..."
+            firewall-cmd --permanent --add-service=https
+        fi
+        
         firewall-cmd --reload
-        log_info "防火墙规则已添加"
+        log_info "防火墙规则配置完成"
     else
         log_warn "firewalld未运行，请手动配置防火墙或安全组"
+        log_info "需要开放的端口: $PORT (TCP)"
     fi
 }
 
@@ -497,6 +588,9 @@ main() {
     
     # 更新系统
     update_system
+    
+    # 检查并安装基础软件
+    check_and_install_basic_software
     
     # 安装Node.js
     install_nodejs

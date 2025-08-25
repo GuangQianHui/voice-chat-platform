@@ -44,7 +44,7 @@ mkdir -p logs uploads conversations
 # 创建环境配置
 cat > .env << EOF
 NODE_ENV=production
-PORT=3000
+PORT=25812
 UPLOAD_PATH=./uploads
 MAX_FILE_SIZE=52428800
 LOG_LEVEL=info
@@ -74,7 +74,7 @@ echo "项目目录: /opt/voice-chat-platform"
 echo "容器名称: voice-chat-platform"
 echo ""
 echo "访问地址:"
-echo "  - 应用地址: http://$SERVER_IP:3000"
+echo "  - 应用地址: http://$SERVER_IP:25812"
 echo ""
 echo "管理命令:"
 echo "  - 查看状态: docker-compose ps"
@@ -84,7 +84,7 @@ echo "  - 停止服务: docker-compose down"
 echo "  - 更新服务: docker-compose pull && docker-compose up -d"
 echo ""
 echo "注意事项:"
-echo "1. 请确保阿里云安全组已开放端口3000"
+echo "1. 请确保阿里云安全组已开放端口25812"
 echo "2. 建议配置域名和SSL证书"
 echo "3. 数据存储在 ./uploads 和 ./conversations 目录"
 echo "=========================================="

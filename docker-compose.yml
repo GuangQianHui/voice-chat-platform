@@ -5,10 +5,10 @@ services:
     build: .
     container_name: voice-chat-platform
     ports:
-      - "3000:3000"
+      - "25812:25812"
     environment:
       - NODE_ENV=production
-      - PORT=3000
+      - PORT=25812
       - UPLOAD_PATH=./uploads
       - MAX_FILE_SIZE=52428800
     volumes:
@@ -25,7 +25,7 @@ services:
           "CMD",
           "node",
           "-e",
-          "require('http').get('http://localhost:3000/health', (res) => { process.exit(res.statusCode === 200 ? 0 : 1) })",
+          "require('http').get('http://localhost:25812/health', (res) => { process.exit(res.statusCode === 200 ? 0 : 1) })",
         ]
       interval: 30s
       timeout: 10s
