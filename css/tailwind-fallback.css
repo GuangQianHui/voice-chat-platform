@@ -1,0 +1,151 @@
+/* Tailwind CSS 备用样式 - 核心功能样式 */
+
+/* 基础样式 */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+/* Flexbox 工具类 */
+.flex { display: flex; }
+.flex-col { flex-direction: column; }
+.flex-1 { flex: 1; }
+.items-center { align-items: center; }
+.justify-center { justify-content: center; }
+.space-x-4 > * + * { margin-left: 1rem; }
+.space-y-4 > * + * { margin-top: 1rem; }
+
+/* 尺寸工具类 */
+.w-full { width: 100%; }
+.h-screen { height: 100vh; }
+.w-1\/3 { width: 33.333333%; }
+.w-1\/4 { width: 25%; }
+.flex-1 { flex: 1 1 0%; }
+
+/* 间距工具类 */
+.p-4 { padding: 1rem; }
+.px-4 { padding-left: 1rem; padding-right: 1rem; }
+.py-3 { padding-top: 0.75rem; padding-bottom: 0.75rem; }
+.mt-4 { margin-top: 1rem; }
+.mb-4 { margin-bottom: 1rem; }
+.ml-3 { margin-left: 0.75rem; }
+
+/* 背景色工具类 */
+.bg-gray-800 { background-color: rgba(255, 107, 107, 0.9); }
+.bg-gray-700 { background-color: rgba(255, 107, 107, 0.8); }
+.bg-gray-600 { background-color: rgba(255, 107, 107, 0.7); }
+.bg-gray-900 { background-color: rgba(255, 142, 142, 0.95); }
+
+/* 文字颜色工具类 */
+.text-white { color: #2C1810; }
+.text-gray-300 { color: #4A2C1A; }
+.text-gray-400 { color: #8B4513; }
+.text-gray-700 { color: #A0522D; }
+
+/* 边框工具类 */
+.border { border-width: 1px; }
+.border-gray-700 { border-color: rgba(255, 107, 107, 0.6); }
+.border-gray-600 { border-color: rgba(255, 107, 107, 0.4); }
+.border-r { border-right-width: 1px; }
+.border-l { border-left-width: 1px; }
+.border-b { border-bottom-width: 1px; }
+
+/* 圆角工具类 */
+.rounded-lg { border-radius: 0.5rem; }
+.rounded-full { border-radius: 9999px; }
+
+/* 字体工具类 */
+.text-lg { font-size: 1.125rem; }
+.text-xl { font-size: 1.25rem; }
+.text-sm { font-size: 0.875rem; }
+.text-xs { font-size: 0.75rem; }
+.font-semibold { font-weight: 600; }
+.font-medium { font-weight: 500; }
+
+/* 定位工具类 */
+.relative { position: relative; }
+.absolute { position: absolute; }
+.fixed { position: fixed; }
+.inset-0 { top: 0; right: 0; bottom: 0; left: 0; }
+
+/* 变换工具类 */
+.transform { transform: translateZ(0); }
+.translate-y-1\/2 { transform: translateY(50%); }
+.translate-y-negative-1\/2 { transform: translateY(-50%); }
+
+/* 过渡工具类 */
+.transition-all { transition-property: all; }
+.transition-colors { transition-property: color, background-color, border-color; }
+.duration-300 { transition-duration: 300ms; }
+
+/* 溢出工具类 */
+.overflow-y-auto { overflow-y: auto; }
+.overflow-hidden { overflow: hidden; }
+
+/* 显示工具类 */
+.hidden { display: none; }
+.inline-flex { display: inline-flex; }
+
+/* 渐变工具类 */
+.bg-gradient-to-r { background-image: linear-gradient(to right, var(--tw-gradient-stops)); }
+.from-red-500 { --tw-gradient-from: #FF6B6B; --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 107, 107, 0)); }
+.to-red-600 { --tw-gradient-to: #FF8E8E; }
+.from-gray-900 { --tw-gradient-from: #FF6B6B; --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 107, 107, 0)); }
+.via-gray-800 { --tw-gradient-stops: var(--tw-gradient-from), rgba(255, 107, 107, 0.9), var(--tw-gradient-to, rgba(255, 107, 107, 0)); }
+.to-gray-900 { --tw-gradient-to: #FF6B6B; }
+
+/* 阴影工具类 */
+.shadow-lg { box-shadow: 0 10px 15px -3px rgba(255, 107, 107, 0.2), 0 4px 6px -2px rgba(255, 107, 107, 0.15); }
+
+/* 响应式工具类 */
+@media (max-width: 768px) {
+    .md\:hidden { display: none; }
+}
+
+/* 焦点状态 */
+.focus\:outline-none:focus { outline: 2px solid transparent; outline-offset: 2px; }
+.focus\:border-red-500:focus { border-color: #ef4444; }
+
+/* 悬停状态 */
+.hover\:from-red-600:hover { --tw-gradient-from: #FF8E8E; --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 142, 142, 0)); }
+.hover\:to-red-700:hover { --tw-gradient-to: #FF6B6B; }
+.hover\:bg-gray-600:hover { background-color: rgba(255, 107, 107, 0.3); }
+.hover\:text-red-500:hover { color: #FF6B6B; }
+.hover\:text-white:hover { color: #2C1810; }
+
+/* 侧边栏折叠相关样式 */
+.justify-between { justify-content: space-between; }
+.items-center { align-items: center; }
+.transition-all { transition-property: all; }
+.duration-300 { transition-duration: 300ms; }
+.overflow-hidden { overflow: hidden; }
+.relative { position: relative; }
+.absolute { position: absolute; }
+.z-10 { z-index: 10; }
+.z-50 { z-index: 50; }
+.z-1000 { z-index: 1000; }
+.opacity-0 { opacity: 0; }
+.pointer-events-none { pointer-events: none; }
+.whitespace-nowrap { white-space: nowrap; }
+
+/* 历史记录相关样式 */
+.space-x-2 > * + * { margin-left: 0.5rem; }
+.space-y-2 > * + * { margin-top: 0.5rem; }
+.min-w-0 { min-width: 0; }
+.truncate { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.cursor-pointer { cursor: pointer; }
+.hover\:bg-gray-600:hover { background-color: #4b5563; }
+.text-blue-400 { color: #60a5fa; }
+.text-green-400 { color: #4ade80; }
+.mt-1 { margin-top: 0.25rem; }
+.mb-2 { margin-bottom: 0.5rem; }
+.mb-4 { margin-bottom: 1rem; }
+.mx-4 { margin-left: 1rem; margin-right: 1rem; }
+.leading-relaxed { line-height: 1.625; }
+.max-w-2xl { max-width: 42rem; }
+.max-h-96 { max-height: 24rem; }

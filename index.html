@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>语音交流平台</title>
+    <link href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link href="http://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" rel="stylesheet" onerror="this.onerror=null;this.href='css/tailwind-fallback.css';">
+    <link rel="stylesheet" href="css/styles.css?v=20240116">
+    <link rel="stylesheet" href="css/markdown.css?v=20240116">
+    <link rel="stylesheet" href="css/conversation-panel.css?v=20240142">
+</head>
+<body class="min-h-screen">
+    <!-- 网站标识区域 -->
+    <div class="website-header">
+        <div class="header-content">
+            <div class="logo-container">
+                <div class="logo-icon">
+                    <i class="fas fa-comments"></i>
+                </div>
+                <div class="logo-text">
+                    <h1 class="logo-title">语音交流平台</h1>
+                    <p class="logo-subtitle">AI智能对话 · 语音交互</p>
+                </div>
+            </div>
+            <div class="header-actions">
+                <button id="conversation-history-btn" class="header-btn conversation-history-btn" data-tooltip="对话历史">
+                    <i class="fas fa-history"></i>
+                    <span>对话历史</span>
+                </button>
+                <button id="resource-manager-btn" class="header-btn resource-manager-btn" data-tooltip="资源管理">
+                    <i class="fas fa-database"></i>
+                    <span>资源管理</span>
+                </button>
+                <div class="version-info">
+                    <span class="version-text">v2.0</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="main-container" class="flex h-screen">
+        <!-- 中央当前对话区域 -->
+        <div id="main-content" class="flex-1 flex flex-col relative transition-all duration-300">
+            <!-- 当前对话标题栏 -->
+            <div class="p-4 border-b border-gray-700">
+                <h2 class="text-white text-lg font-semibold">当前对话</h2>
+                <div class="text-xs text-gray-400 mt-1">实时对话记录</div>
+            </div>
+            
+            <!-- 当前对话消息区域 -->
+            <div id="messages-container" class="flex-1 overflow-y-auto p-4 space-y-4">
+                <!-- 当前对话消息将在这里动态添加 -->
+            </div>
+
+            <!-- 数字人形象 -->
+            <div class="digital-human-container">
+                <div class="digital-human-wrapper">
+                    <img id="digital-human" src="images/digital-human.gif" alt="数字人" class="digital-human">
+                    <div class="digital-human-status" id="digital-human-status">准备就绪</div>
+                </div>
+                <!-- 装饰元素 -->
+                <div class="decoration-stars"></div>
+                <div class="decoration-flowers"></div>
+            </div>
+
+            <!-- 语音输入控制区域 -->
+            <div class="input-container">
+                <div class="flex items-center space-x-4">
+                    <!-- 麦克风按钮 -->
+                    <button id="mic-btn" class="mic-button w-14 h-14 bg-gradient-to-r from-red-500 to-red-600 text-white rounded-full shadow-lg hover:from-red-600 hover:to-red-700 transition-all duration-300">
+                        <i id="mic-icon" class="fas fa-microphone text-xl"></i>
+                    </button>
+                    
+                    <!-- 文字输入框 -->
+                    <div class="flex-1 relative">
+                        <input type="text" id="text-input" placeholder="输入文字消息..." 
+                               class="w-full px-4 py-3 bg-gray-700 text-white border border-gray-600 rounded-lg focus:outline-none focus:border-red-500 transition-colors">
+                        <button id="send-btn" title="发送消息">
+                            <i class="fas fa-paper-plane"></i>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- 语音识别状态 -->
+                <div id="recognition-status" class="mt-4 hidden">
+                    <div class="typing-indicator inline-flex items-center">
+                        <div class="typing-dot"></div>
+                        <div class="typing-dot"></div>
+                        <div class="typing-dot"></div>
+                        <span id="recognition-text" class="ml-3 text-gray-300">正在听取您的语音...</span>
+                    </div>
+                </div>
+
+                <!-- 语音识别结果显示 -->
+                <div id="voice-result" class="mt-4 hidden">
+                    <div class="bg-blue-50 border border-blue-200 rounded-lg p-4">
+                        <div class="flex items-center mb-2">
+                            <i class="fas fa-microphone text-blue-500 mr-2"></i>
+                            <span class="text-sm font-medium text-blue-700">语音识别结果</span>
+                        </div>
+                        <div id="voice-transcript" class="text-sm text-gray-700"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+
+               <!-- 脚本文件 -->
+           <script src="js/speech/speechRecognition.js"></script>
+           <script src="js/speech/naturalSpeechSynthesis.js"></script>
+           <script src="js/audio/audioManager.js"></script>
+           <script src="js/managers/dialogueManager.js?v=20240115"></script>
+           <script src="js/managers/resourceManager.js"></script>
+           <script src="js/managers/systemMonitor.js"></script>
+           <script src="js/managers/dataStorageManager.js"></script>
+           <script src="js/managers/historyManager.js?v=20240116"></script>
+           <script src="js/managers/conversationHistoryManager.js"></script>
+           <script src="js/managers/conversationUIManager.js"></script>
+           <script src="js/managers/timeManager.js"></script>
+           <script src="js/fix-speech-conflict.js"></script>
+           <script src="js/main.js"></script>
+</body>
+</html>

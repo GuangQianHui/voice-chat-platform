@@ -1,0 +1,24 @@
+{
+  "server": {
+    "protocol": "http",
+    "port": 25812,
+    "host": "localhost",
+    "forceHttp": true,
+    "httpsRedirect": false
+  },
+  "client": {
+    "apiBaseUrl": "http://localhost:25812",
+    "useHttps": false,
+    "cdnProtocol": "http"
+  },
+  "security": {
+    "allowMixedContent": true,
+    "requireHttps": false
+  },
+  "features": {
+    "speechRecognition": true,
+    "speechSynthesis": true,
+    "resourceManagement": true,
+    "historyManagement": true
+  }
+}
