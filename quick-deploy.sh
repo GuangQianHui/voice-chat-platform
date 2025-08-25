@@ -40,7 +40,7 @@ mkdir -p /opt
 cd /opt
 curl -fsSL -o voice-chat-platform.zip https://github.com/GuangQianHui/voice-chat-platform/archive/refs/heads/main.zip
 unzip -o voice-chat-platform.zip
-mv voice-chat-platform-main voice-chat-platform
+mv voice-chat-platform-main voice-chat-platform，，
 cd voice-chat-platform
 
 # 安装依赖
