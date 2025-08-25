@@ -61,6 +61,13 @@ EOF
 
 # 启动应用
 echo "正在启动应用..."
+
+# 停止并删除已存在的应用
+echo "清理已存在的应用..."
+pm2 stop voice-chat-platform 2>/dev/null || true
+pm2 delete voice-chat-platform 2>/dev/null || true
+
+# 启动应用
 pm2 start ecosystem.config.js --env production
 pm2 save
 pm2 startup
