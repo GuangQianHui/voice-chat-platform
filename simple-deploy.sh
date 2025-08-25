@@ -1,16 +1,16 @@
 #!/bin/bash
 
-# 语音交流平台 - 快速部署脚本
+# 语音交流平台 - 简化部署脚本（不使用Nginx）
 # 适用于阿里云服务器
 
 echo "=========================================="
-echo "    语音交流平台 - 快速部署"
+echo "    语音交流平台 - 简化部署"
 echo "=========================================="
 
 # 检查root权限
 if [[ $EUID -ne 0 ]]; then
     echo "错误: 此脚本需要root权限"
-    echo "请使用: sudo bash quick-deploy.sh"
+    echo "请使用: sudo bash simple-deploy.sh"
     exit 1
 fi
 
@@ -57,8 +57,6 @@ LOG_LEVEL=info
 LOG_PATH=./logs
 EOF
 
-
-
 # 启动应用
 echo "正在启动应用..."
 pm2 start ecosystem.config.js --env production
@@ -70,7 +68,7 @@ SERVER_IP=$(curl -s ifconfig.me)
 
 echo ""
 echo "=========================================="
-echo "          部署完成！"
+echo "          简化部署完成！"
 echo "=========================================="
 echo "项目目录: /opt/voice-chat-platform"
 echo "应用端口: 3000"
@@ -82,6 +80,7 @@ echo "管理命令:"
 echo "  - 查看状态: pm2 status"
 echo "  - 查看日志: pm2 logs voice-chat-platform"
 echo "  - 重启应用: pm2 restart voice-chat-platform"
+echo "  - 停止应用: pm2 stop voice-chat-platform"
 echo ""
 echo "注意事项:"
 echo "1. 请确保阿里云安全组已开放端口3000"
