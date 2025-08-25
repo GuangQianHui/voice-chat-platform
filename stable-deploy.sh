@@ -67,7 +67,7 @@ yum update -y || {
 
 # 2. 安装基础软件
 log_info "正在安装基础软件..."
-yum install -y curl wget git epel-release || {
+yum install -y curl wget unzip epel-release || {
     log_error "基础软件安装失败"
     exit 1
 }
@@ -137,20 +137,27 @@ mkdir -p $PROJECT_DIR || {
     exit 1
 }
 
-# 7. 克隆或更新项目
+# 7. 下载项目压缩包
 cd $PROJECT_DIR
-if [[ -d ".git" ]]; then
-    log_info "项目已存在，正在更新..."
-    git pull origin main || {
-        log_warning "项目更新失败，继续使用现有代码..."
-    }
-else
-    log_info "正在克隆项目..."
-    git clone https://github.com/GuangQianHui/voice-chat-platform.git . || {
-        log_error "项目克隆失败"
-        exit 1
-    }
-fi
+log_info "正在下载项目压缩包..."
+curl -fsSL -o voice-chat-platform.zip https://github.com/GuangQianHui/voice-chat-platform/archive/refs/heads/main.zip || {
+    log_error "项目压缩包下载失败"
+    exit 1
+}
+
+log_info "正在解压项目文件..."
+unzip -o voice-chat-platform.zip || {
+    log_error "项目解压失败"
+    exit 1
+}
+
+# 移动文件到正确位置
+log_info "正在整理项目文件..."
+cp -r voice-chat-platform-main/* . 2>/dev/null || true
+cp -r voice-chat-platform-main/.* . 2>/dev/null || true
+
+# 清理临时文件
+rm -rf voice-chat-platform-main voice-chat-platform.zip
 
 # 8. 检查必要文件
 log_info "正在检查项目文件..."
@@ -288,9 +295,11 @@ case "$1" in
         ;;
     update)
         echo "更新应用..."
-        git pull origin main
-        npm install --production
-        pm2 restart voice-chat-platform
+        echo "正在下载更新脚本..."
+        curl -fsSL https://raw.githubusercontent.com/GuangQianHui/voice-chat-platform/main/update-project.sh -o /tmp/update-project.sh
+        chmod +x /tmp/update-project.sh
+        bash /tmp/update-project.sh
+        rm -f /tmp/update-project.sh
         ;;
     *)
         echo "用法: $0 {start|stop|restart|status|logs|update}"

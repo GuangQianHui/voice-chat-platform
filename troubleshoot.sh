@@ -174,7 +174,7 @@ if ! command -v pm2 &> /dev/null; then
 fi
 
 if [[ ! -d "$PROJECT_DIR" ]]; then
-    echo "3. 重新部署项目: git clone https://github.com/GuangQianHui/voice-chat-platform.git $PROJECT_DIR"
+    echo "3. 重新部署项目: 下载并解压项目压缩包到 $PROJECT_DIR"
 fi
 
 if ! netstat -tlnp | grep :3000 &> /dev/null; then

@@ -17,7 +17,7 @@ fi
 # 安装基础软件
 echo "正在安装基础软件..."
 yum update -y
-yum install -y curl wget git
+yum install -y curl wget unzip
 
 # 安装Node.js
 echo "正在安装Node.js..."
@@ -33,11 +33,13 @@ echo "正在配置防火墙..."
 firewall-cmd --permanent --add-port=3000/tcp
 firewall-cmd --reload
 
-# 克隆项目
-echo "正在克隆项目..."
+# 下载项目
+echo "正在下载项目..."
 mkdir -p /opt
 cd /opt
-git clone https://github.com/GuangQianHui/voice-chat-platform.git
+curl -fsSL -o voice-chat-platform.zip https://github.com/GuangQianHui/voice-chat-platform/archive/refs/heads/main.zip
+unzip -o voice-chat-platform.zip
+mv voice-chat-platform-main voice-chat-platform
 cd voice-chat-platform
 
 # 安装依赖
