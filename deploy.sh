@@ -32,7 +32,7 @@ log_step() {
 
 # 配置变量
 PROJECT_NAME="voice-chat-platform"
-PROJECT_URL="https://github.com/GuangQianHui/voice-chat-platform.git"
+PROJECT_URL="https://gitee.com/guangqianhui/voice-chat-platform.git"
 PROJECT_DIR="/opt/$PROJECT_NAME"
 NODE_VERSION="16"
 PM2_APP_NAME="voice-chat-platform"

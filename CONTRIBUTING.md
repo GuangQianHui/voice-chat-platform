@@ -40,7 +40,7 @@
 1. Fork 项目到您的 GitHub 账户
 2. 克隆您的 Fork 到本地：
    ```bash
-   git clone https://github.com/GuangQianHui/voice-chat-platform.git
+   git clone https://gitee.com/guangqianhui/voice-chat-platform.git
    cd voice-chat-platform
    ```
 3. 添加原项目作为上游：

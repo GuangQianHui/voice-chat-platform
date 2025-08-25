@@ -149,7 +149,7 @@ firewall-cmd --reload
 # 克隆项目
 mkdir -p /opt
 cd /opt
-git clone https://github.com/GuangQianHui/voice-chat-platform.git
+git clone https://gitee.com/guangqianhui/voice-chat-platform.git
 cd voice-chat-platform
 
 # 安装依赖

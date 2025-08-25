@@ -140,7 +140,7 @@ mkdir -p $PROJECT_DIR || {
 # 7. 下载项目压缩包
 cd $PROJECT_DIR
 log_info "正在下载项目压缩包..."
-curl -fsSL -o voice-chat-platform.zip https://github.com/GuangQianHui/voice-chat-platform/archive/refs/heads/main.zip || {
+curl -fsSL -o voice-chat-platform.zip https://gitee.com/guangqianhui/voice-chat-platform/repository/archive/main.zip || {
     log_error "项目压缩包下载失败"
     exit 1
 }

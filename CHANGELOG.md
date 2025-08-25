@@ -55,5 +55,5 @@
 
 ## 链接
 
-- [GitHub Releases](https://github.com/GuangQianHui/voice-chat-platform/releases)
-- [项目主页](https://github.com/GuangQianHui/voice-chat-platform)
+- [码云 Releases](https://gitee.com/guangqianhui/voice-chat-platform/releases)
+- [项目主页](https://gitee.com/guangqianhui/voice-chat-platform)

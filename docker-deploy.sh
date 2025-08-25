@@ -35,7 +35,7 @@ firewall-cmd --reload
 echo "正在克隆项目..."
 mkdir -p /opt
 cd /opt
-git clone https://github.com/GuangQianHui/voice-chat-platform.git
+git clone https://gitee.com/guangqianhui/voice-chat-platform.git
 cd voice-chat-platform
 
 # 创建必要目录

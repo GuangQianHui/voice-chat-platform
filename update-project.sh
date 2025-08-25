@@ -69,7 +69,7 @@ pm2 stop voice-chat-platform 2>/dev/null || log_warning "应用未运行"
 # 下载新版本
 log_info "正在下载最新版本..."
 cd /tmp
-curl -fsSL -o voice-chat-platform.zip https://github.com/GuangQianHui/voice-chat-platform/archive/refs/heads/main.zip || {
+curl -fsSL -o voice-chat-platform.zip https://gitee.com/guangqianhui/voice-chat-platform/repository/archive/main.zip || {
     log_error "下载失败"
     exit 1
 }

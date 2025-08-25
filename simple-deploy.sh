@@ -37,7 +37,7 @@ firewall-cmd --reload
 echo "正在下载项目..."
 mkdir -p /opt
 cd /opt
-curl -fsSL -o voice-chat-platform.zip https://github.com/GuangQianHui/voice-chat-platform/archive/refs/heads/main.zip
+curl -fsSL -o voice-chat-platform.zip https://gitee.com/guangqianhui/voice-chat-platform/repository/archive/main.zip
 unzip -o voice-chat-platform.zip
 mv voice-chat-platform-main voice-chat-platform
 cd voice-chat-platform

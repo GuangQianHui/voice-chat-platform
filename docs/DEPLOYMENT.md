@@ -22,7 +22,7 @@
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/GuangQianHui/voice-chat-platform.git
+git clone https://gitee.com/guangqianhui/voice-chat-platform.git
 cd voice-chat-platform
 ```
 

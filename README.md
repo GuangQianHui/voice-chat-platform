@@ -22,7 +22,7 @@
 1. 克隆项目
 
 ```bash
-git clone https://github.com/GuangQianHui/voice-chat-platform.git
+git clone https://gitee.com/guangqianhui/voice-chat-platform.git
 cd voice-chat-platform
 ```
 
@@ -138,7 +138,7 @@ voice-chat-platform/
 
 如有问题或建议，请通过以下方式联系：
 
-- 项目 Issues: [GitHub Issues](https://github.com/GuangQianHui/voice-chat-platform/issues)
+- 项目 Issues: [码云 Issues](https://gitee.com/guangqianhui/voice-chat-platform/issues)
 - 邮箱: xuqiguang9@gmail.com
 
 ---
